@@ -40,7 +40,7 @@ Throughout this document, "line N" means the TV line number and "row N" means th
 | Plain-text source/section IDs in data word 4 of lines 16/329 | almost all tapes carrying the data line, 1985–1995 | "Source identification in plain text" (line 16, e.g. `WDR-KLN`, `SFB-SCHO`, `RIAS-TV`) and "section identification" (line 329, e.g. `DBP-FTZ` of the Deutsche Bundespost) |
 | 4-bit source code in data word 3 | same | a numeric code per broadcaster (WDR 9, NDR C, ZDF 5, …) |
 | VPS test cycle | ARD/ZDF 1983–1985 | a fixed 30-minute cycle of fake programme labels "11.05. 10:xx" plus the special codes, before VPS officially launched in 1985 |
-| 1 Mbit/s biphase on lines 16/329 | East German DDR1/DFF (1980s and 1989–90), cable recordings 1989–90 | the data line of East German television: run-in, start code and a 4-bit source code |
+| 1 Mbit/s biphase on lines 16/329 | East German DDR1/DFF (1980s and 1989–90), cable recordings 1989–90 | the data line of East German television: run-in, start code and the programme number (DDR 1 / DDR 2) |
 | Data channels inside teletext (packet X/31) | ProSieben 1990 | the GIS financial data feed |
 | Early-format packet 8/30 | ZDF 1984, ARD 1982/1988, BR, RIAS-TV 1990/91 | carries a header text with date and time; useful for dating tapes |
 | Static measurement signals | line 328 (1982–87), line 323 (1986–91), line 323 on Sat.1/ProSieben | identical in every frame, no payload |
@@ -179,7 +179,12 @@ Some tapes carry a different biphase signal on lines 16 and 329. It is the data 
 | 5 | (none) | `11111111` | `11111111` |
 
 - **Byte 0** is a run-in (`FF`), and **byte 1** (`1010 0000`) is a fixed start code in both generations.
-- **The high nibble of byte 4 changes with the source.** It is `0100` in the 1980s, `1001` in 1989/April 1990 and `0101` in August 1990. In tape192_11 (DFF, 6 August 1990) it switches cleanly from `0101` to `1001` at frame 334 and stays there, and in the MKB recording it switches from `0101` to `1001` as well. That is how a source or studio identification behaves, comparable to the 4-bit source code in word 3 of the West German data line. Which code stands for which studio or programme is not known.
+- **The first three bits of byte 4 are the programme number (1 = DDR 1 / DFF 1, 2 = DDR 2 / DFF 2), sent LSB first.**
+  - `100` (read LSB first: 1) is on both recordings labelled DDR1: tape162_01 (1989) and tape191_01 (DDR 1 / DFF 1, April 1990), on 100 % of frames for 20 minutes each.
+  - `010` (2) is on the *Sekunden entscheiden* excerpt. The series ran in all its 1977, 1980 and 1986 runs on the second programme, DDR 2 ([fernsehserien.de](https://www.fernsehserien.de/sekunden-entscheiden)).
+  - In recordings that switch channels the code switches with them: in the MKB cable recording (17 April 1989) it changes from `010` to `100` at about 10:10 min (frame 15261), between segments of other channels; in tape192_11 (DFF, 6 August 1990) it changes from `010` to `100` at 13.4 s (frame 334), and the DFF teletext rotating header changes at the same moment from pages 1xx to pages 3xx. tape192_04 and PK Berlin 2 (August 1990) carry `010`, so they show DFF 2.
+  - This mapping is inferred from the recordings, not from a specification. The cleanest confirmation would be the picture of tape192_11 around 13 s.
+  - The remaining five bits of byte 4 are `00000` in the old 40-bit form and `11111` in the 1989–90 form, like the other filler bytes.
 - **Bytes 2, 3 and 5** are constant per period (`00 FF` in the 1980s, `FF FF … FF` in 1989–90). They are probably unused or reserved.
 - **Bit 4 of byte 1** (`1010 0000` vs `1010 1000`) changes only in isolated single frames, with no pattern, and almost never on the clean 1989 recording. This is a decoding uncertainty on noisier tapes, not a status flag as assumed earlier.
 
@@ -344,7 +349,7 @@ Lines 14, 15, 327 and 328 are occupied by a signal in 96–100% of frames that i
 - What are the M8/31 channel of ARD/ZDF 1996–98 (head `a1 38 2f 2f`), the M2/31 channel of RTL 1998 and the M7/31 channel of ARD 1981?
 - What is the M3 X/29 packet (head `00 c8 20 d8`) of the 1980–81 Videotext trial?
 - What does the data on lines 14/15/327/328 of Premiere 1991 contain?
-- Which studio or programme do the source codes `0100`, `1001` and `0101` of the East German data line stand for?
+- Do the remaining bits of the East German data line ever carry anything other than filler?
 - What do the individual bits of data words 5, 6 and 8–10 mean (sound data, signal content, routing)? This needs the original ARD/ZDF/IRT specification of the data line.
 
 Contributions and pointers to original documentation are welcome.

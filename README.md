@@ -17,7 +17,7 @@ This repository documents what was found in 376 captures (a first batch of 110 a
 
 - **Line 16 and line 329 are a full data line, not just VPS.** Every broadcaster sent its name in plain ASCII (`WDR-KLN`, `NDR HMBG`, `SFB-SCHO`, `RIAS-TV`, `PK-BLN-2` …) plus a 4-bit source code. On line 329 the Deutsche Bundespost identified its own network section (`DBP-FTZ`, `DBP-1`).
 - **A VPS test cycle (1983–85):** before VPS officially launched, ARD/ZDF looped a 30-minute sequence of fake programme labels ("11 May, 10:xx") and special codes.
-- **East German television had its own data line:** a 1 Mbit/s biphase signal on lines 16/329 with a run-in, a start code and a 4-bit source code, seen on DDR/DFF from the 1980s to 1990.
+- **East German television had its own data line:** a 1 Mbit/s biphase signal on lines 16/329 with a run-in, a start code and the programme number (DDR 1 or DDR 2), seen on DDR/DFF from the 1980s to 1990.
 - **Data channels in teletext:** the GIS financial feed on ProSieben 1990 (see [gis-financefeed-vbi-decoder](https://github.com/itewreed/gis-financefeed-vbi-decoder)). Apparent second channels (M5/31) on ProSieben and RTL turned out to be bit-slip artefacts of the demodulator.
 - **Early packet 8/30** with date and time in plain text. Together with teletext headers it helps date undated tapes.
 - **Static test signals** on lines 323 and 328 that flip polarity every frame; line 328 already on ZDF in 1979.
