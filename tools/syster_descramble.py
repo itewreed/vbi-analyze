@@ -14,7 +14,9 @@ Teleclub recording of March 1991 (BERICHT.md section 7.7):
   * between resets the PRBS advances once per field.
 
 Fields whose CW is unknown can be descrambled without any key with --search: all
-32768 (s, r) pairs are tried and the order giving the smoothest picture wins.
+32768 (s, r) pairs are tried and the order giving the smoothest picture wins. A new
+order is only used when it makes the field clearly smoother, so clear video is kept.
+apply also writes <out>.fields.txt (field, cw/search/kept, s, r, roughness before/after).
 
   syster_descramble.py vbi    in.tbcy cws.txt --hacktv DIR [--key 0000000000001234]
   syster_descramble.py apply  in.tbcy cws.txt out.tbcy --hacktv DIR [--chroma in.tbcc out.tbcc]
@@ -137,7 +139,17 @@ def cmd_search(a):
         s, r, sc = search(t, k, INV); out.write('%d %d %d %.0f\n' % (k, s, r, sc)); out.flush()
 
 
+COLS = np.arange(200, 1100, 9)
+
+
+def roughness(img):
+    return np.abs(np.diff(img[:, COLS].astype(np.float32), axis=0)).mean()
+
+
 def cmd_apply(a):
+    """Reorder every field that has a CW (or, with --search, a clear best order).
+    A field is left as it is when the new order is not clearly smoother, so clear
+    video before, after and between scrambled parts is never shuffled."""
     t = Tbc(a.tbc); sy = sv.Syster(a.hacktv)
     rs = resets(a.cws, t.first); RK = [r for r, _ in rs]
     O = all_orders(sy) if a.search else None; INV = np.argsort(O, axis=1) if a.search else None
@@ -145,22 +157,30 @@ def cmd_apply(a):
     if a.chroma:
         files.append((Tbc(a.chroma[0]), open(a.chroma[1], 'wb')))
     k0, k1 = map(int, a.fields.split(':')) if a.fields else (0, t.n)
-    seeds = {}; stat = {'cw': 0, 'search': 0, 'none': 0}
+    seeds = {}; stat = {'cw': 0, 'search': 0, 'kept': 0, 'none': 0}
+    log = open(a.out + '.fields.txt', 'w')
     for k in range(k0, min(k1, t.n)):
         j = np.searchsorted(RK, k, 'right') - 1
-        sr = None
-        if j >= 0 and k - RK[j] < 50:
+        sr, how = None, 'none'
+        if k > 0 and j >= 0 and k - RK[j] < 50:
             if RK[j] not in seeds:
                 seeds = {RK[j]: sy.field_seeds(rs[j][1], 50)}
-            sr = seeds[RK[j]][k - RK[j]]; stat['cw'] += 1
-        elif a.search and k > 0:
-            sr = search(t, k, INV)[:2]; stat['search'] += 1
-        else:
-            stat['none'] += 1
+            sr, how = seeds[RK[j]][k - RK[j]], 'cw'
+        elif k > 0 and a.search and roughness(t.a[k, LINE0:LINE0 + NL]) > a.min_rough:
+            sr, how = search(t, k, INV)[:2], 'search'
+        o = None
+        if sr is not None:
+            o = np.array(sy.field_order(*sr)) if O is None else O[sr[0] * 256 + sr[1]]
+            before = roughness(t.a[k, LINE0:LINE0 + NL]); tx = transmitted(t, k)
+            img = np.empty_like(tx); img[o] = tx
+            after = roughness(img)
+            if after > 0.75 * before:
+                o, how = None, 'kept'
+            log.write('%d %s %d %d %.0f %.0f\n' % (k, how, sr[0], sr[1], before, after))
+        stat[how] += 1
         for tt, fo in files:
             fld = np.array(tt.a[k])
-            if sr is not None and k > 0:
-                o = np.array(sy.field_order(*sr)) if O is None else O[sr[0] * 256 + sr[1]]
+            if o is not None:
                 img = np.empty((NL, tt.w - X0), np.uint16)
                 img[o] = transmitted(tt, k)[:, X0:]
                 fld[LINE0:LINE0 + NL, X0:] = img
@@ -179,6 +199,7 @@ def main():
     p = sub.add_parser('apply'); p.add_argument('tbc'); p.add_argument('cws'); p.add_argument('out')
     p.add_argument('--hacktv', required=True); p.add_argument('--chroma', nargs=2)
     p.add_argument('--search', action='store_true'); p.add_argument('--fields')
+    p.add_argument('--min-rough', type=float, default=3000, help='search only fields rougher than this (16-bit TBC units)')
     p.set_defaults(fn=cmd_apply)
     p = sub.add_parser('search'); p.add_argument('tbc'); p.add_argument('out')
     p.add_argument('--hacktv', required=True); p.add_argument('--fields', required=True)
