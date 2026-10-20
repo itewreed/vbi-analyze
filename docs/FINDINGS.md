@@ -41,7 +41,7 @@ Throughout this document, "line N" means the TV line number and "row N" means th
 | 4-bit source code in data word 3 | same | a numeric code per broadcaster (WDR 9, NDR C, ZDF 5, …) |
 | VPS test cycle | ARD/ZDF 1983–1985 | a fixed 30-minute cycle of fake programme labels "11.05. 10:xx" plus the special codes, before VPS officially launched in 1985 |
 | 1 Mbit/s biphase on lines 16/329 | ARD/ZDF early 1980s, East German DDR1/DFF 1989–90, Berlin cable 1990 | a static data word that does **not** match the standardised data line; origin unknown |
-| Data channels inside teletext (packet X/31) | ProSieben 1990, RTL 1995 | the GIS financial data feed and further independent data lines |
+| Data channels inside teletext (packet X/31) | ProSieben 1990 | the GIS financial data feed |
 | Early-format packet 8/30 | ZDF 1984, ARD 1982/1988, BR, RIAS-TV 1990/91 | carries a header text with date and time; useful for dating tapes |
 | Static measurement signals | line 328 (1982–87), line 323 (1986–91), line 323 on Sat.1/ProSieben | identical in every frame, no payload |
 | Internal teletext | SFB, unknown broadcaster | `SFB/ZENTRALE 2`, `VIDEOTEXT-TESTSEITE` |
@@ -178,11 +178,13 @@ That does **not** match the standardised data line, which has 15 × 8 bits at 2.
   - This is the GIS financial data feed (Independent Data Line, Format A, data channel 11).
   - It can be decoded with [gis-financefeed-vbi-decoder](https://github.com/itewreed/gis-financefeed-vbi-decoder).
   - The same tape also carries Videodat (about 2 Mbit/s NRZ) on lines 11–13 and 324–326.
-- **tape168_01 (ProSieben test):**
-  - Besides M3/31 there is a second channel, **M5/31** (72 packets, header `4b 05 …`), on lines 21, 328 and 333.
-  - One packet repeats unchanged every 4 frames (`4b055f010d9262600020060001010101…`). This looks like a control or idle packet of the same IDL system.
-  - It has not been decoded yet.
-- **tape167_03 (RTL 1995):** 57 packets of M5/31 on line 21 with changing content, so another IDL data channel. It has not been decoded.
+- **tape168_01 (ProSieben test) and tape167_03 (RTL 1995): the "M5/31 channels" are decoding artefacts, not data channels.**
+  - All of these packets (72 on ProSieben, 57 on RTL) carry exactly the same address bytes `b6 ea`. That is the GIS address `9b ea` with the first byte slipped by one bit.
+  - None of them is a valid IDL Format A packet (EN 300 708): the format type and address length bytes after the address are not valid Hamming 8/4 codes in any of them, so the CRC cannot even be checked.
+  - Re-framed by one or two bits ([tools/slipcheck.py](../tools/slipcheck.py)), the payload becomes readable:
+    - On RTL it is ordinary teletext text from the programme pages, e.g. `18.45 RT, aktuell`, `00.25 Champions League extra`, `07.00 Punkt1w` (Punkt 12), `Kojak`.
+    - On ProSieben it is text of the GIS feed, e.g. `CHEMIKAL BAnK` (Chemical Bank), `1.3725 1.3755 +.0262`, `PURES RATES`. The packet that repeats every 4 frames is most likely a slipped idle packet of the feed.
+  - So the demodulator lost or gained a bit right after the framing code, and the shifted address happened to decode as magazine 5, packet 31. Neither channel exists.
 
 ## 7. Early packet 8/30 and dating tapes
 
@@ -322,7 +324,7 @@ Lines 14, 15, 327 and 328 are occupied by a signal in 96–100% of frames that i
 
 ## 11. Open questions
 
-- What do the M5/31 data channels on ProSieben and RTL contain, and what are the M8/31 channel of ARD/ZDF 1996–98 (head `a1 38 2f 2f`), the M2/31 channel of RTL 1998 and the M7/31 channel of ARD 1981?
+- What are the M8/31 channel of ARD/ZDF 1996–98 (head `a1 38 2f 2f`), the M2/31 channel of RTL 1998 and the M7/31 channel of ARD 1981?
 - What is the M3 X/29 packet (head `00 c8 20 d8`) of the 1980–81 Videotext trial?
 - What does the data on lines 14/15/327/328 of Premiere 1991 contain?
 - Where does the 1 Mbit/s biphase signal on lines 16/329 come from, and what do its bits mean?
