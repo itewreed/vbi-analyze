@@ -1,0 +1,2214 @@
+Videotext pages recovered from coll04_tape047_01_ard_1981-08-09, frames 0-5999 (4 minutes), lines 20, 21, 333, 334.
+Equalising slicer with decision feedback; each row is the per-character majority over all repeats.
+Mosaic graphics are shown with Unicode sextant characters. 85 pages.
+
+P100  VT100 ARD/ZDF So  9 Aug 20.29:44
+ 1  Hessen III......181  W🬣🬱🬱▐🬯🬍🬍🬍🬍🬍🬍🬍🬍🬍🬖🬓🬓
+ 2  ████🬰█🬰█🬂██████████████🬰█████🬂███🬂█████
+ 3  ████ █ █  🬁█🬀 🬁█  🬨🬀 🬁█ █🬀 🬁█  🬁█  ████
+ 4  ████ █ █ █ █ 🬎 █ ▌▐ 🬎🬩█ █ █🬭█ █ █ █████
+ 5  ████ █ █ █ █ 🬹🬋█ ██🬌🬹 █ █ █🬂█ █ █ █████
+ 6  ████🬏 🬞█  🬞█🬏 🬞█ ██🬏 🬞█ █🬏 🬞█ █ █🬏 ████
+ 7  🬎🬎🬎🬎🬎🬎🬎 🬎🬎🬎🬎🬎🬎 🬎🬎  🬎🬎🬎  🬎     🬕    🬆  W
+ 8  VT in Auswahl...1O1  VT z.Programm..2O1
+ 9  ARD diese Woche.11O  VT für Eltern..25O
+10  ZDF diese Woche.12O  VT über VT.....26O
+11  VT-Untertitel...15O  Hörfunk........3OO
+12  ARD heute.......16O  Auto+Reise 333/35O
+13  ZDF heute.......17O  VT aktuell.....4OO
+14  BR III..........18O  NachrichtUn.Ü..m b
+15  Hessen III......181  .jtter.........444
+16  Nord III........182  Lotto/Toto.....45O
+17  Südwest III.....183  Sport aktuell..5OO
+18  West III........184  Pressevorschau 6OO
+19  +o-Was-Wann.....2OO  VT-Tel.O3O/3O83O66
+20
+21                LETZTE MELDUNG:          
+22  ROM: Bombenanschlag auf Büro der isra- 
+23  elischen Fluggesellschaft EL AL.....4O5
+24
+--------------------------------------------
+P101  VT101 ARD/ZDF So  9 Aug 20.21:54
+ 1  █🬕🬂█🬂🬂🬂█🬂🬂█                            
+ 2  █ ██      █                            
+ 3  █  █▌                    ▌             
+ 4  █ ██    ▌▐██                           
+ 5  🬌🬍🬌🬍🬋🬎🬋🬌🬋🬋🬎                            
+ 6                                         
+ 7  🬎🬎🬎🬎🬎🬎🬎 🬎 🬎🬎🬎 🬎🬎🬎 🬎🬎 🬎🬎  🬎🬎🬎 🬎   🬎W 🬎🬎 
+ 8   5             § GEN E                 
+ 9  19V1O  Uhr   Bonner Perspektiven....235
+10                                         
+11              wurden e.Kohde/E.....f.   ▐
+12   5                                     
+13   ▌  Neutronenwaffe entschieden. 4 d  ▐ 
+14                                         
+15    FRANKFURTER RUNDSCHAU ..6O7 bis 6O9  
+16              t  r  en  u1  .   ..       
+17              morgen Gewitter, 2O°       
+18   🬺🬹🬹🬹 🬹🬹🬹   🬹🬹🬹 🬹🬣🬰🬹🬹🬹🬹🬹🬹🬹 🬹🬹🬹🬹🬹🬹🬹 🬹🬹🬻 
+19   █ E   🬞🬲   🬷 🬷██🬣  🬁▌🬞▌▐  🬁▌          
+20   █   🬬🬣▐ 🬞█ █  ██  🬑  🬉▌▐▌   ▐    ▌▐   
+21    █ █ 🬻▌▐▌▐█ █ 🬻██ ▌▐ ▌🬦▌▐▌▐ ▌▐ ▌▐ ▌▐ █
+22   █    ▌▐▌      ██  ▐  🬁▌🬁▌🬁🬞🬲 🬞▌▐ 🬲 🬞🬝 
+23                          VT IN AUSWAHL >
+24
+--------------------------------------------
+P110  VT110 ARD/ZDF So  9 Aug 20.21:14
+ 1  🬝🬂🬂🬬🬂🬂🬊🬕🬂🬂🬬                            
+ 2  ▌▐▌▐ █ ▌▐▌▐                    Tips für
+ 3  ▌🬁🬀▐ 🬂🬞▌▐▌▐            die Fernsehwoche
+ 4  ▌▐▌▐ █ ▌🬉🬄▐     vom 1O.8. bis 16.8.1981
+ 5  🬌🬍🬌🬍🬋🬎🬋🬌🬋🬋🬎                            
+ 6  DIESE WOCHE 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬜🬎^ 🬎 ^^
+ 7
+ 8  Montag      23.OO Tagebuch der Provinz 
+ 9
+10  Dienstag    23.OO Arena                
+11
+12  Mittwoch    2O.15 Die Grenze           
+13
+14  Donnerstag  21.15 Scheibenwischer      
+15
+16  Freitag     2O.15 Rosen für den        
+17                    Staatsanwalt         
+18                                         
+19  Samstag     22.3O Ich habe Angst       
+20
+21  Sonntag     2O.15 Unter deutschen      
+22                    Dächern              
+23
+24
+--------------------------------------------
+P111  VT111 ARD/ZDF So  9 Aug 20.21:26
+ 1 01 o8NT          ZEICHENVORRAT          
+ 2 02 o8NT ßßßßßßßßßßßßßßßß
+ 3 03 o8NT ABCDEFGHIJKL  OPQ$FTU-'0:5a12gm
+ 4 04 oG1+ ABCDEFGHIJKLMNOPQRSTUVWXYZ01234
+ 5 05 oG1+ abcdefghijklmnopqrstuvwxyz56789
+ 6 06 oG1+ abcdefghijklmnopqrstuvwxyz56789
+ 7 07 oG1+ !"#$%&'()*+,-./:;<=>?Ä^Ü_ß°äÖüö§
+ 8 08 o8NT !"#$%&'()*+,-./:;<=>?Ä^Ü_ß°äÖüö§
+ 9 09 o8NT ßßßßßßßßßßßßßßßß
+10 10 o8NT                 🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭
+11 11 o8NT 🬅🬈🬏🬔🬂🬃🬓▐  🬞🬜🬊🬱  🬶🬳🬬🬧🬹🬸🬨▌██🬝🬟🬱W██
+12 12 oG1+ 🬇🬋🬐🬛🬋🬏🬌🬫🬃🬵🬆🬦🬩🬁🬪🬏🬴🬰🬫🬠🬰🬬🬯🬐🬸🬆🬵🬕🬒🬺🬑🬬
+13 13 oG1+ 🬢🬖🬀🬣🬭🬄 ▐🬇🬮🬚🬍🬉🬋🬱🬗🬙🬥🬻🬘🬎🬷█▌🬴🬍🬡🬮🬲🬰🬊🬤
+14 14 oG1+                 🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+15 15 oG1+  ▐🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂▌ 
+16 16 o8NT  ▐        DECODER-TEST        ▌ 
+17 17 o8NT  ▐   Weitere Tafeln 100/199   ▌ 
+18 18 o8NT  ▐   🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂 🬂🬂🬂🬂🬂🬂🬂   ▌ 
+19 19 o8NT  ▐       Steuerbit C4=1       ▌ 
+20 20 oG1+  ▐███ ███ ███ ███ ███ ███ ███ ▌ 
+21 21 oG1+  🬁🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬀 
+22 22 oG1+    ****   Doppelte Höhe   ****  
+23 23 oG1+                                 
+24
+--------------------------------------------
+P120  VT120 ARD/ZDF So  9 Aug 20.29:15
+ 1  █🬕🬂🬂🬨🬂🬂🬊🬕🬂🬂█                           
+ 2  ███🬄▐ █ ▌▐██            WOCHENÜBERSICHT
+ 3  █🬝🬀🬞🬻 █ ▌🬁🬂█                           
+ 4  █▌🬇🬎🬬 🬎 ▌▐██    IENSTAG, 11.August 1981
+ 5  🬎🬌🬋🬋🬍🬋🬋🬍🬌🬍🬎🬎                           
+ 6  IHR PROGRAMM 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 🬎 🬎           W
+ 7
+ 8  19.OO  Uhr   heute                     
+ 9  19.3O  Uhr   auslen sjournal           
+10  19.3O  Uhr   Ehe v r Ger  ht           
+11
+12  21.OO  Uhr   heute-journal             
+13  21.OO  Uhr   heute-journal             
+14  21.2O  Uhr   Beschreibungen:           
+15  22.Ou  Uhr   Das geht Sie an           
+16  2 . O  Uhr   ganz ke  n  n             
+17               Nächstenliebe             
+18  22.OO  Uhr   Dieem sei e sö le         
+19               nur Übergang              
+20   O.1O  Uhr   hUute                     
+21  23.4O  Uhr   heute                     
+22   O.15  Uhr   heutj                     
+23               Programm vom 12.8.81 folgt
+24
+--------------------------------------------
+P150  VT150 ARD/ZDF So  9 Aug 20.21:05
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20             VT-Untertitel:              
+21    MITTWOCH,16.September-2O.15 Uhr (ARD)
+22            "Fauna Iberica"              
+23          Herren des Waldes (1)          
+24
+--------------------------------------------
+P160  VT160 ARD/ZDF So  9 Aug 20.20:27
+ 1  🬝🬂🬂🬬🬂🬂🬊🬕🬂🬂🬬                            
+ 2  ▌▐▌▐ █ ▌▐▌▐                            
+ 3  ▌🬁🬀▐ 🬂🬞▌▐▌▐      SONNTAG, 9.August 1981
+ 4  ▌▐▌▐ █ ▌🬉🬄▐                            
+ 5  🬌🬍🬌🬍🬋🬎🬋🬌🬋🬋🬎                            
+ 6  HEUTE ABEND 🬎🬎🬎🬎🬎🬎🬎🬎🬎 🬎🬎🬎🬎🬎🬎🬜🬎🬎 🬜 🬎 🬎 🬎
+ 7
+ 8
+ 9  19.15 Uhr   Wir über uns............ud4
+10
+11  19.2O Uhr   Weltspiegel.............22d
+12
+13  2O.OO Uhr   Tagesschau..............22d
+14
+15  2O.15 Uhr   Die Bibel                  
+16              Ital.Spielfilm..........2dn
+17
+18  23.OO Uhr   Der 7.Sinn                 
+19
+20  23.O5 Uhr   Tagesschau                 
+21
+22
+23    VORMITTAGSPROGRAMM von morgen auf 161
+24  :j5j ? 5*%j                            
+--------------------------------------------
+P161  VT161 ARD/ZDF So  9 Aug 20.20:17
+ 1  🬝🬂🬂🬬🬂🬂🬊🬕🬂🬂🬬                            
+ 2  ▌▐▌▐ █ ▌▐▌▐                            
+ 3  ▌🬁🬀▐ 🬂🬞▌▐▌▐      MONTAG, 1O.August 1981
+ 4  ▌▐▌▐ █ ▌🬉🬄▐                            
+ 5  🬌🬍🬌🬍🬋🬎🬋🬌🬋🬋🬎                            
+ 6   VORMITTAGS 🬎🬎🬎 🬎🬎🬎  🬎  🬎             W
+ 7
+ 8  1O.OO Uhr   Tagesschau                 
+ 9
+10  1O.O3 Uhr   Mord am Amaghi-Paß         
+11
+12  11.25 Uhr   "Ich habe es satt,         
+13              daß es mir gut geht"       
+14
+15  11.55 Uhr   Umschau                    
+16
+17  12.15 Uhr   Weltspiegel                
+18
+19  12.55 Uhr   Presseschau                
+20
+21  13.OO Uhr   Tagesschau                 
+22
+23          ABENDPROGRAMM von heute ajl§bd_
+24
+--------------------------------------------
+P170  VT170 ARD/ZDF So  9 Aug 20.21:27
+ 1  █🬕🬂🬂🬨🬂🬂🬊🬕🬂🬂█                           
+ 2  ███🬄▐ █ ▌▐██                           
+ 3  █🬝🬀🬞🬻 █ ▌🬁🬂█     SONNTAG, 9.August 1981
+ 4  █▌🬇🬎🬬 🬎 ▌▐██                     abends
+ 5  🬎🬌🬋🬋🬍🬋🬋🬍🬌🬍🬎🬎                           
+ 6  IHR PROGRAMM 🬎🬎🬎🬎🬎🬎🬎🬎🬎 🬎   🬎          W
+ 7
+ 8  19.OO  Uhr   heute..................2vu
+ 9  19.1O  Uhr   Bonner Perspektiven....235
+10  19.3O  Uhr   Schauplätze der           
+11               Weltliteratur..........b&5
+12  2O.15  Uhr   Mord am Amaghi-Pass....237
+13  21.4O  Uhr   heute/                    
+14               Sport am Sonntag          
+15  21.55  Uhr   Die Welt, in der          
+16               wir wohnen.............b3p
+17  22.25  Uhr   Vom Zauber des            
+18               Tanzes (2).............239
+19  23.25  Uhr   heute                     
+20
+21
+22     VORMITTAGPROGRAMM von morgen auf 171
+23
+24
+--------------------------------------------
+P171  VT171 ARD/ZDF So  9 Aug 20.29:07
+ 1  █🬕🬂🬂🬨🬂🬂🬊🬕🬂🬂█                           
+ 2  ███🬄▐ █ ▌▐██                           
+ 3  █🬝🬟🬞🬻 █ ▌🬁🬂█     MONTAG, 1O.August 1981
+ 4  █▌🬇🬎🬬 🬎 ▌▐██                 VORMITTAGS
+ 5  🬎🬌🬋🬋🬍🬋🬋🬍🬌🬍🬎🬎                           
+ 6  IHR PROGRAMM 🬎🬎🬎🬎🬎🬎🬎 / //              
+ 7
+ 8  1O.OO  Uhr   Tagesschau                
+ 9
+10  1O.O3  Uhr   Mord am Amaghi-Paß        
+11
+12  11.25  Uhr   "Ich habe es satt,        
+13               daß es mir gut geht"      
+14
+15  11.55  Uhr   Umschau                   
+16
+17  12.15  Uhr   Weltspiegcl               
+18
+19  12.55  Uhr   Presseschau               
+20
+21  13.OO  Uhr   Tagesschau                
+22
+23          ABENDPROGRAMM von heute auf 17O
+24
+--------------------------------------------
+P180  VT180 ARD/ZDF So  9 Aug 20.21:28
+ 1  🬹🬹🬓🬹🬹🬓🬹🬹🬓                              
+ 2  ██▌██▌██▌          BAYERISCPER RUNDFUNK
+ 3  █🬝🬁██▌██▌                              
+ 4  ██▌██▌██▌🬞🬭      SONNTAG, 9.August 1981
+ 5  🬎🬎🬄🬎🬎🬄🬎🬎🬄🬉🬎                            
+ 6  FS-PROGRAMM 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 🬎🬎🬎🬎   🬎
+ 7
+ 8
+ 9  18.15  Uhr  1.Aus Schwaben und         
+10                Altbayern                
+11              2.Frankenchronik           
+12  18.45  Uhr  Rundschau                  
+13  19.OO  Uhr  Unter unserem Himmel       
+14              Hoagascht auf der Asten    
+15  2O.15  Uhr  Kohlhiesels Töchter        
+16              Deutscher Spielfilm, 1943  
+17  21.35  Uhr  Rundschau                  
+18  21.5O  Uhr  Bücher beim Wort genommen  
+19  22.35  Uhr  Tödliche Spuren            
+20              Giftmüll in Amerika        
+21  23.2O  +hr  Rundschau                  
+22
+23
+24
+--------------------------------------------
+P181  VT181 ARD/ZDF So  9 Aug 20.21:06
+ 1  ██▌██▌██▌                              
+ 2  ██▌██▌██▌                   H E S S E N
+ 3  ██▌██▌██▌                              
+ 4  ██▌██▌██▌🬞🬭      SONNTAG, 9.August 1981
+ 5  🬎🬎🬄🬎🬎🬄🬎🬎🬄🬉🬎                      §     
+ 6  FS-PROGRAMM 🬎🬎🬎  🬎                     
+ 7
+ 8  21.OO Uhr   Blickpunkt Dritte Welt     
+ 9              Aufstieg vom Elend         
+10  19.OO Uhr   RockArlast                 
+11              Heut mit ZZ TOP            
+12              ter in Bombay              
+13                                         
+14  Drei Milieus von Bombay schildern die  
+15  22.1O Uhr   Die Show macht Schkle      
+16              Michel Fugains             
+17              Talentschule in Nizza      
+18              Regie: Andre Waksman       
+19  Schicksale, die exemplarisch sind für  
+20  das Lebensspektrum in vielen Städten   
+21  der Dritten Welt.                      
+22                            Mehr in Kürze
+23                            Mehr in Kürze
+24
+--------------------------------------------
+P182  VT182 ARD/ZDF So  9 Aug 20.29:18
+ 1  ██▌██▌██▌                              
+ 2  ██▌██▌██▌                       N O R D
+ 3  ██▌██▌██▌                              
+ 4  ██▌██▌██▌🬞🬭      SONNTAG, 9.August 1981
+ 5  🬎🬎🬄🬎🬎🬄🬎🬎🬄🬉🬎                            
+ 6  FS-PROGRAMM 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬜 🬎🬎🬎🬎🬎  
+ 7
+ 8  19.OO Uhr   Rockpalst                  
+ 9              Heute: ZZ TOP              
+10  2O.OO Uhr   Tagesschau                 
+11  2O.15 Uhr   Westkunst                  
+12              Zeitgenössische Kunst      
+13              seit 1939 (7)              
+14              "Happening"                
+15  21.OO Uhr   Blickpunkt Dritte .jlt     
+16              Aufstieg vom Elend         
+17              zur Armut                  
+18  21.45 Uhr   Fritz Muliar: Damit ich    
+19              nicht vergeß', zu erzähHKm§
+20  22.1O Uhr   Die Show macht Schule      
+21              Michel Fugains Talentstudio
+22              in Nizza                   
+23  22.55 Uhr   Letzte Nachrichten         
+24
+--------------------------------------------
+P183  VT183 ARD/ZDF So  9 Aug 20.21:29
+ 1  ██▌██▌██▌                              
+ 2  ██▌██▌██▌                 S Ü D W E S T
+ 3  ██▌██▌██▌                              
+ 4  ██▌██▌██▌🬞🬭      SONNTAG, 9.August 1981
+ 5  🬎🬎🬄🬎🬎🬄🬎🬎🬄🬉🬎                            
+ 6  FS-PROGRAMM 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬜🬜🬜^  🬜 🬜^
+ 7
+ 8  19.OO Uhr   Die Firma Hesselbach       
+ 9              31. Die Hochzeit           
+10
+11  19.55 Uhr   Star im Nest               
+12              Eine Klamödie von          
+13              Dieter Hildebrandt         
+14
+15  21.OO Uhr   Nibelungenlid (4)          
+16              Wahrheit oder Legende      
+17              Siegfried, ein Held        
+18              der Deutschen              
+19
+20              Nur für Baden-Württemberg  
+21
+22  21.45 Uhr   Sport im Dritten           
+23
+24
+--------------------------------------------
+P184  VT184 ARD/ZDF So  9 Aug 20.20:39
+ 1  🬹🬹🬓🬹🬹🬓🬹🬹🬓                              
+ 2  ██▌██▌██▌       WESTDEUTSCHES FERNSEHEN
+ 3  ██▌█🬝🬘██▌                              
+ 4  ██▌██▌██▌🬞🬭      SONNTAG, 9.August 1981
+ 5  🬎🬎🬄🬎🬎🬄🬎🬎🬄🬉🬎                            
+ 6  FS-PROGRAMM 🬎🬎🬎🬎🬎🬎 🬎🬎🬎     🬕           
+ 7
+ 8  19.OO Uhr   Rockpalst                  
+ 9              Heute: ZZ TOP              
+10  2O.OO Uhr   Tagesschau                 
+11  2O.15 Uhr   Westkunst                  
+12              Zeitgenössische Kunst      
+13              seit 1939 (7)              
+14              "Happening"                
+15  21.OO Uhr   Blickpunkt Dritte Welt     
+16              Aufstieg vom Elend         
+17              zur Armut                  
+18  21.45 Uhr   Fritz Muliar: Damit ich    
+19              nicht vergeß', zu erzählen 
+20  22.1O Uhr   Die Show macht Schule      
+21              Michel Fugains Talentstudio
+22              in Nizza                   
+23  22.55 Uhr   Letzte Nachrichten         
+24
+--------------------------------------------
+P200  VT200 ARD/ZDF So  9 Aug 20.29:01
+ 1
+ 2  █🬕🬕🬕🬕🬒██🬨🬨🬨🬡🬨🬡🬨█🬕🬕🬕🬕🬒🬕🬒🬕🬒█             
+ 3  █▌▌▌▌▌🬝🬬▐▐▐🬉▐🬉🬫🬎▌▌▌▌🬄▌▌▌▌█             
+ 4  █▌▌▌▌▌██▐▐▐🬦▐🬩▐█▌▌▌▌🬓▌▌▌▌█             
+ 5  █🬲🬮🬮🬲🬮██🬯🬯🬷🬷🬷🬯🬷█🬲🬮🬮🬲🬲🬲🬲🬲🬲█ IM FERNSEHEN
+ 6  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋XXXXXXXXXXXXX
+ 7
+ 8
+ 9
+10  Aktuelles/Politik...................bb 
+11
+12  Film/Fernsehspiel...................bbd
+13
+14  Kultur/Bildung...............WWWWWWW113
+15
+16  Sport.........................WWWWWW X 
+17
+18
+19
+20
+21
+22
+23
+24
+--------------------------------------------
+P201  VT201 ARD/ZDF So  9 Aug 20.21:28
+ 1  █🬂🬂🬨🬂🬂🬨🬂🬂🬂🬂🬂🬨                          
+ 2  █  ▐  ▐🬭🬏  🬭🬷                          
+ 3  █  ▐  ▐█▌  ██    SONNTAG, 9.August 1981
+ 4  █🬓    🬻█▌  ██                          
+ 5  ██🬏  🬷██▌  ██                    abends
+ 6  🬎🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋🬎🬎                          
+ 7  LFD. PROGRAMM 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎           W
+ 8
+ 9  19.OO Uhr ZDF heute.................b& 
+10  19.1O Uhr ZDF Bonner Perspektiven...235
+11  19.15 Uhr ARD Wir über uns..........224
+12  19.2O Uhr ARD Weltspiegel...........bdd
+13  19.3O Uhr ZDF Schauplätze der          
+14                Weltliteratur.........236
+15  2O.OO Uhr ARD Tagesschau............222
+16  2O.15 Uhr ZDF Mord am Amaghi-Pass...237
+17  2O.15 Uhr ARD Die Bibel.............227
+18  21.55 Uhr ZDF Die Welt, in der         
+19                wir wohnen............238
+20  22.25 Uhr ZDF Vom Zauber des Tanzes.239
+21 §              wir wohnen.........^WW138
+22
+23
+24
+--------------------------------------------
+P210  VT210 ARD/ZDF So  9 Aug 20.22:39
+ 1  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 2  ▐🬭🬏  🬭🬷  ▐▌  ▌   SONNTAG, 9.August 1981
+ 3  ▐█▌  ██  ▐▌  ▌                         
+ 4  ▐█▌  ██🬲    🬷▌        AKTUELLES/POLITIK
+ 5  ▐█▌  ███🬏  🬞█▌                         
+ 6  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋🬍🬎🬄🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋 🬋       
+ 7
+ 8
+ 9
+10
+11  19.OO Uhr ZDF heute...^..WWWWWWWWWWW Ä 
+12  19.1O Uhr ZDF Bonner Perspektiven...235
+13  19.15 Uhr ARD Wir über uns..........224
+14  19.2O Uhr ARD WeltspiegeY...........bd,
+15  2O.OO Uhr ARD Tagesschau.........WW.22 
+16  21.4O Uhr ZDF heute/                   
+17                Sport am Sonntag         
+18  23.OO Uhr ARD Der 7. Sinn              
+19  23.O5 Uhr ARD Tagesschau               
+20  23.25 Uhr ZDF heute                    
+21
+22
+23
+24
+--------------------------------------------
+P212  VT212 ARD/ZDF So  9 Aug 20.29:39
+ 1
+ 2  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 3  ▐🬭🬏  🬭🬷  ▐▌  ▌   SONNTAG, 9.August 1981
+ 4  ▐█▌  ██  ▐▌  ▌                         
+ 5  ▐█▌  ██🬲    🬷▌    FILM UND FERNSEHSPIEL
+ 6  ▐█▌  ███🬏  🬞█▌                         
+ 7  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋🬍🬎🬄X🬋🬋🬋XX🬋XXXXXXXXXXXXXXXXXX
+ 8
+ 9
+10
+11
+12  19.3O Uhr ZDF Schauplätze der          
+13                Weltliteratur.........236
+14
+15  2O.15 Uhr ARD Die Bibel.............227
+16
+17  2O.15 Uhr ZDF Mord am Amaghi-Pass...237
+18
+19
+20
+21
+22
+23
+24
+--------------------------------------------
+P213  VT213 ARD/ZDF So  9 Aug 20.20:30
+ 1
+ 2  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 3  ▐🬭🬏  🬭🬷  ▐▌  ▌   SONNTAG, 9.August 1981
+ 4  ▐█▌  ██  ▐▌  ▌                         
+ 5  ▐█▌  ██🬲    🬷▌       KULTUR UND BILDUNG
+ 6  ▐█▌  ███🬏  🬞█▌                         
+ 7  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋🬍🬎🬄🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋XX🬋X🬋XXXXXXX
+ 8
+ 9
+10
+11
+12  19.3O Uhr ZDF Schauplätze der Welt-    
+13                literatur.............236
+14  21.55 Uhr ZDF Die Welt, in der         
+15                wir wohnen............238
+16  22.25 Uhr ZDF Vom Zauber des           
+17                Tanzes (2)............239
+18
+19
+20
+21
+22
+23
+24
+--------------------------------------------
+P214  VT214 ARD/ZDF So  9 Aug 20.21:50
+ 1
+ 2  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 3  ▐🬭🬏  🬭🬷  ▐▌  ▌   SONNTAG, 9.August 1981
+ 4  ▐█▌  ██  ▐▌  ▌                         
+ 5  ▐█▌  ██🬲    🬷▌                    SPORT
+ 6  ▐█▌  ███🬏  🬞█▌                         
+ 7  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋🬍🬎🬄X🬋🬋XXXXXXXXXXXXXXXXXXXXXX
+ 8
+ 9
+10
+11
+12
+13  21.4O Uhr ZDF heute/                   
+14                Sport am Sonntag         
+15
+16
+17
+18
+19
+20
+21
+22
+23  ▐█▌  ██🬲    🬷▌                    SPORT
+24
+--------------------------------------------
+P222  VT222 ARD/ZDF So  9 Aug 20.21:30
+ 1
+ 2        DEUTSCHES FERNSEHEN - ARD        
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5
+ 6  2O.OO - 2O.15 Uhr                      
+ 7                                         
+ 8  TAGESSCHAU heute u.a.:                 
+ 9  2. Israels neuer König - Portr it de9  
+10  1. Entscheidung Reagans für Bau der    
+11     Neutronenwaffe                      
+12  3. Wendepunkt für Arafat               
+13  2. Unruhen in Nordirland nach neuem    
+14     Hungertod                           
+15
+16  3. Saudi-Arabischer Nahost-Friedensplan
+17     in Israel abgelehnt                 
+18
+19  🬋X🬋🬋🬋🬋🬋🬋🬋X🬋XX🬋XX🬋XXXXXXXXXXXXXXXXXXXXXX
+20       🬬🬝🬦🬝🬺🬦🬝🬺▐🬝🬦🬝🬺🬦🬝🬺🬦🬝🬺▐▌█🬦🬝🬺▐▌█      
+21       ▐▌▐🬛█▐▌🬹▐🬛🬉🬌🬹🬉🬌🬹▐▌🬰▐🬛█▐🬛█▐▌█      
+22       ▐▌▐▌█🬉🬺🬝▐🬺🬉🬺🬝🬉🬺🬝🬉🬺🬝▐▌█▐▌█🬉🬺🬝      
+23
+24
+--------------------------------------------
+P226  VT226 ARD/ZDF So  9 Aug 20.29:50
+ 1
+ 2        DEUTSCHES FERNSEHEN - ARD        
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5
+ 6  19.2O - 2O.OO Uhr                      
+ 7
+ 8  1. Norwegen und die NATO               
+ 9  2. Israels neuer König - Portrait 🬢🬣🬰  
+10     neuen Verteidigungsministers        
+11     Ariel Sharon                        
+12  3. Wendepunkt für Arafat               
+13  4. Ruhe in Gambia                      
+14  5. Brasiliens Wasser                   
+15
+16
+17  Moderator: Hansjürgen Rosenberger      
+18
+19  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+20        █▐▌█▐🬝▐▌🬬🬝🬦🬝█▐🬝🬺▐▌█🬄🬻🬎🬓█🬄█       
+21        █▐▌█▐🬛▐▌▐▌🬉🬌🬹▐🬛🬆▐▌█🬃█🬇🬓█🬃█       
+22        🬬🬜🬪🬝▐🬺▐🬺▐▌▐🬺🬝▐▌ ▐▌█🬓🬬🬹▌█🬓█🬓      
+23
+24
+--------------------------------------------
+P227  VT227 ARD/ZDF So  9 Aug 20.29:50
+ 1
+ 2         DEUTSCHES FERNSEHEN - ARD       
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5  2O.15 - 23.OO Uhr                      
+ 6
+ 7  "Genesis" (EntstehFng) ist der gei cni-
+ 8  Roh,auf Sardinien,Sizilhenouns  n Norm 
+ 9  afrikr. Nordafrika waM u.a. der Schau- 
+10  platz dcr Wüstenkampeszangn, el t wir  
+11  Mitte der eOer Jnhre en stand die auf- 
+12  penerg. Vie ilmung der  rsten 22sKapi- 
+13  Babel erwies sich als aufwendig und    
+14  schwierig, da Tausende von Statisten   
+15  darauf gefilmt werden hrßten. Es wur,en
+16  üegr 1f OOO historische Kostüme ange-  
+17  fer igt.                               
+18                                       >>
+19  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+20        ██🬱 █ ██▌  ██🬱 █ ██🬱 ██▌▐▌       
+21        █ █ █ █🬭   █🬭🬝 █ █🬭🬝 █🬭 ▐▌       
+22        █ █ █ █🬂   █🬂🬺 █ █🬂🬺 █🬂 ▐▌       
+23        ██🬆 █ ██▌  ██🬆 █ ██🬆 ██▌▐█▌      
+24
+--------------------------------------------
+P234  VT234 ARD/ZDF So  9 Aug 20.22:31
+ 1
+ 2             ZDF - IHR PROGRAMM          
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5  19.OO - 19.1O Uhr                      
+ 6  In der "heute"-Sendung u.a.:           
+ 7
+ 8  US-Präsident Reagan ordnet Bau der     
+ 9  Neutronenwaffe an                      
+10
+11  Ägyptischer Präsident Sadat in den USA 
+12
+13  Konflikt Iran - Frankreich             
+14
+15  Bardentreffen in Nürnberg              
+16
+17  Redakteurin im Studio:                 
+18                   Ulrike von Möllendorff
+19
+20  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬰🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬰🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+21             █🬹🬱🬞🬹🬹🬏🬹 🬹🬦█🬓🬵🬹🬱            
+22             █ █▐🬛🬍🬄█ █ █ █🬋🬎            
+23             █ █🬉🬺🬹🬓🬬🬹🬝 🬬🬓🬬🬹🬹            
+24
+--------------------------------------------
+P235  VT235 ARD/ZDF So  9 Aug 20.29:51
+ 1
+ 2            ZDF - IHR PROGRAMM           
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5  19.1O - 19.3O Uhr                      
+ 6
+ 7  Die "Bonner Perspektiven" haDen§Peute §
+ 8  das Hauptthema: "Nach den Beschlüssen  
+ 9  zum Haushalt '82: Wie geht es in der   
+10  Stahl-Industrie weiter?"               
+11
+12  Interviews mit dem nordrhein-westfäli- 
+13  schen Ministerpräsidenten Rau, SPD, dem
+14  CDU-Politiker Biedenkopf und Bundes-   
+15  wirtschaftsminister Graf Lambsdorff.   
+16
+17  Moderator: Hans-Joachim Reiche         
+18
+19  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+20    🬕▌🬕▌🬕▌🬕▌🬕▐🬨  ▐🬨▐🬀🬕▌🬕🬄🬕▌🬕▐▐🬁🬕▐▐▐▐🬀🬕▌  
+21    🬛🬐▌▌▌▌▌▌🬛▐🬤  ▐🬍▐🬃🬛🬐🬌🬓🬛🬄🬛▐🬤 ▌▐▐▐▐🬃▌▌  
+22    🬲▌🬲▌▌▌▌▌🬲▐▐  ▐ ▐🬏▌▌🬲▌▌ 🬲▐▐ ▌▐🬉🬜▐🬏▌▌  
+23
+24
+--------------------------------------------
+P236  VT236 ARD/ZDF So  9 Aug 20.21:21
+ 1            ZDF - IHR PROGRAMM           
+ 2
+ 3  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 4
+ 5  19.3O - 2O.15 Uhr                      
+ 6
+ 7  In einer Verzahnung von Historie und   
+ 8  Dichtung zeigt der Film Gerhard Haupt- 
+ 9  manns "Weber" in Schlesien.            
+10
+11  Die gewaltigen Fabrikanlagen der Gebrü-
+12  der Dierig gehörjn jetzt dem Textitwerk
+13  "Bielbaw". Ein ihm angegliedertes Ar-  
+14  beitertheater hat 1954 zum ersten Mal  
+15  in der Volksrepublik Hie "WjbjrEaBjl§§ 
+16  polnisch inszeniert...                 
+17  🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭
+18              SCHAUPLÄTZE DER            
+19                                         
+20           🬓🬓🬓  🬓🬓🬦🬇🬦       🬓            
+21           ▌▌▌🬴▌▌🬕▐▐▐🬀🬴▌🬕🬄🬰▌🬕▐▐▐🬊        
+22           🬲🬲▌🬲🬓▌🬲▐▐▐🬏🬲🬓▌ 🬲▌🬲▐🬷▐         
+23
+24
+--------------------------------------------
+P237  VT237 ARD/ZDF So  9 Aug 20.29:02
+ 1
+ 2            ZDF - IHR PROGRAMM           
+ 3
+ 4    🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5    2O.15 - 21.4O Uhr                    
+ 6    1926 ist auf dem Amaghi-Pass ein     
+ 7    Mord geschehen. Durch Zufall waren   
+ 8    drei Menchen zusammengekommen: eine  
+ 9    Prostituierte, ein unheimlicher Wan- 
+10    derarbeiter und ein 13jähriger Junge.
+11    Nach 5O Jahren schreibt ein pensio-  
+12    nierter Kriminalkommissar die Ge-    
+13    schichte auf und findet dabei den    
+14    wirklichen Täter...                  
+15    🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬋XX🬋XXXX
+16           █🬬🬬▌██▌█🬬▌██🬓 █🬬▌█🬬🬬▌         
+17           █▐▐▌█▐▌█🬻🬄█ ▌ █🬷▌█▐▐▌         
+18           █ ▐▌██▌█▐▌██🬄 █🬨▌█ ▐▌         
+19                                         
+20     █🬬▌█🬬🬬▌█🬬▌█🬎🬄█▐▌█   █🬬▌█🬬▌██▌██▌    
+21     █🬷▌█▐▐▌█🬷▌█🬇🬓█🬫▌█ 🬋 █🬻▌█🬷▌🬌🬋🬓🬌🬋🬓    
+22     █🬨▌█ ▐▌█🬨▌██▌█▐▌█   █  █🬨▌██▌██▌    
+23                                         
+24
+--------------------------------------------
+P238  VT238 ARD/ZDF So  9 Aug 20.20:52
+ 1
+ 2             ZDF - IHR PROGRAMM          
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5  21.55 - 22.25 Uhr                      
+ 6
+ 7  In New York und in fünf anderen Groß-  
+ 8  städten gibt es seit Mitte der 8O-er   
+ 9  Jahre Projekte zur Verbesserung der Er-
+10  nährung in den Slums. Die Bewohner le- 
+11  gen eigene Gemüsegärten an, wo früher  
+12  Trümmerfelder und trostlose Hinterhöfe 
+13  waren.                                 
+14
+15  Die Gärten sind zu einem Überlebenssym-
+16  bol inmitten der Kriminalität und Ar-  
+17  beitslosigkeit geworden.               
+18  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬋🬋🬋X🬋🬋XXXXXXXXXXXXXXXX
+19             █🬬🬓█▐🬝 ▐▌▌█▐🬝▐▌🬬🬝           
+20             █▐▌█▐🬛 ▐▌▌█▐🬛▐▌▐▌           
+21             █🬻🬄█▐🬺 🬉🬺🬺🬝▐🬺▐🬺▐▌🬦🬓         
+22             IN DER WIR WOHNEN 🬀         
+23
+24
+--------------------------------------------
+P239  VT239 ARD/ZDF So  9 Aug 20.29:12
+ 1
+ 2             ZDF - IHR PROGRAMM          
+ 3                                         
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5  22.25 - 23.25 Uhr                      
+ 6
+ 7  Der zweite Film von Margot Fonteyns    
+ 8  tanzgeschichtlichjr Reihe beginnt mit  
+ 9  Erinnerungen an die große russisch-    
+10  britische Ballerina Anna Pawlowa, die  
+11  einst mit dem "sterbenden Schwan"      
+12  berühmt wurde.                         
+13
+14  Hauptthema ist die Geschichte Her rusÜ 
+15  sischen Ballett-Tradition von Didelot  
+16  und Papita bis hin zu Triumph und Un-  
+17  tergang von Diaghilews berühmten "Bal- 
+18  letts russes".                         
+19
+20  🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭
+21  🬓🬓      🬋🬓    🬓       🬓     🬩🬃         
+22  ▌▌🬕▌🬕🬕▌ 🬚🬄🬰▌▌▌🬕▌🬴▌🬕🬄 🬕▌🬴▌🬴🬐 ▐🬠🬸▐🬨🬠🬸▐🬸▐🬰
+23  🬪🬄🬲▌▌▌▌ 🬲🬏🬲▌🬲▌🬲▌🬲🬓▌  🬲▌🬲🬓🬱▌ ▐▐🬷▐▐▐🬭▐🬵🬦🬷
+24
+--------------------------------------------
+P240  VT240 ARD/ZDF So  9 Aug 20.20:04
+ 1
+ 2            ZDF - IHR PROGRAMM           
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5  Morgen, Montag, 1O.August 81:          
+ 6
+ 7
+ 8  15.OO Uhr Enid Blyton:                 
+ 9            Fünf Freunde als             
+10            Retter in der Not            
+11  15.25 Uhr Im Ferienkalender:           
+12            Fernsehkoch Max Inzinger     
+13            Ferienpaß                    
+14  15.4O Uhr Spuk im Haus                 
+15            2. Der Schulaufsatz          
+16  16.OO Uhr Die Muppets-Show             
+17
+18  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬋 X X    
+19  █🬄█🬄█🬬🬓█▐🬝🬦🬝🬺▐🬝🬺▐🬝🬺🬦🬝🬺🬦🬝🬺▐🬝🬺🬦🬝🬺🬦🬝🬝🬺🬦🬝🬝🬺
+20  █🬃█🬃█🬫🬐█▐🬛▐▌█▐🬲█▐🬛🬴▐▌█▐▌🬹▐🬛🬴▐🬛█▐▌▌█▐▌▌█
+21  █ █🬓█▐▌█▐🬺▐▌█▐🬕🬟U▌█🬉🬺🬝🬉🬺█▐▌█▐▌█▐▌▌█▐▌▌█
+22                FÜR KINDER               
+23
+24
+--------------------------------------------
+P250  VT250 ARD/ZDF So  9 Aug 20.29:42
+ 1  🬕🬂🬨🬕🬂🬨🬂🬂🬂🬂🬂🬨                           
+ 2  ▌ ▐▌ ▐🬭🬏  🬭🬷               HINWEISE FÜR
+ 3  ▌ ▐▌ ▐█▌  ██        ELTERN UND ERZIEHER
+ 4  🬲    🬷█▌  ██                           
+ 5  █🬏  🬞██▌  ██                M O R G E N
+ 6  🬎🬌🬋🬋🬍🬎🬎🬌🬋🬋🬎🬎 🬋🬋XXXXXXXXXXXXXXXXXXXXXXXX
+ 7
+ 8
+ 9  ca.                                    
+10  16.OO Uhr    DIE MUPPETS-SHOW          
+11  (ZDF)        Gaststar:Bernadette Peter9
+12
+13  17.OO Uhr    SPASS AM MONTAG           
+14  (ARD)        Mit Thomas und Zini       
+15
+16  17.1O Uhr    LASSIE                    
+17  (ZDF)        Hundeschlittenrennen      
+18
+19
+20
+21  ZDF-Ferienprogramm...........WWWWWWW1 /
+22
+23
+24
+--------------------------------------------
+P260  VT260 ARD/ZDF So  9 Aug 20.21:13
+ 1  🬕🬂🬨🬕🬂🬨🬂🬂🬂🬂🬂🬨                         █ 
+ 2  ▌ ▐▌ ▐🬭🬏  🬭🬷                           
+ 3  ▌ ▐▌ ▐█▌  ██                  VIDEOTEXT
+ 4  🬲    🬷█▌  ██                  ÜBER     
+ 5  █🬏  🬞██▌  ██                  VIDEOTEXT
+ 6  🬎🬌🬋X█🬎🬎🬌🬋X🬜^XÜXXXXXXXXXXXXXXXXXXXXXXXXX
+ 7  ███████ ███ ███  ███ ███       ███  ███
+ 8  VIDEOTEXT: TTCHNISCH  ÄNDE U           
+ 9  🬊█████🬆 ███ ████████ █████████ ████████
+10  Trotz denkbarer tenh ischer Än erungen 
+11  die in de  kommenden  Vhren bei Video- 
+12  tixt  orgenomeen werden, ist eene si- 
+13  cher:     e         e               e  
+14  █🬧███████ ███       █████████ █████████
+15  Auch b i Norm-Änder   en we            
+16  Fernsehgeräte und e  o      
+17  auf Jahrn weiter verw ndbar s   .      
+18    █████   ███       █████████   █████  
+19  Der vore ligenHinwe s, e  aüs e nmit   
+20    sätzli hen l (t.n gerder z.Tw 3.Pro  
+21  ist irr f hrend.                       
+22            VT über VT in Kürze          
+23                             TÖRUNGrN ? >
+24
+--------------------------------------------
+P300  VT300 ARD/ZDF So  9 Aug 20.20:21
+ 1  █🬂🬂🬬🬆🬂🬬🬂🬂🬬🬂🬝🬂🬊█                        
+ 2  █ ▌▐ ▌▐ ▌▐ ▌▐ █                        
+ 3  █ 🬏🬫 🬏▐ ▌▐ ▌▐ █       Ü B E R S I C H T
+ 4  █ ▌▐ ▌▐ 🬀🬷 🬲🬁🬞█                        
+ 5  🬎🬋🬌🬍🬋🬌🬍🬋🬋🬎🬋🬎🬋🬍🬎                        
+ 6  P R O G R A M M 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎  🬎 🬎      🬎
+ 7
+ 8
+ 9
+10  Bayerischer Rundfunk................3O1
+11  Hessischer Rundfunk.................3/d
+12  Norddeutscher Rundfunk..............3'3
+13  Radio Bremen................WWWWWWW.YO 
+14  Saarländischer Rundfunk.......^.....3':
+15  Sender Freies Berlin................3O6
+16  Süddeutscher Rundfunk...............3O7
+17  Südwestfunk...............WWWWWWWWW.Y78
+18  Westdeutscher Rundfunk...........^WUg :
+19  Deutschlandfunk............WWWWWWWWGY 7
+20                                         
+21
+22
+23  §        🬲🬲▌🬲🬓▌🬲▐▐▐ 🬨🬓▌ 🬲▌🬲▐🬷▐         
+24
+--------------------------------------------
+P301  VT301 ARD/ZDF So  9 Aug 20.29:23
+ 1  ████🬂🬂🬬🬂🬂🬬███                          
+ 2  ████ ▌▐ ▌▐███      BAYERISCPER RUNDFUNK
+ 3  ████ 🬐🬫 🬐🬫███                          
+ 4  ████ ▌▐ ▌▐███                   SONNTAG
+ 5  ████🬭🬭🬻🬭🬲🬷███            9. August 1981
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎🬎🬎🬎🬎🬎🬎🬎 🬎🬎🬎🬎🬎🬎   🬎    ^
+ 8
+ 9                Live aus Nürnberg:       
+10  16.3O Uhr Bn1 FESTIVAL DER LIEDERMACHER
+11                6. Bardentreffen         
+12  19.5O Uhr BR2 DAS BUCH MIT SIEBEN      
+13                Simultan-Hauptkonzerte am
+14                Oratorium von Franz      
+15                Tiergärtnertorp atz      
+16                Leitung: Gustav Kuhn     
+17  18.1O Uhr BR2 AMY FOSTER               
+18                Novelle von Joseph Conrad
+19                (Aufnahme mit Ernst      
+20                Schlott aus d m Jahr     
+21                1959)                    
+22
+23                            Mehr in Kürze
+24
+--------------------------------------------
+P302  VT302 ARD/ZDF So  9 Aug 20.21:45
+ 1  ████🬂🬕🬨🬂🬂🬬███                          
+ 2  ████ ▌▐ ▌▐███       HESSISCHER RUNDFUNK
+ 3  ████ 🬐▐ 🬐🬫███                          
+ 4  ████ ▌▐ ▌▐███                   SONNTAG
+ 5  ████🬭🬲🬷🬭🬲🬷███            9. August 1981
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎🬎🬎🬎🬎🬎🬎 🬎🬎    🬎        W
+ 8
+ 9  2O.O5 Uhr HR2 FESTSPIELSOMMER '81:     
+10                SALZBURG AKTUELL         
+11                Neuinszenierung von      
+12                - Jahrgang 1967 -        
+13                Wiedergabe, Bericht und  
+14                Gespräch                 
+15  19.3W Uhr H🬉🬑 BÜB🬂🬈 UND A§B🬂🬗🬁🬃🬧🬂🬥 PY  
+16   ScPl öuf ZjjP+BHSgGP§fNYY§Hje§$jÖHJa§§
+17  funkhörer den "Falstaff" erleben, er   
+18                von Johannes Hösle       
+19  Ereignis nachzudenken und sich zum Bei-
+20  spiel die Frage stellen: Ist das Fest- 
+21  spiel nur noch Konvention statt Tradi- 
+22  tion ?                                 
+23                            Mehr in Kürze
+24
+--------------------------------------------
+P303  VT303 ARD/ZDF So  9 Aug 20.29:16
+ 1  ██🬂🬨🬨🬂🬂🬬🬂🬂🬬██                          
+ 2  ██ ▐▐ ▌▐ ▌▐██    NORDDEUTSCHER RUNDFUNK
+ 3  ██🬦🬁▐ ▌▐ 🬐🬫██                          
+ 4  ██▐ ▐ ▌▐ ▌▐██                   SONNTAG
+ 5  ██🬷🬭🬷🬭🬭🬻🬭🬲🬷██            9. August 1981
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎W🬎    🬎    W
+ 8
+ 9
+10  16.3O Uhr NDR3 JOHANNES BRAHMS         
+11  2O.O5 Uhr NDR  RADIOKONZERT            
+12                 Chor des NDR            
+13                 Knokke Cup m81          
+14                 Rundfunksender 1O euro- 
+15                 oäischer Länder um Pop  
+16                 Sänger - Wettstreit     
+17                 Am Mikrolon:Clay Sherman
+18                 Lehrstück aus Hamburg   
+19                 Von Charlote            
+20                 Drews-Bernstein   K  NER
+21                 Am Mikrofon:            
+22                 Jürgen Geppert          
+23                            Mehr in Kürze
+24
+--------------------------------------------
+P304  VT304 ARD/ZDF So  9 Aug 20.29:24
+ 1  ████🬂🬂🬬🬂🬂🬬███                          
+ 2  ████ ▌▐ ▌▐███              RADIO BREMEN
+ 3  ████ 🬐🬫 🬐🬫███                          
+ 4  ████ ▌▐ ▌▐███                   SONNTAG
+ 5  ████🬭🬲🬷🬭🬭🬻███             9.August 1981
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎  🬎         
+ 8                HANSAWELLE               
+ 9
+10  17.OO Uhr     DER BAHNWÄRTER SANDOMIR  
+11                Das Wunschkonzert von    
+12                Radio Bremen             
+13                nen Bahnschranke         
+14  "2.OO Uhr     FILM-MELODIEN            
+15                "Die FeuerzangenSowle",  
+16                Giueeppe Verdi:          
+17                "Träumereien"n "ri"      
+18                von der Tankstelle",     
+19                "Robinson Koll nicht     
+20                sterben", "Das große     
+21                Filmkarussell", "Die     
+22                große Nummer"            
+23                            Mehr in Kürze
+24
+--------------------------------------------
+P305  VT305 ARD/ZDF So  9 Aug 20.19:24
+ 1  ████🬆🬂🬬🬂🬂🬬███                          
+ 2  ████ 🬲🬷 ▌▐███   SAARLÄNDISCPER RUNDFUNK
+ 3  ████🬭🬒🬨 🬐🬫███                          
+ 4  ████🬂▌▐ ▌▐███                   SONNTAG
+ 5  ████🬱🬭🬻🬭🬲🬷███             9.August 1981
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 🬎  🬎         W
+ 8                SR2 STUDIOWELLE SAAR     
+ 9
+10  17.O5 Uhr     SPORT-JOURNAL            
+11                "TRISTAN UND ISOLDE"     
+12  18.O5 Uhr     NONSTOP                  
+13                SR3 SAARLANDWELLE        
+14  bis                                    
+15  17.OO Uhr     SPORT UND MUSIK          
+16                Musik für Fans           
+17  17.O5 Uhr     MUSIK LIEGT IN DER LUFT  
+18     OO Uhr     RADIO-REPnRT MIT SPORT   
+19                "Radio-Gutzjb" für Kindez
+20  22.15 Uhr     NACHTCLUB                
+21  18.O5 Uhr     SPORT REGIONAL           
+22
+23                            Mehr in Kürze
+24
+--------------------------------------------
+P306  VT306 ARD/ZDF So  9 Aug 20.20:06
+ 1  ██🬝🬂🬊🬕🬂🬨🬂🬂🬬██                          
+ 2  ██▌▐🬭▌▐█ ▌▐██      SENDER FREIES BERLIN
+ 3  ██🬲🬯🬂▌🬞🬷 🬐🬫██                          
+ 4  ██🬕🬨 ▌▐█ ▌▐██                   SONNTAG
+ 5  ██🬺🬭🬵🬲🬷█🬭🬭🬻██             9.August 1981
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 🬜 ^🬜 ^🬜 ^
+ 8
+ 9  19.45 Uhr SFB1 GUTE UNTERHALTUNG       
+10                 Plauderei mit viel M    
+11                 Tod eines Elefanten     
+12                 Ein Jagdbericht eus     
+13                 Tansania                
+14  17.O5 Uhr SFB1 FRANZ SCHUBERT:         
+15                 Die schöne Müllerin (II)
+16                 LiederzTklNs nach       
+17                 Gedichten von           
+18                 Salzburger Festu0 el    
+19  18.OO Uhr SFB3 DER BERLINER LIEBT      
+20                 MUSIKE           RY  LU 
+21                 Musik aus, um und über  
+22                 Berlin                  
+23                            Mehr in Kürze
+24
+--------------------------------------------
+P307  VT307 ARD/ZDF So  9 Aug 20.19:3 
+ 1  ██🬆🬂🬬🬂🬂🬬🬂🬂🬬██                          
+ 2  ██ 🬲🬷 ▌▐ ▌▐██     SÜDDEUTSCHER RUNDFUNK
+ 3  ██🬭🬒🬨 ▌▐ 🬐🬫██                          
+ 4  ██🬂▌▐ ▌▐ ▌▐██                   SONNTAG
+ 5  ██🬱🬭🬻🬭🬭🬻🬭🬲🬷██             9.August 1981
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K  🬎🬎🬎🬎🬎🬎🬎 🬎🬜 🬎   🬎       W
+ 8
+ 9  Für Mrsikfreunde:                      
+10
+11  16.OO Uhr SDR2 KAMMERMUSIK             
+12  19.OO Uhr SDR2 VON DEN BAYREUTHER FEST-
+13                 SPIELEN 1981            
+14                 TRISTAN UND ISOLDE      
+15
+16  Haben Sie Zeit zum Zuhören ?           
+17  Zu Ihrer Information:                  
+18  17,O3 Uhr VD"b§  SCPb Ö 🬌 🬃§  +'  Y(§§§
+19  15.O4 Uhr SDR3 SPORT-elGAoI    DI      
+20                 Josef Wimmer            
+21
+22
+23                            Mehr in Kürze
+24
+--------------------------------------------
+P308  VT308 ARD/ZDF So  9 Aug 20.29:28
+ 1  █🬝🬂🬊🬕🬨🬂🬕🬨🬂🬂██                          
+ 2  █▌▐🬭▌▐ ▌▐ ███               SÜDWESTFUNK
+ 3  █🬲🬯🬂▌▐ ▌▐ 🬭██                          
+ 4  █🬕🬨 ▌▐ ▌▐ ███                   SONNTAG
+ 5  █🬺🬭🬵🬺🬭🬭🬭🬻🬭███             9.August 1981
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎^🬜🬎^🬜^🬎^^🬎^
+ 8
+ 9
+10  17.OO Uhr WDR3 TREFFPUNKT HÖRSPIEL     
+11                 DAS ATELIERFEST         
+12  19.3O Uhr SWF1 RATGEBER LEBENSFRAGEN   
+13                 Angst                   
+14                 mit d m  xpert n        
+15                 Dr. Wolfgang Iruldr"    
+16                 Musikdrama in 3 Aufzü3jn
+17                 von Richard Wagner      
+18  21.O* Uhr S' 3 SWF§3az§$BD    + §§§§§§§
+19                 /ldies mit              
+20                 Frank Laufenberg        
+21
+22
+23                            Mehr in Kürze
+24
+--------------------------------------------
+P309  VT309 ARD/ZDF So  9 Aug 20.21:37
+ 1  █🬕🬨🬂🬕🬨🬂🬂🬬🬂🬂🬬█                          
+ 2  █▌▐ ▌▐ ▌▐ ▌▐█    WESTDEUTSCHER RUNDFUNK
+ 3  █▌▐ ▌▐ ▌▐ 🬐🬫█                          
+ 4  █▌▐ ▌▐ ▌▐ ▌▐█                   SONNTAG
+ 5  █🬺🬭🬭🬭🬻🬭🬭🬻🬭🬲🬷█             9.AUGUST 1981
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K  🬎🬎🬎🬎🬎🬎🬎 🬎 🬎🬎 🬎         W
+ 8
+ 9
+10  21.3O Uhr WDR3 DER SCHRIFTSTELLER UND  
+11                 EDELMANN HERMAN  PÜ    R
+12                 MUSKAU                  
+13                 vorgestellt von         
+14                 Felix Rexhausen         
+15
+16  19.3O Uif .DR3 RU  🬌STÖ🬁🬁MG            
+17                 Jean Amery:             
+18                 Bücher aus der Jugend   
+19                 dieses Jlhrhkndorts-    
+20                 11. Jakob Wassermann    
+21                 und Stefan Zweig        
+22
+23                            Mehr in Kürze
+24 addLg §.ir .DR' AM ABEND VORGESTELLT    
+--------------------------------------------
+P310  VT310 ARD/ZDF So  9 Aug 20.20:07
+ 1  ███🬂🬂🬬🬂█🬕🬂🬨██                          
+ 2  ███ ▌▐ █▌▐███           DEUTSCHLANDFUNK
+ 3  ███ ▌▐ █▌🬞🬷██                          
+ 4  ███ ▌▐ █▌▐███                   SONNTAG
+ 5  ███🬭🬭🬻🬭🬭🬲🬷███             9.August 1981
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 W 🬎        W
+ 8
+ 9  21.4O Uhr     THEMEN DER ZEIT          
+10  16.O5 Uhr     BÜCHER IM GESPRÄCH       
+11                Wirtsehaftsreform        
+12                "Die freudlose Gesell-   
+13  22.O  U r     sAS SPORTGE PRÄ H:       
+14                Auftakt :ur 19.Saison    
+15                der Fußball-Bundesliga   
+16  Behinderungen zu rechnen:              
+17  22.3O Uhr     DISCOTHEK NOR MITTERNACHT
+18                Ivo Pogorelich, Klavier  
+19                Achtung morgen:          
+20  14.1O Uhr     Laser-Krieg im Weltraum  
+21                Mög ichüeiten und Grnnchn
+22                einer neuen Waffentechnik
+23                            Mehr in Kürze
+24
+--------------------------------------------
+P333  VT333 ARD/ZDF So  9 Aug 20.21:Y6
+ 1  🬕🬂🬨🬕🬂🬨🬂🬂🬂🬂🬂🬨                           
+ 2  ▌ ▐▌ ▐🬭🬏  🬭🬷                           
+ 3  🬲 ▐▌ ▐█▌  ██                           
+ 4  🬲    🬷█▌  ██                           
+ 5  █🬏  🬞██▌  ██     E KEHRSINFOR🬦🬫T G🬣EN 🬯
+ 6  🬎🬌🬋🬋🬍🬎🬎🬌🬋🬋🬎🬎                           
+ 7  AUTO & REISE 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎            W
+ 8
+ 9  Belgien         1OO Franc          5,75
+10  Der BuOdesSENk  rO  ni te              
+11  Fennland        1OO ninnmarkn   n 55,OO
+12  auf  en Fe  sKrsßel - Hanuover    b    
+13  Griechenlan     1OO Drachmn        4,  
+14  verhältnissen zu rechnen ist:          
+15  Italien        1OOO Lire           2,O9
+16  A 81         Würzburg - Stuttgart      
+17  Niederlande   . 1OO Gu1den             
+18  A 9          Nürnberg - Münch          
+19  Portugal        1OO Escudos        4,35
+20  A 8           arl ruhe - Stut gaft -   
+21               Münche  - Salz            
+22  USA               1 Dollar         2,56
+23                    REEHRSISINRORMATION >
+24   GQY^DjruÖNHM§tj§tKGPöKMv§§§§§§§§§§§§§§
+--------------------------------------------
+P350  VT350 ARD/ZDF So  9 Aug 20.21:48
+ 1  █ ████████████                         
+ 2  █ █ ██████████  AUTO & REISE IN        
+ 3  ██████████████                         
+ 4  █  █ █████████  █🬪🬇🬻🬓🬻▐▐🬝🬦🬝🬝🬋🬻🬪▐🬝  ▐   
+ 5  █ ██ █████████  █▐▐▐▌█▐▐▌▐▌█▌█▌▐🬶▐▐▐   
+ 6  ██████████████  🬬🬜🬉🬺🬄█▐🬉🬺🬺🬄█🬓█🬧🬱🬘▐▌    
+ 7  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬋🬋🬋🬋XXXXXXX
+ 8
+ 9                  S-Gurtpflicht          
+10  TEMPO...........5O/8O/1OO              
+11  VORFAHRT........Rechts vor lin.s       
+12                  verkn r hat V rfah t   
+13              E ..2erkmth Ge rhwend g    
+14  Saarländischer Rundfunk........^WWW 🬒🬆J
+15                  stea eni D ,i  e       
+16                  Aehrfarhsörnerelor _t  
+17                 .Telefon iOe  dreim     
+18  PANNELHILFE.....(ulefoa eO   O §       
+19  PANNINHILFE.....Telefon         1      
+20  P         E   . O,5                    
+21  PROIINLIGRENZE..O,8                    
+22 §     § §§ §§§§§§§§§§§§§§§ <'  $$    Cöö
+23                               SLAWIEN >>
+24
+--------------------------------------------
+P400  VT400 ARD/ZDF So  9 Aug 20.29:42
+ 1   🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 2   ███ █ 🬲🬏🬞🬷██🬀🬭🬁█ █ 🬲🬏🬞🬷 █ █ 🬭█ █▌▐███ 
+ 3   ███ █ █▌▐███ 🬎 █ 🬆🬞█▌▐█ █ █ 🬎█ █▌▐███ 
+ 4   ███🬏 🬞█▌▐███ 🬹 █ 🬱 █▌▐█ █ █ 🬹█ █▌▐███ 
+ 5   ████🬭██🬲🬷███🬭█🬭█🬭█🬭█🬲🬷█🬱🬭🬵█🬭🬭█🬭🬭🬲🬭🬷██ 
+ 6   ▌                                   ▐ 
+ 7   ▌  ROM: Bei einem Bombenattentat    ▐ 
+ 8   ▌                                   ▐ 
+ 9   ▌  auf das Büro der israelischen    ▐ 
+10   ▌                                   ▐ 
+11   ▌  Fluggesellschaft EL AL wurden    ▐ 
+12   ▌                                   ▐ 
+13   ▌  zwei Personen verletzt..... 4O5  ▐ 
+14   ▌                                   ▐ 
+15   ▌                                   ▐ 
+16   ▌                                   ▐ 
+17   ▌  Nachrichten-Übersicht...... hOb Ij 
+18   🬺🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬻 
+19   █ █ 🬷🬏🬞🬲 🬲 🬷 🬷██🬀🬏🬞🬁▌🬞▌▐▌🬞🬁▌▐ 🬕🬞🬁🬕🬞🬁█ 
+20   █ █ 🬬▌▐🬝🬞█ █ 🬬██ ▌▐ ▌🬉▌▐▌▐ ▌▐ ▌▐ ▌▐🬂█ 
+21   █ █ 🬻▌▐▌▐█ █ 🬻██ ▌▐ ▌🬦▌▐▌▐ ▌▐ ▌▐ ▌▐ █ 
+22   █ 🬨 🬨▌▐▌🬁█ █ 🬨██ ▌▐ ▌🬁▌🬁▌🬁🬞🬲 🬞▌▐ 🬲 🬞█ 
+23   🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 🬎🬎🬎🬎🬎🬎          ^ 
+24   ▌                                   ▐ 
+--------------------------------------------
+P401  VT401 ARD/ZDF So  9 Aug 20.21:42
+ 1  ████🬺██████                            
+ 2  ████🬝🬎🬬████                            
+ 3  ████▌ ▐████           Ü B E R S I C H T
+ 4  ████▌ ▐████                            
+ 5  ████▌ ▐████                           2
+ 6  NACH%IC/TEN 🬎 🬎                        
+ 7  NACHRICHTEN 🬎🬎🬎🬎🬎🬎🬎🬎 🬎🬎🬎              W
+ 8  WASHINGTON: US-Präsident Reagan hat    
+ 9  entschieden, daß die Neutronenwaffe    
+10  geSHuNGTON: Streikende Fluglotsen zu   
+11  neuen Verhandlunen bereit...........4O7
+12  WASHINGTON: Ägyptens Präsident hat     
+13  LICHTENFELS: FDP-Geg dal parästinen-   
+14  sischen Volkes ausgesprochjn........4O 
+15  deswehr für  otw                       
+16  BELFAST: Neue Unruhjn in Nordirland.4O4
+17
+18  JERUSALM: Israel lehnt Friedensplan    
+19  für den Nahen Osten ab..........WWWW4O6
+20
+21                                       >>
+22                                       >>
+23
+24
+--------------------------------------------
+P402  VT402 ARD/ZDF So  9 Aug 20.29:35
+ 1  ██🬻██                                  
+ 2  ██ ██                       NACHRICHTEN
+ 3  ██ ██ 🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 4
+ 5        USA BAUEN NEUTRONENBOMBE         
+ 6        nen gefährlichen Schritt, der auf
+ 7        Deg erungssprscher Rüsl sagtR in 
+ 8        gan hat entsche denerdaß die um- 
+ 9        strittene Neuironinwaef  produ-  
+10        ziert wer en soll.               
+11        nicht aktuell.                   
+12        Reagen hob mit seinem Entschluß  
+13        eine Anordnung s ines Autsvorgän-
+14        gers Carter aus dem rihre 1978   
+15        auf. Cartär hatte tnrust.n und   
+16        von Protesten und Bedenken euro- 
+17        ges ziele.                       
+18        lung der Neutronenwaffe aufge-   
+19        schoben und nur die Produktion   
+20        hätten eie Amerikaner nicht die  
+21        bei seiner Explffen  L ben,pv r  
+22        Die Waffe sole vor rnt nur ud    
+23        hal  ddr e A gelstert w        >>
+24
+--------------------------------------------
+P403  VT403 ARD/ZDF So  9 Aug 20.29:46
+ 1  ██🬻██                                  
+ 2  ██ ██                       NACHRICHTEN
+ 3  ██ ██ 🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 4
+ 5        SADAT IN WASHINGTON              
+ 6        dUM§+GA ljrYEn_lU§jr§HZeKSlK§ KÄa
+ 7        Der ägyptiche Präsident Sadat hat
+ 8        sich in Washington erneut für die
+ 9        Anerkennung des palästinensischen
+10        Volkes und seiner Repräsentanten 
+11        ausgesprochen.                   
+12        Unruhen seit Monaten.            
+13        Vor Abschluß seines Besuches in  
+14        den USA verlangte er direkte Ge- 
+15        spräche zwischen Israel und den  
+16        Palästinensern, ohne daß Israel  
+17        die PLO akzeptieren müsse. Doch  
+18        habe Israel zur Kenntnis zu neh- 
+19        men, daß die Palästinenser eine  
+20        Heimat brauchten.                
+21        Sadat lehnte Israels Ansprüche   
+22        auf besetzte Gebiete im Westjq- 
+23        danland und im Gaza-Streifen ab. 
+24
+--------------------------------------------
+P404  VT404 ARD/ZDF So  9 Aug 20.29:52
+ 1  ██🬻██                                  
+ 2  ██ ██                       NACHRICHTEN
+ 3  ██ ██ 🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 4
+ 5        NEUE UNRUHEN IN NORDIRLAND       
+ 6        DAdUi wutHjnatfeS  UMfBPjZ§NHiyÜ§
+ 7        Nachdem gestern ein neunter IRA- 
+ 8        Häftling in Belfast an den Folgen
+ 9        eines Hungerstreikes gestorben   
+10        war, kam es in der Hetzten Nacht 
+11        in Nordirland zu den schwersten  
+12        Unruhen seit Monaten.            
+13
+14        Dabei wurden zwei Menschen getö- 
+15        tet und mehrere verletzt. Die Po-
+16        lizei meldete aus fast allen     
+17        Städten Nordirlands Kämpfe.      
+18
+19        Die Gewalttätigkeiten wurden noch
+20        durch antibritische Demonstrati- 
+21        onen anläßlich des 1O. Jahresta- 
+22        ges der Einführung der Internie- 
+23        rungsgesetze in Ulster angeheizt.
+24
+--------------------------------------------
+P405  VT405 ARD/ZDF So  9 Aug 20.20:22
+ 1  ██🬻██                                  
+ 2  ██ ██                  KURZMELDUNGGN  3
+ 3  🬎🬎 🬎🬎 🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬋🬋XXXXXXX🬋XX
+ 4
+ 5        ROM: AwIi PachnHin shima hatdheu-
+ 6        Searnberger see is  ein Spreng-  
+ 7        der israelischen Fluggesellschaft
+ 8        El AL auf dee röm schen Flughhee 
+ 9        verlbtzt. Es eitf aud eine lapae 
+10        nische Stant umsereben kamen.    
+11        kam es zu einer Panik. Vorüberge-
+12        CHICAGu: Die US-Staht en l mehrn 
+13        rerkehr gesdhl sahn.u            
+14        Flüchtlinge aus Polen aufnehmen, 
+15        die siehtin Lage müdse . nde     
+16        WIEN: Poldns Kerleichs befinden. 
+17        Österreich werden nach Angaben   
+18        des österreichisrhen H ndgesmdne-
+19        sters Staribachjr in diesem Jahr 
+20        seiscs A tos äls Gefertleeormen  
+21        lirh festgeleeten eine Millio    
+22        tionelpartei enth                
+23                       KURZMELDUNGEN 2 >>
+24
+--------------------------------------------
+P406  VT406 ARD/ZDF So  9 Aug 20.19:13
+ 1  ██🬻██                                  
+ 2  ██ ██                       NACHRICHTEN
+ 3  ██ ██ 🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 4
+ 5        ISRAEL WEIST FRIEDENSPLAN ZURÜCK 
+ 6        enthalte. Dagegen hielt ihn der  
+ 7        Regierung und Opposition Israels 
+ 8        haben einen Nahost-Friedensplan  
+ 9        Saudi-Arabiens als unannehmbar   
+10        zurückgewiesen.                  
+11
+12        Außenminister Shamir lehnte den  
+13        Plan ab, da er "nichts neues"    
+14        enthalte. Dagegen hielt ihn der  
+15        liberale Energieminister Berman  
+16        für "interessant".Erstmals habe  
+17        Saudi-Arabien einen politischen  
+18        Vorschlag unterbreitet.          
+19        Unter anderem sieht das Konzept  
+20        vor, Jerusalem zu teilen und zur 
+21        Hauptstadt sowohl eines Palästi- 
+22        nenser- als auch des jüdischen   
+23        Staates zu machen.               
+24
+--------------------------------------------
+P407  VT407 ARD/ZDF So  9 Aug 20.29:45
+ 1  ██🬻██                                  
+ 2  ██ ██                       NACHRICHTEN
+ 3  ██ ██ 🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 4
+ 5        FLUGLOTSENSTREIK IN DEN USA      
+ 6        müsse über eine Ende des Streiks 
+ 7        Die seit einer Woche streikenden 
+ 8        amerikanischen Fluglotsen haben  
+ 9        ihre Bereitschaft zu neuen Ver-  
+10        handlungen bekundet.             
+11        des Haus(bltes abhängig.         
+12        Der Vorsitzende der zuständigen  
+13        Gewerkschaft, Pol, erklärte, man 
+14        müsse über eine Ende des Streiks 
+15        sprechen, weil keine Seite einen 
+16        Sieg errinen könne.              
+17        Auch sei es einj Frage, ob die   
+18        Dagegen lehnte Verkehrsminister  
+19        Lewis Gespräche ab. Er bekräftig-
+20        te, daß die streikenden Lotsen   
+21        nicht wieder eingestellt würden. 
+22        Eine zeitweilige Verminderung des
+23        Luftverkehrs werde hingenommen.  
+24
+--------------------------------------------
+P408  VT408 ARD/ZDF So  9 Aug 20.29:43
+ 1  ██🬻██                                  
+ 2  ██ ██                       NACHRICHTEN
+ 3  ██ ██ 🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 4
+ 5        AUCH BUNDESWEHR SOLL SPAREN      
+ 6        prüft werden, ob immer teurere   
+ 7        Die Schlagkraft der Bundeswehr   
+ 8        ist nach Ansicht von FDP-General-
+ 9        sekretär Verheugen nicht unbe-   
+10        dingt von den Steigerungsraten   
+11        des Haushaltes abhängig.         
+12
+13        Er sagte, es müsse vor allem ge- 
+14        prüft werden, ob immer teurere   
+15        und technisch hochentwickelte    
+16        Waffensysteme notwendig seien.   
+17        Auch sei es eine Frage, ob die   
+18        Bundeswehr ständig 5OO.OOO Mann  
+19        unter Waffen haben müsse.        
+20
+21        Die FDP könne sich gut eine Armee
+22        vorstellen, bei der die Soldaten 
+23        nicht ständig strammstehen.      
+24
+--------------------------------------------
+P430  VT430 ARD/ZDF So  9 Aug 20.20:42
+ 1  ██🬻██                                  
+ 2  ██ ██                          KULTUR 2
+ 3  ██§██ 🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 4
+ 5                                         
+ 6        FREFBÄCHT E  LE  TS H            
+ 7        SCHWÄBISCH-HALL                  
+ 8        Dac  deb guten Erfolg ihres Aund 
+ 9        ruf  r"Plattaeuts he  reä ler    
+10        gesecht"th t r e rernsehreeht i  
+11        teonedes Nerdleutscden Rrndfulk  
+12        (NDR) jetzd eine  Fnlicnj A t on 
+13        für hoc deutsche erzä ler ge     
+14        startet.                         
+15        Die Auswacl enthält unter and rem
+16        Gesulhtgwerden umateu na nte     
+17        "er ärlen können", "eine erzäht- 
+18        nesmus.Deei( telfiger,ein  ü st  
+19        "ir der Lage ii djdieseeGtschie -
+20        te üeerae nen Zritraumrvoe       
+21        Sinueen zu e  ä  en".            
+22        Anarchie und Despotismus.        
+23                                       >>
+24
+--------------------------------------------
+P444  VT444 ARD/ZDF So  9 Aug 20.22:0Ä
+ 1           🬵🬱                            
+ 2     🬵🬻🬻🬱🬶🬻███🬱🬏                         
+ 3    🬫██████████🬆🬀                        
+ 4     🬊🬂🬆 🬊🬬🬝🬆🬞 🬇🬏                        
+ 5     🬖🬀🬖🬀🬖 🬏🬇🬏🬈🬏🬁🬢                       
+ 6      🬅🬞🬅🬞🬅🬁🬢🬁🬢🬁🬢       A U S L A N D   1
+ 7  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                     
+ 8  REISEWETTERBERIC T  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬜🬜🬜🬎🬎🬎🬎🬜🬎
+ 9  für die nächsten drei Tage             
+10              B EMEN🬍🬍🬍🬍🬍🬍🬍🬍🬍🬍🬍🬍🬍🬍🬍🬍§🬢🬠🬞 
+11  NORD-EUROPA:                           
+12  Amsterdam..16°/18°  Mo1kau..^W 15°/  Ä🬭
+13  Meise    t r, Höchs ter er t.r in   p  
+14  land und a  Atlantik 12° .....7°, sonst
+15  17n   s  4st         o   ..  .         
+16  örtlich auch über 35°.                 
+17  WESTÜEUR   :                           
+18  Wassertemperaturjn:                    
+19  Maist he ter, nur g biet.we .e  olk g. 
+20  Hörhs t   eratur    I lin  ... Sc   t- 
+21             s 22°, in England und Frank-
+22            bis 27°.                     
+23                              A SEANDGE >
+24
+--------------------------------------------
+P450  VT450 ARD/ZDF So  9 Aug 20.29:34
+ 1  █ ███▐█▌██▐██▌                         
+ 2  █ █ █ █ ▐▌▐▌▐▌                         
+ 3  █🬛█🬐█🬴🬐█▌█▌█▌█▌                        
+ 4  🬎🬄🬎🬄🬎🬎🬄🬎🬄🬎🬄🬎🬄🬎🬄             OHNE GEWÄH 
+ 5  🬕🬨▐▐▐▐🬨🬁🬕▐🬐██🬨🬀                      H 
+ 6  🬲🬫▐🬷▐▐▐ █ 🬏▐ ▐ 🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 7   █ ▐██▌ █ ▐██▌                         
+ 8   🬎 🬉🬎🬎🬄 🬎 🬉🬎🬎🬄 🬎🬎 🬎🬎 🬎 🬎🬎 🬎    🬎  🬎🬎 🬎 
+ 9
+10  Lottozahlen:i  4  7     11  42  48     
+11
+12  Pferdetoto:   15  18  9                
+13
+14 § 2. JL cx   F  K w s k . . 7          -
+15  Pferdelotto:  2  7  1O  12             
+16                                         
+17
+18  Zusatzspiel:   44                      
+19
+20  Elferwette:    1 O 2 1 O 1 0 1 1 O 2   
+21
+22
+23                           RENNQUINTETT >
+24
+--------------------------------------------
+P500  VT500 ARD/ZDF So  9 Aug 20.29:03
+ 1    🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 2    ██🬀🬏🬨 🬏🬨🬀🬏🬨 🬏🬨🬏🬞██🬀🬏🬨 ▌▐🬏🬞▌▐ ▌🬞▌▐▌▐██
+ 3    ██ J🬫 🬲U ▌▐ 🬄🬷🬲U██§🬉▐ 🬭█▌▐🬨U§▌🬉🬨U🬨U█🬺
+ 4    ██🬎🬲U 🬄▐ ▌▐ ▌▐▌▐██ ▌▐ ▌▐🬲U▌▐ ▌▐▌▐🬲U██
+ 5    ██🬏🬀🬷 🬹█🬏🬀🬷 ▌▐▌▐██ ▌▐ ▌▐▌▐🬲🬁🬞▌🬁▌🬁▌🬁██
+ 6    🬕🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬨
+ 7    ▌  TENNIS:DEUTSCHE MEISTERSCHAFT    ▐
+ 8    ▌  -----------------------------    ▐
+ 9    ▌  Peter Elter(Jssen) ist neuer     ▐
+10    ▌                                   ▐
+11    ▌  deutscher Tennismeister. Er be-  ▐
+12    ▌                                   ▐
+13    ▌  siegte im Finale Klaus Eberhard  ▐
+14    ▌                                   ▐
+15    ▌  (HAönovUr) Ym 5 Sätzen..... 5Ob  ▐
+16    ▌                                   ▐
+17    ▌  Sport-Übersicht............ 5O1 Iu
+18    🬺🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬻
+19    █ █ 🬷🬏🬞🬲 🬲 🬷 🬷██🬀🬏🬞🬁▌🬞▌▐▌🬞🬁▌▐ 🬕🬞🬁🬕🬞🬁█
+20    █ █ 🬬▌▐🬝🬞█ █ 🬬██ ▌▐ ▌🬉▌▐▌▐ ▌▐ ▌▐ ▌▐🬂█
+21    █ █ 🬻▌▐▌▐█ █ 🬻██ ▌▐ ▌🬦▌▐▌▐ ▌▐ ▌▐ ▌▐ █
+22    █ 🬨 🬨▌▐▌🬁█ █ 🬨██ ▌▐ ▌🬁▌🬁▌🬁🬞🬲 🬞▌▐ 🬲 🬞█
+23    🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎^🬎🬎🬎^🬍🬎^^^^^🬜^^^^ ^^
+24
+--------------------------------------------
+P501  VT501 ARD/ZDF So  9 Aug 20.29:43
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹                              
+ 2  ████ 🬂🬂🬂🬂             Ü B E R S I C H T
+ 3  █████████                              
+ 4  🬭🬭🬭🬭 ████                              
+ 5  🬎🬎🬎🬎🬎🬎🬎🬎🬎                              
+ 6  S P O R T 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 🬎🬎 🬎🬎 🬎 🬎🬎      🬎
+ 7  T    🬁🬲🬟 §🬞§§🬇▐🬱ÜUK🬣O ÖHBCYB🬞🬻YSGXÜE🬦_🬭
+ 8  TENNIS:      Deutsche Meisterschaft 502
+ 9  SEGELN:      Admiral's Cup......... 5O3
+10  MOTORSPORT:  Motorrad-WM 10.Lauf... 5O4
+11  FUSSBALL:    Bundesliga............ 5O5
+12               2.Bundesliga.......... 5O6
+13               Tabellen..^........... 5';
+14  S ° O R 🬉 🬎                            
+15  TENNIS:      Turnier/Indianapolis.. 5O8
+16  SPORT IN KÜRZE..................... *'X
+17  LEICHTATHL.: Mehrkampf-DM.......... 51O
+18
+19
+20
+21
+22
+23
+24
+--------------------------------------------
+P502  VT502 ARD/ZDF So  9 Aug 20.29:53
+ 1  █████████                              
+ 2  ████ 🬂🬂🬂🬂                        TENNIS
+ 3  █████████        DEUTSCHE MEISTERSCHAFT
+ 4  🬭🬭🬭🬭 ████               IN BRAUNSCHWEIG
+ 5  🬎🬎🬎🬎🬎🬎🬎🬎🬎                             1
+ 6  S P O R T 🬎🬎🬹🬹🬎🬹🬹🬹🬎🬹🬎🬹🬹🬹🬹🬹🬎🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 7
+ 8  Damen-Doppel (Finale)                  
+ 9  Damen-Einzel/Finale:      §      §     
+10                                         
+11  (Saarbrücken/Frankfurt)                
+12      hClauddelKohdi tSaarbrücken)       
+13  !BerYinOReutlingen)............ 6:1X6:2
+14  ( s e )                                
+15
+16  Klaus Eberhard                         
+17  (Hannover)..........6:3,4:6,7:6,+:7 6:2
+18  Beutel/Zipf (Hannover/Amberg) -        
+19        Elter/Keretic (Essen/Stuttgart)  
+20  (Frankfurt/Berlin)......6:7  6:2  6:2  
+21                            6:O  🬔🬘🬒  🬔🬘🬓
+22
+23 &////>//^/ §                 §§     §§ 🬢
+24
+--------------------------------------------
+P503  VT503 ARD/ZDF So  9 Aug 20.29:48
+ 1  ████🬎████                              
+ 2  ████ 🬂🬂🬂🬂                        SEGELN
+ 3  █████████                 ADMIRAL'S CUP
+ 4  🬭🬭🬭🬭 ████            FÜR HOCHSEEYACHTEN
+ 5  🬎🬎🬎🬎🬎🬎🬎🬎🬎                              
+ 6  S P O R T2////////////////////>>>>>>>>^
+ 7
+ 8  272 Hochsee-Yachten starteten heute zum
+ 9  über 6O5 sm führenden Fastnet-Rennen.  
+10  Experten zweifeln nicht mehr an einem  
+11  Gesamtsieg des führenden englischjn    
+12  Teams, obwohl die Ergebnisse dieser Re-
+13  gatta dreifach gewertet werden.        
+14  Die deutschen Vertreter liegen abge-   
+15  schlagen auf dem achten Platz.         
+16
+17  Nationenwertung nach 3 Wertungen:      
+18  1.England.............^WWWWWWWW 52Ä 🬞🬕🬷
+19  2.Italien.....................^ahpp§  §
+20    Australien..............W..W. 🬦 🬭§§ §
+21  4.IrYand.................^ÜÜÜÜÜahhb§§§§
+22  8.Deutschland............WWWWWW 3 O    
+23
+24
+--------------------------------------------
+P504  VT504 ARD/ZDF So  9 Aug 20.29:37
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹                              
+ 2  ████ 🬂🬂🬂🬂                    MOTORSPORT
+ 3  █████████                 GROSSER PREIS
+ 4  🬭🬭🬭🬭 ████         IN  IMATRA (FINNLAND)
+ 5  🬝 O🬎🬎🬎🬎O🬎                    § 9.8.1981
+ 6  S P O R T 🬎 🬎  🬎🬎🬎 🬎🬎   🬎  🬎🬎    🬎  🬎 🬎
+ 7
+ 8   Anton Mang sicherte sich vorzeitig hie
+ 9   Weltmeisterschaft in der 25O ccm-     
+10   Klasse. Er führt uneinholbar mit 13O  
+11   Punkten vor dem Franzosen Balde.      
+12                                         
+13   Klasse bis 25O ccm                    
+14   1. A.Mang (D) Kawasaki...47:31:8 Min. 
+15   2. J.Balde(F) Kawasaki...47:43:4  "  .
+16   3. J.Guignabodet((F).....47:43:8  "   
+17
+18   Stand nach 1O von 12 Rennen der WM-   
+19   Wertung:                              
+20   1. A.Mang (D)............13O Punkte   
+21   2. J.Balde (F)........... 8g   "      
+22   3. C.Lavada (VEN)........ 56   "      
+23
+24
+--------------------------------------------
+P505  VT505 ARD/ZDF So  9 Aug 20.22:47
+ 1  █████████                              
+ 2  ████ 🬂🬂🬂🬂                              
+ 3  █████████                      FUSSBALL
+ 4  🬭🬭🬭🬭 ████                    BUNDESLIGA
+ 5  🬎🬎🬎🬎🬎🬎🬎🬎🬎                    1.Spieltbg
+ 6  S P O R T 🬎🬎🬎 🬎🬎🬎 🬎🬎🬎🬎  🬎🬎 🬎           
+ 7
+ 8  Sonnabend, 8.August 1981:              
+ 9  Tore: 1:O Rummenigge, 2:O Dremmler,    
+10  Tore: 1:O Löw, 2:O Körbel, 2:1 Funkel  
+11
+12  Zuschauer: 4O.OOO                      
+13  VfB Stuttgart-Fort.Düsseldorf 3:2 (2:1)
+14  MSV DKÖLN - BKRUSSIA DORTMUND.......1:)
+15  Tore: 1:O Bonhof                       
+16  Zuschauer: r4.OOO                      
+17  1.FC KölnmDorussia Dortmund   1:O (O:O)
+18  VfL BOChUM - 1. N rnberE      2:O^-^1:)
+19  (Nre: 1:O§0cxjReX§dv § KKVHa§§§§§§§§§§§
+20  Zusch u:r  a5tOOO                      
+21  EI  RÜ "B   +5(§ÄabLM §   " $f LÜÜÜÜu4g
+22         e              ZU               
+23                                      >> 
+24
+--------------------------------------------
+P506  VT506 ARD/ZDF So  9 Aug 20.29:37
+ 1 $ööööööööö                              
+ 2  ████ 🬂🬂🬂🬂                              
+ 3  █████████                      FUSSBALL
+ 4  🬭🬭🬭🬭 ████                  2.BUNDESLIGA
+ 5  🬎🬎🬎🬎🬎🬎🬎🬎🬎                    3.Spieltag
+ 6  S P O R T 🬎🬎     🬎                     
+ 7
+ 8  Frejtp7,7VAug5yt:                      
+ 9  SPVGG BAYREUTH Ü STUTT 🬌KIFKERSÜÜÜ🬌🬍🬠🬲🬟
+10  Tore: O:1 Reiss,  :2  irner, 1:2 F     
+11 §  § §§dvd§ eKqYKe§§§§§§§§§§§§§§§§§§§§§§
+12  Zuschauer: 5.OOO                       
+13  WorIatia Worms-Hessen Kassel. 1:O (1:O)
+14  SOR ATIA EIRMS - HES EE DASSEN......3:O
+15  Tore: 1:O Müllnet               §      
+16       au:r  3.OOO                       
+17  Hertha BSC 6ortuna Kö n...... 4:O (  O)
+18  HANNOVER 96 - ROT-WEISS ISSE  2.....:u)
+19  Tore: 1:O Schatzschneider, 2:O Kleppin-
+20   o    ger, 3:O S, atz chnei er         
+21  Zuschauer:  FmOOc     e b fh. b:2 (1:2)
+22                                       > 
+23
+24
+--------------------------------------------
+P507  VT507 ARD/ZDF So  9 Aug 20.20:08
+ 1  █████████                              
+ 2  ████ 🬂🬂🬂🬂                      FUSSBALL
+ 3
+ 4  🬭🬭🬭🬭 ████            TORJÄGER-RANGLISTE
+ 5  🬎🬎🬎🬎🬎🬎🬎🬎🬎           nach d m 3.S teltag
+ 6  S P O R T 🬎🬎🬎🬎🬎🬎🬎🬎      🬎   🬓🬘🬑    🬑🬘🬍 
+ 7     5. Kickers Offenbach 2   7:4    3:1 
+ 8     o.  (Hertha BSC)...  .   .:2     :  
+ 9     7. Waldhof Mannheim  3   4:3    3:3 
+10     r. ler (Schalke      .   ...     :  
+11     9. Spvgg Fürnh       3   5:5    3:3 
+12     u. op (Kichers O fen a   ...     :  
+13        Rot-Weiß Essen    3   4:4    🬒🬘🬒 
+14        lemeier (RW       . .....    T:1 
+15 §§§b&Ü§ KgeHM§ C🬣🬤▐Y§§§§§🬥🬟§§🬠🬹🬟§§§§🬢🬲🬥§
+16    1e. ndec.Dü (Sldgg    1   2:3    O:2 
+17    Rem tk X9 etQr§D'GR ÜÜÜÜÜÜÜÜÜÜad§§D§§
+18    1l. e-Simon (Alem.    e   .:.     :2 
+19    1>< W_rmBliA§.Nekc§  §g  §b4ga§§§d4m§
+20    1i. 1r (SC Freirgr    1   O:2    O:2 
+21  ; apL BAzUr  jverkusen  1   2:6    O:2 
+22    Respondek (Freiburger F   4:8    1:5 
+23                           2.Bundeliga >>
+24
+--------------------------------------------
+P508  VT508 ARD/ZDF So  9 Aug 20.20:56
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹                              
+ 2  ████ 🬂🬂🬂🬂                        TENNIS
+ 3  █████████  US-HARTPLATZ-M"hSTERSEHAFT%g
+ 4  🬭🬭🬭🬭 ████               IN INDIANAPOLIS
+ 5  🬎🬎🬎🬎🬎🬎🬎🬎🬎                              
+ 6  S P O R T 🬎 🬎 🬎🬎 🬎 🬎 🬎 🬎            🬎  
+ 7
+ 8  DAMENEINZEL:                           
+ 9
+10  J.L.Clerc(ARG) -                       
+11  Das Finale um den Damentitjl err:i htb7
+12  erwartungsgemäß die 16jährige Amerika- 
+13  nerin Andrea Jaeg r und die zehn Jahre 
+14  ältere Virginia Ruzici ..umänien).     
+15
+16  Jaeger hatte im Halbfinale keine Mühe  
+17  gegen die Jugoslawin Jausovec,während  
+18  Ruzici die Tschechoslowakin Marsikova  
+19  G..slhaltete.                          
+20        R.Cano (ARG)........     6:3  6:1
+21                                       >>
+22
+23                                       >>
+24
+--------------------------------------------
+P509  VT509 ARD/ZDF So  9 Aug 20.20:08
+ 1  ████🬎████                              
+ 2  ████ 🬂🬂🬂🬂                              
+ 3
+ 4  🬭🬭🬭🬭 ████                              
+ 5  🬎🬎🬎🬎🬎🬎🬎🬎🬎                             5
+ 6  S P O R T2////////////>/>>>>>/^>.>^>^>^
+ 7
+ 8            LEICHTATHLETIK: Frank Emmel- 
+ 9            mann heißt der neue Sprint.  
+10            der Juernd-Ee3opameister-  - 
+11            teHkrm°DGÜ§fZeG°K§Hjj§ ANHHÄa
+12            gewaen a eb eras heed Susa   
+13            Wenzer (Kvenshagen)  nd  ßr- 
+14            gen R ben (Heukenktaemn. i   
+15  ████🬎████                              
+16            ger Hrachova/Brede  us der   
+17
+18            WASSEoeP(INGEN: DieneraP Ew--
+19
+20            und Torsten Carels aus§Viel  
+21            TISCHT NNIS: Das Mixjd-Finale
+22            Meiatnr im Rolltanz      n   
+23            tfKSiUÜa0YAxt a§§§§§§ b§§§§öö
+24
+--------------------------------------------
+P510  VT510 ARD/ZDF So  9 Aug 20.20:59
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹                              
+ 2  ████ 🬂🬂🬂🬂                LEICHTATHLETIK
+ 3  █████████           DEUTSCHE MEHRKAMPF-
+ 4  🬭🬭🬭 █████                 MEISTERSCHAFT
+ 5  🬎🬎🬎🬎🬎🬎🬎🬎🬎                       IN LAGE
+ 6  S P O R T 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬜🬜🬜 🬜 ^    🬆^
+ 7
+ 8  ZEHNKAMPF-HERREN (ENDERGEBNIS)         
+ 9
+10  1. A.Rizzi (Mannheim)......8 2O7 Punkte
+11
+12  3. G.Kratschmer (Mainz)..  8 O66   "   
+13
+14  SIEBENKAMPF-FRAUEN (ENDERGEBNIS)       
+15  🬵🬹🬹🬹🬹🬹🬹🬹🬵§                             
+16  1. S.Everts (Düsseldorf)...6 357 Punkte
+17     (Deutscher Rekord)                  
+18  2. U.Rompf (Haiger)........6 172   "   
+19  3. M.Krolkiewicz (Berlin)..5 85O   Q🬐  
+20
+21
+22
+23
+24
+--------------------------------------------
+P600  VT600 ARD/ZDF So  9 Aug 20.29:56
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 2                                         
+ 3     🬕▌                    ▌             
+ 4     🬛🬄🬕🬄🬴▌🬴🬐🬴🬐🬴▌▌▌🬕▌🬕🬄🬴🬐🬕🬄🬕▌🬰▌▌▌🬴▌🬕▌    
+ 5     ▌ ▌ 🬲🬓🬱▌🬱▌🬲🬓🬪🬄🬲▌▌ 🬱▌🬲🬓▌▌🬲▌🬲▌🬲🬓▌▌    
+ 6                                         
+ 7  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎  🬎              W 
+ 8
+ 9    DIE WELT................6Oa§Dig§d &a 
+10                                         
+11
+12    FRANKFURTER ALLGEMEINE .6O4 bis 6O6  
+13
+14  █CFVFFVFFFFFV§§§§§§§§§§§§§§§§§§§§§§§§§§
+15    FRANKFURTER RUNDSCHAU ..6O7 bis 6O9  
+16
+17
+18    HANDELSBLATT............61O bis 612  
+19
+20
+21    SÜDDEUTSCHE ZEITUNG.....613 bis 615  
+22
+23
+24
+--------------------------------------------
+P601  VT601 ARD/ZDF So  9 Aug 20.29:49
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 2  ████🬒🬡🬰🬂🬴🬂🬸🬒🬡🬰🬨██🬒🬡██🬒🬸🬒🬡🬰🬨🬒🬡█🬡🬒🬡🬒█████
+ 3  ████▌▐█ █ █▌🬉🬨███▌▐▌▐▌█▌🬉🬨█▌▐██▌▐██████
+ 4  ████▌▐█ █ █▌▐🬻🬬██▌▐▌▐▌█▌▐🬻█▌▐█🬬▌▐██████
+ 5  ████🬮🬯🬰🬭🬴🬭🬸🬮🬯🬰🬷██🬲🬯🬮🬯🬮█🬮🬯🬰🬷🬮🬯🬰🬷🬮🬯██████
+ 6  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎W🬎🬎🬎🬎🬎🬎🬎  🬎  🬎       ^^  ^
+ 7
+ 8   NEUTRONENWAFFE WIRD GEBAUT            
+ 9
+10
+11   Die Diskussion um die umstrittene     
+12   NATO-Nachrüstung mit atomaren Mittel- 
+13   streckenwaffen in Europa hat am       
+14   Wochenende eine neue Dimension erhal- 
+15   ten. Zur Entscheidung der USA, mit dem
+16   Zusammenbau der Neutronenwaffe aus    
+17   Einzelteilen zu beginnen, er 🬩🬸🬯🬱▐ R🬣R
+18   gierungssprecher Lothar Rühl in Bonn, 
+19   die Frage einer Stationierung auf     
+20   deutschem Boden sei zur Zeit "nicht   
+21   aktuell".                             
+22   Mehr morgen in der WELT.              
+23                     Mehr auf 6O2 und 6O3
+24
+--------------------------------------------
+P602  VT602 ARD/ZDF So  9 Aug 20.29:59
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 2  ████🬒🬡🬰🬂🬴🬂🬸🬒🬡🬰🬨██🬒🬡██🬒🬸🬒🬡🬰🬨🬒🬡█🬡🬒🬡🬒█████
+ 3  ████🬲U█ █ █▌🬉🬨███▌▐▌▐▌█▌🬉🬨█▌▐██▌▐██████
+ 4  ████▌▐█ █ █▌▐🬻🬬██▌▐▌▐▌█▌▐🬻█▌▐█🬬▌▐██████
+ 5  ████🬮🬯🬰🬭🬴🬭🬸🬮🬯🬰🬷██🬲🬯🬮🬯🬮█🬮🬯🬰🬷🬮🬯🬰🬷🬮🬯██████
+ 6  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 🬎🬎🬎  🬎  ^🬍  ^^ ^^
+ 7
+ 8   BRANDT UNPOPULÄR                      
+ 9                                         
+10                                         
+11   Der SPD-Vorsitzende Willy Brandt ge-  
+12   hört zu den unpopulärsten Bonner Poli-
+13   tikern. Dies geht aus einer Übersicht 
+14   des Meinungsforschungsinstituts Emnid 
+15   über "Popularitätsindikaloren" hervNeX
+16   deren Einzelheiten jetzt der WELT be- 
+17   kannt geworden sind. Danach rangiert  
+18   Brandt mit einem Indikator von O,1    
+19   unter 15 führenden Sozialdemokraten   
+20   (ohne Wehner) an letzter Stelle.      
+21
+22   Mehr morgen in der WELT.              
+23                     Mehr auf 6O1 und 6O3
+24
+--------------------------------------------
+P603  VT603 ARD/ZDF So  9 Aug 20.20:09
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 2  ████🬒🬡🬰🬂🬴🬂🬸🬒🬡🬰🬨██🬒🬡██🬒🬸🬒🬡🬰🬨🬒🬡█🬡🬒🬡🬒█████
+ 3  ████▌▐█ █ █▌🬉🬨███▌▐▌▐▌█▌🬉🬨█▌▐██▌▐██████
+ 4  ████▌▐█ █ █▌▐🬻🬬██▌▐▌▐▌█▌▐🬻█▌▐█🬬▌▐██████
+ 5  ████🬮🬯🬰🬭🬴🬭🬸🬮🬯🬰🬷██🬲🬯🬮🬯🬮█🬮🬯🬰🬷🬮🬯🬰🬷🬮🬯██████
+ 6  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 🬎🬎🬎🬍^^   ^^^^
+ 7
+ 8   HINRICSTUNGNG LEE                     
+ 9
+10                                         
+11   Degen e n ghstreie über  lenv n So-   
+12   tine n aue poni isohee Geünden. W e   
+13   die vom islamisesen Revohetiinsstgi-e 
+14   kentrrlni rte ches e des Landes be    
+15   richtitehe Diekislion. annenminister  
+16   Gnrhertderumeusn der CSU-V rsudzenr-  
+17   teanz-nose nicha ß npr chen sich  e   
+18   ste  enngeaichteten haBiet  gs stcn   
+19   dig sorient erte Regimegegner.        
+20   ses Sparens durchaus zuzumuten."      
+21   Mehr morgen in  errWELTT              
+22   Bericht morgen in der WELT.           
+23        Mehr in Kürze und auf 6O1 und 6O2
+24
+--------------------------------------------
+P604  VT604 ARD/ZDF So  9 Aug 20.29:10
+ 1  als Abschreckung für einen sowjetischjn
+ 2  ▐🬂🬀     🬓 🬔    🬓     🬕🬨🬦🬦         🬇    
+ 3  ▐🬋▐🬀🬰▌🬕▌🬛🬐🬛▐▐▐🬀🬕▐🬨▐🬀 🬕🬨▐▐▐🬨▐🬨▐🬨🬨▐🬨▐▐🬨▐🬨
+ 4  ▐ ▐ 🬲▌▌▌▌▌▌▐🬷▐ ▌▐🬰▐  ▌▐▐▐▐🬷▐🬰▐▐▐▐🬰▐▐▐▐🬡
+ 5                           🬇🬍            
+ 6         ZEITUNG FÜR DEUTSCHLAND         
+ 7  🬋X🬋🬋🬋X🬋🬋🬋🬋XX🬋🬋🬋🬋X🬋XXXXX🬋XXXX🬋XXXXXXXXXX
+ 8
+ 9  Neutronenwaffe wird produziert         
+10
+11  Der amerikanische Präuident Reagan hat 
+12  die Serienherstellung der Neutronenwaf-
+13  fe angerdnet, will sie Bber vNrerst    
+14  nicht in Europa stationieren. Sie gilt 
+15  als Abschreckung für einen sowjetischen
+16  Panzerangriff.                         
+17
+18  Den Beschluß, frühjr wegen Kritik aus  
+19  Europa vertagt, erläutert Jan Reifen-  
+20  berg am Montag auf Seite 1 der F.A.Z.  
+21
+22              F.A.Z. auch auf 6O5 und 6O6
+23  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋X XXX     
+24
+--------------------------------------------
+P605  VT605 ARD/ZDF So  9 Aug 20.29:52
+ 1  ▐🬂🬀     🬓 🬔    🬓     🬕🬨🬦🬦         🬇    
+ 2  ▐🬋▐🬀🬰▌🬕▌🬛🬐🬛▐▐▐🬀🬕▐🬨▐🬀 🬕🬨▐▐▐🬨▐🬨▐🬨🬨▐🬨▐▐🬨▐🬨
+ 3  ▐ ▐ 🬲▌▌▌▌▌▌▐🬷▐ ▌▐🬰▐  🬲U▐▐▐🬷▐🬰▐▐▐▐🬰▐▐▐▐🬡
+ 4                           🬇🬍            
+ 5         ZEITUNG FÜR DEUTSCHLAND         
+ 6  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬋🬋🬋🬋🬋🬋XXXXXXXXXXX
+ 7
+ 8  Neue Zeichen in Nahost                 
+ 9
+10  Ägyptens Präsident Sadat wirbt in Ame- 
+11  rika für die Fortsetzung Hjs Friedjns- 
+12  prozesses in Nahost, die Saudis legen  
+13  einen Plan vor, der das Lebensrecht    
+14  Israels anerkennt. Trotz Libanon-Krise 
+15  gibt es neue Zeichen in Nahost.        
+16
+17  Korrespondenten der F.A.Z. berichtj7 am
+18  Montag von den Schauplätzen des Ge-    
+19 §schehens.                              
+20
+21              F.A.Z. auch auf 6O4 und 6O6
+22  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋 🬋 X       
+23
+24
+--------------------------------------------
+P606  VT606 ARD/ZDF So  9 Aug 20.29:54
+ 1  ▐🬂🬀     🬓 🬔    🬓     🬕🬨🬦🬦         🬇    
+ 2  ▐🬋▐🬀🬰▌🬕▌🬛🬐🬛▐▐▐🬀🬕▐🬨▐🬀 🬕🬨▐▐▐🬨▐🬨▐🬨🬨▐🬨▐▐🬨▐🬨
+ 3  ▐ ▐ 🬲▌▌▌▌▌▌▐🬷▐ ▌▐🬰▐  ▌▐▐▐▐🬷▐🬰▐▐▐▐🬰▐▐▐▐🬰
+ 4                           🬇🬍            
+ 5         ZEITUNG FÜR DEUTSCHLAND         
+ 6  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋XXXX🬋XXXXXXXXXXXXX
+ 7
+ 8  Reformkoeninistin sindg he  Konfan     
+ 9
+10  Wie ise es möglice, daß die Polen      
+11  198O/81 v eo mn z HjrhnNeseijl§PBDju§d 
+12  aes dke Prftagon stfn des Prager Früh- 
+13  lengs 1968e Sind ein  l e  r o ichen   
+14  nis et, die nie übar de   ch tte   er  
+15  KP und ihrer Ideologie springen kon6   
+16  ten, selbst im Weg gestande ?          
+17  Das Verhältnis zwischHn Griechenland   
+18  Das sind Fragen, denen Ota Filip au    
+19  Seite 8 der F.A.Z. vom Montag nachgeht.
+20  F.A.Z. aus Wartchau, M      u d    l   
+21        Mehr in Kürze und auf 6O4 und 605
+22        Mehr in Kürze und auf 6O4 und 6O5
+23  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋           
+24
+--------------------------------------------
+P607  VT607 ARD/ZDF So  9 Aug 20.20:10
+ 1
+ 2   🬕🬟🬏🬭🬏🬭🬏▌🬏🬷🬮🬞🬞🬖🬛🬭🬏🬭 🬕▌🬏🬏🬭X🬭▌🬭X🬖🬲🬖🬭🬖🬭🬭  
+ 3   🬕▐ ▌▌▌▌🬕🬓▐▐▐▐ ▌🬛🬄🬉 🬕🬦▌▌🬲🬲▌🬲🬌🬪🬉U▐U▐▐▐§§
+ 4   🬮🬯🬭🬰🬰🬮🬮🬮🬮🬯🬯🬰🬯🬭🬮🬰🬮🬮🬭🬮🬮🬰🬮🬮🬮🬰🬮🬰🬮🬰🬯🬯🬯🬰🬰🬰  
+ 5
+ 6
+ 7   LUMMER WIEGELT AB                     
+ 8
+ 9
+10   Der West-Berliner Innensenator Hein-  
+11   rich  jemUH XfsU)§Djus eSYi§HnK§DjÄa§§
+12   vorstehende Tuwat-Veranstaltung jetzt 
+13   ruhiger.                              
+14   Inzwischen sind auch hie JDU-regPerten
+15   Die Autoren eines sehr umstrittenen   
+16   Flugblattes hätten "den Mund ein biß- 
+17   chen sehr voll genommen", sagte er    
+18   gegenüber der FR.                     
+19   Bericht morgen in der FR.             
+20   Bericht morgen in der FR.             
+21
+22        Mehr in Kürze und auf 6O8 und 6O9
+23        Mehr in Kürze knd auf 6O8 und 6O3
+24
+--------------------------------------------
+P608  VT608 ARD/ZDF So  9 Aug 20.20:52
+ 1
+ 2
+ 3   🬕🬟🬏🬭🬏🬭🬏▌🬏🬷🬮🬞🬞🬖🬛🬭🬏🬭 🬕▌🬏🬏🬭🬏🬭▌🬭🬏🬭▐🬭🬞🬭🬞🬞  
+ 4   🬕▐ ▌▌▌▌🬕🬓▐▐▐▐ ▌🬛🬄▌ 🬕🬓▌▌▌▌▌🬲🬌🬓▌▐▐▐▐▐▐§§
+ 5   🬮🬯🬭🬰🬰🬮🬮🬮🬮🬯🬯🬰🬯🬭🬮🬰🬮🬮🬭🬮🬮🬰🬮🬮🬮🬰🬮🬰🬮🬰🬯🬯🬯🬰🬰🬰  
+ 6   OUMüStiÜa §   §§§ §§§§§§§§§§§§§§§§§§§§
+ 7   VERLUSTE IN MILLIONEN-HÖHE            
+ 8
+ 9
+10   Der noch immer andauernde Streik von  
+11   rund 15 OOO amerikanischen Fluglotsen 
+12   hat für die Fluggesellschaften zu täg-
+13   lichen Verlusten in Millionen-Höhe    
+14   geführt.                              
+15
+16   Dennoch lehnt die US-Regierung jede   
+17   Verhandlung mit den Streikenden ab.   
+18
+19   Ausführlicher Bericht morgen auf      
+20   Seite 3 der FR.                       
+21
+22                     Mehr auf 6O7 und 6O9
+23
+24
+--------------------------------------------
+P609  VT609 ARD/ZDF So  9 Aug 20.20:10
+ 1
+ 2
+ 3   🬕🬟🬏🬭🬏🬭🬏▌🬏🬷🬮🬞🬞🬖🬛🬭🬏🬭 🬕▌🬏🬏🬭🬏🬭▌🬭🬏🬭▐🬭🬞🬭🬞🬭  
+ 4   🬕▐ ▌▌▌▌🬕🬓▐▐▐▐ ▌🬛🬄▌ 🬕🬓▌▌▌▌▌▌🬌🬓▌▐▐▐▐▐▐  
+ 5   🬮🬯🬭🬰🬰🬮🬮🬮🬮🬯🬯🬰🬯🬭🬮🬰🬮🬮🬭🬮🬮🬰🬮🬮🬮🬰🬮🬰🬮🬰🬯🬯🬯🬰🬰🬰  
+ 6
+ 7   GLÄNZEL NEUER FERNSEHDIREKTOR         
+ 8
+ 9
+10   Neuer Fernseh-Programmdirektor des    
+11   Hessischen Rundfunks (HR) wird am 1.  
+12   Dezember der Pädagoge, Publizist und  
+13   Vorsitzende des ARD-Programm-Beirats, 
+14   Horst Glänzel (53).                   
+15
+16   Glänzel tritt die Nachfolge von Hans- 
+17   Otto-Grünefeldt (65) an, der nach 35- 
+18   jähriger Rundfunktätigkeit aus dem HR 
+19   ausscheidet.                          
+20
+21   Mehr über Glänzel morgen auf der Fern-
+22   sehseite der FR.                      
+23                     Mehr auf 6O7 und 6O8
+24
+--------------------------------------------
+P610  VT610 ARD/ZDF So  9 Aug 20.19:54
+ 1     🬨🬕🬁█🬀       🬻   🬩▌  🬦▌ 🬩▌   🬵 🬵     
+ 2     ▐🬲🬭█🬞🬅🬱🬦🬖🬱🬞🬚█🬞🬋🬱▐▌🬔🬈▐🬛🬱▐▌🬖🬧🬖█🬋█🬃    
+ 3     ▐▌ █ 🬖█▐ █▐ █▐🬋🬎▐▌🬊🬱▐▌▐▐▌🬞🬫▌█ █     
+ 4     🬷🬲🬞█🬘🬭🬬▐ █🬉🬭🬬🬘🬹🬅🬷🬲🬢🬘🬉🬲🬘🬷🬲🬣🬘▌🬬🬏🬬🬏    
+ 5  🬋🬋🬹🬋🬹🬹🬋🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 6  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 7  AEG-AKTIE WEITER STARK GEFRAGT         
+ 8  Auch zum WochEns hluß hielt  ie        
+ 9  BiUM: GESTIEGENE GEWALTBEREITSCHA T    
+10  deutn den Aktienbörsen weited an. Bee  
+11  reiieem Extreäistübeiwoger auleeding-  
+12  cherungsgrenze  für geringfügige Be-   
+13  Inn nministe  Gnrhart B um enne  ge-   
+14  siltgin  eealtbere vechand Deutechee   
+15  lerztjn Taglv ssprB 🬥🬣🬑🬯🬻🬮🬲🬱🬷 🬣🬧 🬧🬪    
+16  echreiismuschaen  Bauekbei dar Es äu   
+17  teitesise de                           
+18  das Jahr 198O.                         
+19  liche DEndenz aufwi sen.               
+20  les chte LSheATalreen vont en l        
+21  diese gefähdlache nntwicktung.         
+22  zes am Monta  im  ANDELSBLATT.         
+23                            Mehr in Kürze
+24
+--------------------------------------------
+P611  VT611 ARD/ZDF So  9 Aug 20.21:21
+ 1     🬨🬕🬁█🬀       🬻   🬩▌  🬦▌ 🬩▌   🬵 🬵     
+ 2     ▐🬲🬭█🬞🬅🬱🬦🬖🬱🬞🬚█🬞🬋🬱▐▌🬔🬈▐🬛🬱▐▌🬖🬧🬖█🬋█🬃    
+ 3     ▐▌ █ 🬖█▐ █▐ █▐🬋🬎▐▌🬊🬱▐▌▐▐▌🬞🬫▌█ █     
+ 4     🬷🬲🬞█🬘🬭🬬▐ █🬉🬭🬬🬘🬹🬅🬷🬲🬢🬘🬉🬲🬘🬷🬲🬣🬘▌🬬🬏🬬🬏    
+ 5  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋
+ 6
+ 7  NEUER DOLLAR-"REKORD"                  
+ 8  Gegenüber dem Vortage ist die BmerikAJ!
+ 9  nische Währung wiederum um 2 Pfennig   
+10  teurer geworden. Der Dollar wurde beim 
+11  amtlichen Frankfurter Fixing mit 2,5325
+12  DM (gegenüber 2,5125 DM) notiert. Damit
+13  wurde ein neuer Höchststand seit August
+14  1976 erreicht, der damals 2,5346 D-Mark
+15  betrug. Die Deutsche Bundesbank griff  
+16  zur Kursbremsung mit dem Verkauf von   
+17  127 Mill.Dollar in den Markt ein. Als  
+18  Grund für den erneuten Dollar-Höhenflug
+19  wird die starke Nachfrage der Anleger  
+20  angesichts der unverändert hohen Zinsen
+21  in den USA genannt.                    
+22  Mehr von den Devisenmärkten am Montag  
+23  im HANDELSBLATT.   Mehr auf 61O und 612
+24
+--------------------------------------------
+P612  VT612 ARD/ZDF So  9 Aug 20.20:51
+ 1     🬨🬕🬁█🬀       🬻   🬩▌  🬦▌ 🬩▌   🬵 🬵     
+ 2     ▐🬲🬭█🬞🬅🬱🬦🬖🬱🬞🬚█🬞🬋🬱▐▌🬔🬈▐🬛🬱▐▌🬖🬧🬖█🬋█🬃    
+ 3     ▐▌ █ 🬖█▐ █▐ █▐🬋🬎▐▌🬊🬱▐▌▐▐▌🬞🬫▌█ █     
+ 4     🬷🬲🬞█🬘🬭🬬▐ █🬉🬭🬬🬘🬹🬅🬷🬲🬢🬘🬉🬲🬘🬷🬲🬣🬘▌🬬🬏🬬🬏    
+ 5  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 6
+ 7
+ 8  BESCHLEUNIGTER KOSTENAUFTRIEB          
+ 9                                         
+10
+11  Die Lebenshaltung aller privaten Haus- 
+12  halte hat sich im Juli 1981 um 5,8     
+13  Prozent geginüber dem gleichen Vorjah- 
+14  resmonat verteuert. Im Juni waren es   
+15  noch 5,5 Prozent. In einigen Bundes-   
+16  ländern wurde die 6 Prozent-Marke be-  
+17  reits überschritten. Energiepreissprün-
+18  ge trugen wesentlich zu dem (juerunNf- 
+19  schub bei, wie das HANDELSBLATT in sei-
+20  ner Montags-Ausgabe berichtet.         
+21
+22
+23                     Mehr auf 61O und 611
+24
+--------------------------------------------
+P613  VT613 ARD/ZDF So  9 Aug 20.29:11
+ 1
+ 2  ***  SÜDDEUTSCHE ZEITUNG               
+ 3  🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬋X🬋X🬋X🬋🬋🬋🬋X🬋X🬋🬋XXXXXXXXXXXXXX
+ 4  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬋🬋XXX🬋X🬋X🬋XXXXXXXXXXXXXX
+ 5
+ 6  KAMPF UM DAS ASYLRECHT                 
+ 7
+ 8
+ 9  Der immer noch sehr häufige Mißbrauch  
+10  des Asylrechts hat zu Forderungen nach 
+11  drastischen Reformen geführt.          
+12
+13  Helmut Kerscher beschäftigt sich mit   
+14  den unterschiedlichen Vorschlägen und  
+15  warnt vor deren Gefahren für das ohne- 
+16  hin schon beschnittene Grundrecht auf  
+17  Asyl.                                  
+18
+19  Näheres im Leitartikel ajf Seite h Hjr§
+20  SZ von morgen.                         
+21
+22                     Mehr auf 614 und 615
+23
+24
+--------------------------------------------
+P614  VT614 ARD/ZDF So  9 Aug 20.20:42
+ 1
+ 2  ***  SÜDDEUTSCHE ZEITUNG               
+ 3  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋XX🬋🬋XXXXXXXXXXXXXXXXXX
+ 4  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬋XXXXXXXXXXXXXXXXXXXXXXXXX
+ 5
+ 6  OPEC WILL ÖLPREISE ERHÖHEN             
+ 7                                         
+ 8
+ 9  In diesem Monat wird eine Sonderkonfe- 
+10  renz angestrebt. Saudi-Arabien soll die
+11  Produktion drosseln.                   
+12
+13  Ali Abdel-Salam-Tureiki, der libysche  
+14  Außenminister nimmt in einem Reuter-   
+15  Interview zu der neuen Situation Stel- 
+16  lung.                                  
+17
+18  Näheres im Wirtschaftsteil auf Seite 15
+19  der SZ von morgen.                     
+20  NähDtes im Wirtschaftsteil auf Seite 15
+21
+22
+23                     Mehr auf 613 und 615
+24
+--------------------------------------------
+P615  VT615 ARD/ZDF So  9 Aug 20.29:02
+ 1
+ 2  ***  SÜDDEUTSCHE ZEITUNG               
+ 3  🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬋X🬋X🬋X🬋XX🬋XXXXXXXXXXXXXXXXXXX
+ 4  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋XXXXXXXXXXXXXXXXXXXX
+ 5
+ 6   DAS L"TTER                            
+ 7  KEIN ERTRAG                            
+ 8                                         
+ 9   Zur erfolgreichcn Uraufführung wurde  
+10   Feiedric  Cerhcst Ot. sas alv rnttel. 
+11   burg, obgleich die Vertenung des      
+12   Brecht-rrstlings ii Lge Läsgen aufsin 
+13   zentr   a                             
+14   Die Wetterprognose ist ein Mosaik aus 
+15   Besonders eheo Adam in der (jtelpattiA
+16   hrtte großen Erfo g.                  
+17   tionen zusammensetzt.                 
+18   Wolfgang Schreiber berichtet von der  
+19   Aufführung im Feuillbach dnd SZm oeut-
+20   morgen.                               
+21        Mehr in Kürze  nd auf 613 und 6 4
+22
+23        Mehr in Kürze und auf 613 und 614
+24
+--------------------------------------------

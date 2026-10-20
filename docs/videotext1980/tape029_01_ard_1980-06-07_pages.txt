@@ -1,0 +1,1798 @@
+Videotext pages recovered from coll04_tape029_01_ard_1980-06-07, frames 0-5999 (4 minutes), lines 20, 21, 329, 332, 333, 334.
+Equalising slicer with decision feedback; each row is the per-character majority over all repeats.
+Mosaic graphics are shown with Unicode sextant characters. 69 pages.
+
+P100  VT 100 ARD/ZDF Sa  7 Jun 2021:17
+ 1                                         
+ 2  🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭
+ 3  ████🬰█🬰█🬂██████████████🬰█████🬂███🬂█████
+ 4  ████ █ █  🬁█🬀 🬁█  🬨🬀 🬁█ █🬀 🬁█  🬁█  ████
+ 5  ████ █ █ █ █ 🬎 █ ▌▐ 🬎🬩█ █ █🬭█ █ █ █████
+ 6  ████ █ █ █ █ 🬹🬋█ ██🬌🬹 █ █ █🬂█ █ █ █████
+ 7  ████🬏 🬞█  🬞█🬏 🬞█ ██🬏 🬞█ █🬏 🬞█ █ █🬏 ████
+ 8  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬕🬎🬕🬎🬎🬎🬎🬎🬎🬕🬎🬎🬎🬎🬎🬕🬎🬎🬎🬎🬕🬎🬎🬎
+ 9                                         
+10  ARD diese Woche.11O  VT z.Programm..2O1
+11  ZDF diese Woche.12O  VT für Eltern..25O
+12  VT-Untertitel...15O  Hörfunk........3OO
+13  ARD heute.......16O  Verkehrsfunk...333
+14  ZDF heute.......17O  VT aktuell.....4OO
+15  BR III..........18O  Kurzmeldungen..4O1
+16  Hessen III......181  Wetter.........444
+17  Nord III........182  Lotto/Toto.....45O
+18  Südwest III.....183  Sport aktuell..5OO
+19  West III........184  Sportmeldungen.5O1
+20  Wo-Was-Wann?....2OO  Pressevorschau.6OO
+21                                         
+22                                         
+23   VT-Zentralredaktion,Tel.030/308 3066  
+24
+--------------------------------------------
+P107  VT 107 ARD/ZDF Sa  7 Jun 2028:27
+ 1  █🬕🬂🬂🬨🬂🬂🬊🬕🬂🬂█                           
+ 2  ███🬄▐ █ ▌▐██                           
+ 3  █🬝🬀🬞🬻 █ ▌🬁🬂█       SAMSTAG, 7.JUNI 1980
+ 4  █▌🬇🬎🬬 🬎 ▌▐██                NACHMITTAGS
+ 5  🬎🬌🬋🬋🬍🬋🬋🬍🬌🬍🬎🬎                           
+ 6  IHR PROGRAMM 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎W🬎🬕🬎 /  🬕🬎
+ 7
+ 8  16.1O  Uhr   Die Biene Maja.........23O
+ 9
+10  16.35  Uhr   Die Bären sind los.....231
+11
+12  17.O4  Uhr   Der große Preis           
+13               Wochengewinner            
+14
+15  17.O5  Uhr   heute                     
+16
+17  17.1O  Uhr   Länderspiegel..........232
+18
+19  18.OO  Uhr   Haus am Eaton Place....233
+20
+21
+22                                         
+23  Abendprogramm in 25 Sekunden           
+24
+--------------------------------------------
+P110  VT 110 ARD/ZDF Sa  7 Jun 2018:27
+ 1  🬝🬂🬂🬬🬂🬂🬊🬕🬂🬂🬬                            
+ 2  ▌▐▌▐ █ ▌▐▌▐                    Tips für
+ 3  ▌🬁🬀▐ 🬂🬞▌▐▌▐            die Fernsehwoche
+ 4  ▌▐▌▐ █ ▌🬉🬄▐          vom 8.6. bis 14.6.
+ 5  🬌🬍🬌🬍🬋🬎🬋🬌🬋🬋🬎                            
+ 6  DIESE WOCHE 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬕🬎🬎🬎  🬎🬎 🬎🬎🬎🬎 🬎🬫🬫W
+ 7                                         
+ 8  Sonntag     22.40 Katholikentag/Bericht
+ 9
+10  Montag      21.45 Kontraste            
+11
+12  Dienstag    21.OO Report Baden-Baden   
+13
+14  Mittwoch    21.45 ARD-Sport extra      
+15                    Fußball-EM           
+16
+17  Donnerstag  21.OO Scheibenwischer      
+18                    Eine Kabarettsendung 
+19
+20  Freitag     2O.15 Die wunderbare Macht 
+21                    Amerik. Spielfilm    
+22  Samstag/                               
+23  Sonnabend   20.15 Allein gegen Alle    
+24
+--------------------------------------------
+P120  VT 120 ARD/ZDF Sa  7 Jun 2020:23
+ 1  █🬕🬂🬂🬨🬂🬂🬊🬕🬂🬂█                           
+ 2  ███🬄▐ █ ▌▐██            WOCHENÜBERSICHT
+ 3  █🬝🬀🬞🬻 █ ▌🬁🬂█                           
+ 4  █▌🬇🬎🬬 🬎 ▌▐██      IEMSTAG, 1 🬍JUNI 🬐🬗🬖🬏
+ 5  🬎🬌🬋🬋🬍🬋🬋🬍🬌🬍🬎🬎                           
+ 6  IHR P"OGRAMM 🬎🬎🬎🬎🬕🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬕🬎W🬎W🬎W🬕🬎🬎
+ 7                                         
+ 8  19.00  Uhr   heute                     
+ 9  19.30  Uhr   Begee   n Wi              
+10  19.30  Uhr   Bilan                     
+11  29.3O  Uhr   Deu g-joarn l             
+12  21.15  Uhr   Voe Gericet               
+13  2 .    Uhr   his e-jder al             
+14  22.20  Uhr   Deseeee  S                
+15  21.O0  Uhr   hiute                     
+16               Jesus Ch ien s -          
+17  23. O  Uhr   Ger    t  n r             
+18               Nur ein abade             
+19               heute                     
+20  23.1O  Uhr   Emigran e  /  ern         
+21   O.55  Uhr   heute                     
+22  23.35  Uhr   heute                     
+23  Programm vom Donntag in 25 Sekunden    
+24
+--------------------------------------------
+P150  VT 150 ARD/ZDF Sa  7 Jun 2028:25
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19    FERNSEHSENDUNGEN MIT VT-UNTERTITELN  
+20
+21      WERDEN RECHTZEITIG ANGEKÜNDIGT     
+22
+23
+24
+--------------------------------------------
+P160  VT 160 ARD/ZDF Sa  7 Jun 2019:20
+ 1  🬝🬂🬂🬬🬂🬂🬊🬕🬂🬂🬬                            
+ 2  ▌▐▌▐ █ ▌▐▌▐                            
+ 3  ▌🬁🬀▐ 🬂🬞▌▐▌▐       SAMSTAG, 7. JUNI 1980
+ 4  ▌▐▌▐ █ ▌🬉🬄▐                            
+ 5  🬌🬍🬌🬍🬋🬎🬋🬌🬋🬋🬎                            
+ 6  NACHMITTAGS 🬎🬎🬎🬕🬎🬎🬎W🬎  /   /          W
+ 7                                         
+ 8  20.00 Uhr   Tagesschau..........^...222
+ 9
+10  10.15 Uhr   ARD-Ratgeber: Recht        
+11              Deutsche Pob-Show ......b 3
+12  17.00 Uhr   Katholikentag              
+13  21.45 Uhr   Ziehung der Lottozahlen    
+14  17.30 Uhr   Regionalprogramme          
+15  anschl.     Das Wort zum Sonntag       
+16  18.00 Uhr   Tagesschau                 
+17  22.05 Uhr   FDP-ParteitagF'VFWWWWWW-224
+18  18.05 Uhr   Die Sportschau             
+19  22.20 Uhr   Der letzte Ritt der Daltons
+20              Amerik.Spielfilm........225
+21
+22  23.55 Uhr   Tagesschau                 
+23  Abendprogramm in 25 Sekunden           
+24
+--------------------------------------------
+P170  VT 170 ARD/ZDF Sa  7 Jun 2020:40
+ 1  █🬕🬂🬂🬨🬂🬂🬊🬕🬂🬂█                           
+ 2  ███🬄▐ █ ▌▐██                           
+ 3  █🬝🬀🬞🬻 █ ▌🬁🬂█       SAMSTAG, 7.JUNI 1380
+ 4  █▌🬇🬎🬬 🬎 ▌▐██                      ABEND
+ 5  🬎🬌🬋🬋🬍🬋🬋🬍🬌🬍🬎🬎                           
+ 6  IHR PROGRAMM 🬎🬎🬕🬕🬕🬎🬕🬕 W 7//           W
+ 7
+ 8  19.00  Uhr   heute..................234
+ 9  16.1O  Uhr   Die Biene Maja            
+10  19.30  Uhr   FlippbrkugUHn.........WbYz
+11  16.35  Uhr   Die Bären sind los        
+12  20.15  Uhr   Fanfan, der Husar......236
+13  17.O4  Uhr   Der große Preis           
+14  21.50  Uhr   Berheht wim FrP P         
+15
+16  22.05  Uhr   heute                     
+17
+18  22.10  Uhr   Das artuiele S  rt-Stu  o 
+19                                   ...237
+20  23.25  Uhr   Dar Kom isson.....e       
+21
+22   0.25  Uhr   heute                     
+23  Nachmittagsprogramm in 25 Sekunden     
+24
+--------------------------------------------
+P180  VT 180 ARD/ZDF Sa  7 Jun 2010:25
+ 1  ██▌██▌██▌                              
+ 2  ██▌██▌██▌                              
+ 3  ██▌██▌██▌          BAYERISCHER RUNDFUNK
+ 4  ██▌██▌██▌🬞🬭                            
+ 5  🬎🬎🬄🬎🬎🬄🬎🬎🬄🬉🬎                            
+ 6  HEUTE ABEND 🬎🬎🬎🬎🬎🬎🬕🬎🬕 7/ 7 777        W
+ 7  16.15 Uhr   Telekolleg - Algebra (34)  
+ 8  16.45 Uhr   Praktische Tips (2)        
+ 9              Ferien in der Ägäis        
+10  17.00 Uhr   Kater Mikesch (1)          
+11  17.30 Uhr   Zwischen Spessart          
+12              und Karwendel              
+13  18.00 Uhr   Körper des Menschen        
+14  18.30 Uhr   Modegeheimnisse            
+15  18.55 Uhr   Rundschau                  
+16  19.00 Uhr   Gelebtes Evangelium        
+17  19.30 Uhr   Tödliche Trennung          
+18              Aus der Serie "Columbo"    
+19  20.45 Uhr   Rundschau                  
+20  21.OO Uhr   Berich vom FDP-Parteitag   
+21  21.15 Uhr   Wendepunkt Wohnungspolitik 
+22  22.OO Uhr   Das blaue Porträt          
+23              Sowjetischer Fernsehfilm   
+24
+--------------------------------------------
+P181  VT 181 ARD/ZDF Sa  7 Jun 2018:21
+ 1  ██▌██▌██▌                              
+ 2  ██▌██▌██▌                              
+ 3  ██▌██▌██▌                   H E S S E N
+ 4  ██▌██▌██▌🬞🬭                            
+ 5  🬎🬎🬄🬎🬎🬄🬎🬎🬄🬉🬎                            
+ 6  HEUTE ABEND 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎W🬎🬎🬎🬎🬎🬎🬎🬎W🬎🬎🬎   🬎
+ 7
+ 8  17.30 Uhr   Familie Hesselbach         
+ 9              "Der Kinderwagen"          
+10  18.25 Uhr   Ensalada musica (3)        
+11              Musikmagazin ohne Worte    
+12  18.45 Uhr   Die letzten Paradiese      
+13              der Pferde - Der Kaukasus  
+14  19.30 Uhr   Seelsorge ohne Priester    
+15              Personalprobleme der       
+16              katholischen Kirche        
+17  20.00 Uhr   Tagesschau                 
+18  20.15 Uhr   Aus dem Nest gefallen (5)  
+19              "Madame und ihr Gärtner"   
+20  21.15 Uhr   Nachrichten                
+21  21.25 Uhr   Im Lande des Erbfeindes    
+22  22.25 Uhr   1.Internat. Musikwettbewerb
+23              Fritz Kreisler für Violine 
+24
+--------------------------------------------
+P182  VT 182 ARD/ZDF Sa  7 Jun 2028:40
+ 1  ██▌██▌██▌                              
+ 2  ██▌██▌██▌                              
+ 3  ██▌██▌██▌                       N O R D
+ 4  ██▌██▌██▌🬞🬭                            
+ 5  🬎🬎🬄🬎🬎🬄🬎🬎🬄🬉🬎                            
+ 6  HEUTE ABEND 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+ 7
+ 8
+ 9
+10  18.00 Uhr   Sesamstraße                
+11  18.30 Uhr   Das Fernsehmuseum          
+12              Geheimwaffe A-13           
+13  19.15 Uhr   Klimbim (4)                
+14  20.00 Uhr   Tagesschau                 
+15  20.15 Uhr   Mit Schirm, Charme         
+16              und Melone                 
+17              "Afrikanischer Sommer"     
+18  21.05 Uhr   Vor vierzig Jahren         
+19              Pathe Journal vom 6.6.1940 
+20  21.25 Uhr   Auf Kollisionskurs         
+21  22.45 Uhr   Freude schöner Götterfunken
+22
+23
+24  ██▌██▌🬝🬻🬘🬞🬭                            
+--------------------------------------------
+P183  VT 183 ARD/ZDF Sa  7 Jun 2028:40
+ 1  ██▌██▌██▌                              
+ 2  ██▌██▌██▌                              
+ 3  ██▌██▌██▌                 S Ü D W E S T
+ 4  ██▌██▌██▌🬞🬭                            
+ 5  🬎🬎🬄🬎🬎🬄🬎🬎🬄🬉🬎                            
+ 6  HEUTE ABEND 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 🬎🬎    🬎🬍🬎  🬍
+ 7
+ 8
+ 9  18.00 Uhr   Die kleine Bühne           
+10              spielt Märchen             
+11  18.30 Uhr   Weil's der Brauch ist      
+12              Fronleichnamsprozession    
+13  19.00 Uhr   Großbritannien             
+14              und das Erbe des Meeres    
+15  19.50 Uhr   Dies ist mein Land         
+16              Amerikanischer Spielfilm   
+17  21.30 Uhr   Mein Tagebuch (5)          
+18  22.15 Uhr   Konzert im Studio          
+19              Christian Zacharias spielt 
+20  22.50 Uhr   Vom Umgang mit Gedichten   
+21              Ein Gespräch zwischen      
+22              Gabriele Wohmann und       
+23              Hildegart Eichholz         
+24
+--------------------------------------------
+P184  VT 184 ARD/ZDF Sa  7 Jun 2018:46
+ 1  ██▌██▌██▌                              
+ 2  ██▌██▌██▌                              
+ 3  ██▌██▌██▌       WESTDEUTSCHES FERNSEHEN
+ 4  ██▌██▌██▌🬞🬭                            
+ 5  🬎🬎🬄🬎🬎🬄🬎🬎🬄🬉🬎                            
+ 6  HEUTE ABEND 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬕🬎
+ 7
+ 8  16.30 Uhr   Telekolleg Chemie (8)      
+ 9  17.00 Uhr   Telekolleg Mathematik (34) 
+10  17.30 Uhr   Berufe '80                 
+11              3. Der Energietechniker    
+12  18.00 Uhr   Follow me (27/28)          
+13  18.30 Uhr   Schulsachen                
+14              Außenseiter in der Schule  
+15  19.00 Uhr   Fazit                      
+16  19.15 Uhr   Sport im Westen            
+17  19.55 Uhr   Journal 3                  
+18  20.00 Uhr   Tagesschau                 
+19  20.15 Uhr   Montepulciano 1979         
+20              Musikalisches Tagebuch     
+21  21.15 Uhr   "Hört Britannien"          
+22              "Ein Tagebuch für Timothy" 
+23  22.10 Uhr   "Tangenten"                
+24
+--------------------------------------------
+P200  VT 200 ARD/ZDF Sa  7 Jun 2010:13
+ 1
+ 2  █🬕🬕🬕🬕🬒██🬨🬨🬨🬡🬨🬡🬨█🬕🬕🬕🬕🬒🬕🬒🬕🬒█             
+ 3  █▌▌▌▌▌🬝🬬▐▐▐🬉▐🬉🬫🬎▌▌▌▌🬄▌▌▌▌█             
+ 4  █▌▌▌▌▌██▐▐▐🬦▐🬩▐█▌▌▌▌🬓▌▌▌▌█             
+ 5  █🬲🬮🬮🬲🬮██🬯🬯🬷🬷🬷🬯🬷█🬲🬮🬮🬲🬲🬲🬲🬲🬲█ IM FERNSEHEN
+ 6  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬖 XXX XX XXXX
+ 7
+ 8
+ 9
+10  Aktuelles/Politik.......W..WWWWWWWWW 🬐X
+11
+12  Unterhaltung...............WWWWWWWWWb 8
+13
+14  Film/Fernsehspiel.......WW...WWWWWWW 🬖 
+15
+16  Kultur/Bildung......................b Ä
+17
+18  Sport..............W.WWWWWWWWWWWWWWW   
+19
+20  Kinder/Jugend......WWWWWWWWWWWWWWWWW  🬷
+21
+22
+23
+24
+--------------------------------------------
+P201  VT 201 ARD/ZDF Sa  7 Jun 2021:50
+ 1  █🬂🬂🬨🬂🬂🬨🬂🬂🬂🬂🬂🬨                          
+ 2  █  ▐  ▐🬭🬏  🬭🬷                          
+ 3  █  ▐  ▐█▌  ██       SAMSTAG,7.JUNI 198O
+ 4  █🬓    🬻█▌  ██                          
+ 5  ██🬏  🬷██▌  ██                    abends
+ 6  🬎🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋🬎🬎                          
+ 7  LFD. PROGRAMM 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎WW🬎🬎🬎 🬫  W
+ 8
+ 9
+10
+11  19.00 Uhr ZDF heeteiene MajaW....WW.2Ä 
+12  19.30 Uhr ZDF Flippäreugsind lo.....231
+13  20.00 Uhr ARD Tagede hauden Freunde    
+14  20.1   hr ZDF Fanfan, der Husar..   236
+15  20.15 Uhr ARD Masikladen axtra......22O
+16  22.05 Uhr ARD F.D.P.s Perteita......224
+17  22.10 Uhr ZDF Das aktuelle             
+18                Sportstudio...........237
+19  22.20 Uhr ARD Der letzte Ritt          
+20                der Daltons.......  ..   
+21  23.25 Uhr ZDF Der Kommissar.........238
+22                                         
+23         SAMSTAGNACHMITTAG in 25 Sekunden
+24
+--------------------------------------------
+P210  VT 210 ARD/ZDF Sa  7 Jun 2028:42
+ 1
+ 2  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 3  ▐🬭🬏  🬭🬷  ▐▌  ▌     SAMSTAG, 7.JUNI 1980
+ 4  ▐█▌  ██  ▐▌  ▌                         
+ 5  ▐█▌  ██🬲    🬷▌        AKTUELLES/POLITIK
+ 6  ▐█▌  ███🬏  🬞█▌                         
+ 7  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋V🬎🬄🬋🬋🬋🬋🬋🬋 🬋 🬋 🬋             
+ 8
+ 9  17.00 Uhr ARD Katholikentag            
+10  17.05 Uhr ZDF heute                    
+11  17.10 Uhr ZDF Länderspiegel            
+12  18.00 Uhr ARD Tagesschau               
+13  18.00 Uhr ARD Regionalprogramme        
+14  19.00 Uhr ZDF heute                    
+15  20.00 Uhr ARD Tagesschau............222
+16  21.45 Uhr ARD Lottozahlen/Tagesschau   
+17                Das Wort zum Sonntag     
+18  21.50 Uhr ZDF F.D.P.- Parteitag        
+19  22.05 Uhr ARD F.D.P.- Parteitag.....224
+20  22.05 Uhr ZDF heute                    
+21  23.55 Uhr ARD Tagesschau               
+22   0.25 Uhr ZDF heute                    
+23
+24
+--------------------------------------------
+P211  VT 211 ARD/ZDF Sa  7 Jun 2018:42
+ 1
+ 2  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 3  ▐🬭🬏  🬭🬷  ▐▌  ▌     SAMSTAG, 7.JUNI 1980
+ 4  ▐█▌  ██  ▐▌  ▌                         
+ 5  ▐█▌  ██🬲    🬷▌             UNTERHALTUNG
+ 6  ▐█▌  ███🬏  🬞█▌                         
+ 7  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋🬍🬎🬄🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬋🬋🬖🬖🬖🬖X🬇🬖XX🬖XXX
+ 8
+ 9
+10
+11
+12
+13  20.15 Uhr ARD Musikladen extra         
+14                Deutsche Sonderausgabe   
+15                der Pop-Show..........223
+16
+17
+18
+19
+20
+21
+22
+23
+24
+--------------------------------------------
+P212  VT 212 ARD/ZDF Sa  7 Jun 2018:44
+ 1
+ 2  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 3  ▐🬭🬏  🬭🬷  ▐▌  ▌     SAMSTAG, 7.JUNI 1980
+ 4  ▐█▌  ██  ▐▌  ▌                         
+ 5  ▐█▌  ██🬲    🬷▌    FILM UND FERNSEHSPIEL
+ 6  ▐█▌  ███🬏  🬞█▌                         
+ 7  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋🬍🬎🬄🬋🬋🬋🬋🬋🬋🬋🬋                 
+ 8
+ 9  18.00 Uhr ZDF Das Haus am Eaton Place  
+10                "Das Leben               
+11                geht weiter"             
+12
+13  20.15 Uhr ZDF Fanfan, der Husar        
+14                Spielfilm                
+15                mit Gerard Philipe....236
+16
+17  22.20 Uhr ARD Der letzte Ritt          
+18                der Daltons              
+19                Amerik. Spielfilm.....225
+20
+21  23.25 Uhr ZDF Der Kommissar            
+22                "Das Komplott"........238
+23
+24
+--------------------------------------------
+P213  VT 213 ARD/ZDF Sa  7 Jun 2018:48
+ 1
+ 2  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 3  ▐🬭🬏  🬭🬷  ▐▌  ▌     Samstag, 7.JUNI 1980
+ 4  ▐█▌  ██  ▐▌  ▌                         
+ 5  ▐█▌  ██🬲    🬷▌       KULTUR UND BILDUNG
+ 6  ▐█▌  ███🬏  🬞█▌                         
+ 7  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋🬍🬎🬄🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬖🬖X🬖XXXXXXXXX
+ 8                                         
+ 9
+10
+11
+12  15.55 Uhr ZDF Schau zu - mach mit      
+13                Berufsreport:            
+14                Altenpflegerin           
+15
+16
+17
+18  16.15 Uhr ARD Ratgeber: Recht          
+19
+20
+21
+22
+23
+24
+--------------------------------------------
+P214  VT 214 ARD/ZDF Sa  7 Jun 2018:47
+ 1
+ 2  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 3  ▐🬭🬏  🬭🬷  ▐▌  ▌     SAMSTAG, 7.JUNI 1980
+ 4  ▐█▌  ██  ▐▌  ▌                         
+ 5  ▐█▌  ██🬲    🬷▌                    SPORT
+ 6  ▐█▌  ███🬏  🬞█▌                         
+ 7  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋🬍🬎🬄🬋🬋🬋🬋🬋🬋🬋🬋🬋🬖🬖🬖🬖 X🬖  X  X🬖XX
+ 8
+ 9  18.05 Uhr ARD Die Sportschau           
+10                u.a.                     
+11                Dt.Schwimm-Meister-      
+12                schaften in München      
+13
+14                Letzte Etappe            
+15                Giro d'Italia            
+16
+17
+18  22.10 Uhr ZDF Das aktuelle Sport-Studio
+19                Berichte - Interviews -  
+20                Lottozahlen...........b37
+21
+22
+23
+24
+--------------------------------------------
+P215  VT 215 ARD/ZDF Sa  7 Jun 2020:47
+ 1
+ 2  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 3  ▐🬭🬏  🬭🬷  ▐▌  ▌     SAMSTAG, 7.JUNI 1980
+ 4  ▐█▌  ██  ▐▌  ▌                         
+ 5  ▐█▌  ██🬲    🬷▌        KINDER UND JUGEND
+ 6  ▐█▌  ███🬏  🬞█▌                         
+ 7  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋🬍🬎🬄🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋 🬖🬖 🬖X🬖XXX X
+ 8
+ 9
+10  15.55 Uhr ZDF Schau zu - mach mit      
+11                Berufsreport:            
+12                Altenpflegerin           
+13
+14  16.10 Uhr ZDF Die Biene Maja           
+15                Kein Wasser mehr         
+16
+17  16.35 Uhr ZDF Die Bären sind los       
+18
+19  19.30 Uhr ZDF Flipperkugeln            
+20                Amerik.Jugendfilm.....235
+21
+22  20.15 Uhr ARD Musikladen extra         
+23                Deutsche Pop-Show.....223
+24
+--------------------------------------------
+P222  VT 222 ARD/ZDF Sa  7 Jun 2018:57
+ 1
+ 2        DEUTSCHES FERNSEHEN - ARD        
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5
+ 6  2O.OO - 2O.15 Uhr                      
+ 7                                         
+ 8  TAGESSCHAU plant heute:                
+ 9
+10  PARTEITAG DER F.D.P.                   
+11
+12  HUNGERSNOT IN UGANDA                   
+13
+14  VOR DEM AUTOFREIEN SONNTAG             
+15
+16  FEUERWEHRTAG IN HANNOVER               
+17                                         
+18                                         
+19
+20  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋 🬋           
+21       🬬🬝🬦🬝🬺🬦🬝🬺▐🬝🬦🬝🬺🬦🬝🬺🬦🬝🬺▐▌█🬦🬝🬺▐▌█      
+22       ▐▌▐🬛█▐▌🬹▐🬛🬉🬌🬹🬉🬌🬹▐▌🬰▐🬛█▐🬛█▐▌█      
+23       ▐▌▐▌█🬉🬺🬝▐🬺🬉🬺🬝🬉🬺🬝🬉🬺🬝▐▌█▐▌█🬉🬺🬝      
+24
+--------------------------------------------
+P223  VT 223 ARD/ZDF Sa  7 Jun 2018:57
+ 1
+ 2        DEUTSCHES FERNSEHEN - ARD        
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5  2O.15 - 21.45 Uhr                      
+ 6
+ 7  Eine Live-Sendung von Radio Bremen,zu  
+ 8  der sich u.a. folgende Mitwirkende an- 
+ 9  gesagt haben:                          
+10
+11  Udo Jürgens, Katja Ebstein, Chris      
+12  Roberts, Ireen Sheer, die Spider-      
+13  Murphy-Gang, Mike Krüger, Costa        
+14  Cordalis, Paola, Gitte, Karl Dall.     
+15
+16  Moderator: Manfred Sexauer             
+17
+18  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬖🬖XX🬖🬖XX🬖🬖🬖XXX🬖XX🬇XX
+19        🬻🬬🬬🬓█▐▌🬻🬬🬓█▐▌█▐▌🬦🬝🬺▐🬝🬺▐🬝🬦🬝🬺      
+20        █▐▐▌█▐▌🬎🬩🬓█▐█🬐▐▌▐🬛█▐▌█▐🬛▐▌█      
+21        █▐▐▌🬬🬻🬄🬬🬻🬄█▐▌█▐🬺▐▌█▐🬺🬝▐🬺▐▌█      
+22                  EXTRA                  
+23
+24
+--------------------------------------------
+P224  VT 224 ARD/ZDF Sa  7 Jun 2018:42
+ 1
+ 2        DEUTSCHES FERNSEHEN - ARD        
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5  22.O5 - 22.2O Uhr                      
+ 6
+ 7  Heute mittag ging der Bundesparteitag  
+ 8  der Freien Demokraten in Freiburg zu   
+ 9  Ende.                                  
+10
+11  Die F.D.P. hat ihre Koalitionsaussage  
+12  von 1976 für die Bundestagswahl am     
+13  5.Oktober 198O wiederholt: Fortsetzung 
+14  des Bündnisses mit der SPD, sofern die 
+15  Sozialdemokraten nicht die absolute    
+16  Mehrheit erringen.                     
+17
+18  Der Abschlußbericht kommt vom WDR.     
+19
+20  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+21            F.D.P.- PARTEITAG            
+22
+23  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 / 🬎🬕🬎🬎🬎
+24
+--------------------------------------------
+P225  VT 225 ARD/ZDF Sa  7 Jun 2018:28
+ 1        DEUTSCHES FERNSEHEN - ARD        
+ 2
+ 3  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 4  22.2O - 23.55 Uhr                      
+ 5
+ 6  Ein TV-Western mit so bekannten Dar-   
+ 7  stellern wie Richard Widmark, Barbara  
+ 8  Rush und Robert Conrad.                
+ 9
+10  Sie sehen eine Episode aus dem beweg-  
+11  ten Dasein der Dalton-Bande:Bob Dalton,
+12  seine beiden Brüder und zwei weitere   
+13  Komplizen erscheinen im Städtchen      
+14  Coffeyville. Diesmal richtet sich ihr  
+15  Interesse auf die örtlichen Geldin-    
+16  stitute.                               
+17
+18  Regie: Vincent McEveety ("Die fünf     
+19  Vogelfreien")                          
+20  🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬠🬰🬰🬰🬰🬰🬰🬠🬰
+21       DER LETZTE RITT DER DALTONS       
+22
+23  🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰🬰
+24  22.2O m 23.55 Uhr                      
+--------------------------------------------
+P235  VT 235 ARD/ZDF Sa  7 Jun 2010:08
+ 1
+ 2            ZDF - IHR PROGRAMM           
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5
+ 6  19.3O - 2O.15 Uhr                      
+ 7
+ 8  Der amerikanische Jugendfilm schildert 
+ 9  das Schicksal von drei Pflegekindern,  
+10  die von Mrs. Mason aufgenommen werden. 
+11
+12  Die Frau hat es schwer, das Vertrauen  
+13  der Kinder zu gewinnen.                
+14                                         
+15  Besonders Carlie, das 14jährige        
+16  Mädchen, ist anfangs trotzig und       
+17  aufsässig.                             
+18
+19
+20  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+21   █🬎▐▌ █▐🬝🬺▐🬝🬺▐🬝🬄█🬎🬺▐▌▐▌█ █🬦🬝🬬🬓█🬎▐▌ █🬎🬺 
+22   █🬋▐▌ █▐🬛🬆▐🬛🬆▐🬛🬃█🬋🬴▐🬛🬫🬏█ █▐▌🬩🬓█🬋▐▌ █ █ 
+23   █ ▐🬺🬓█▐▌ ▐▌ ▐🬺🬓█ █▐▌▐▌🬬🬹🬝🬉🬺🬻🬄█🬹▐🬺🬓█ █ 
+24
+--------------------------------------------
+P236  VT 236 ARD/ZDF Sa  7 Jun 2010:08
+ 1             ZDF - IHR PROGRAMM          
+ 2
+ 3  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬋🬋🬋🬋XX🬖XXXXXXXXXXX
+ 4
+ 5  20.15 - 21.5O Uhr                      
+ 6
+ 7  Der 1959 mit 36 Jahren verstorbene     
+ 8  Schauspieler Gerard Philipe ist oft    
+ 9  mit seiner Rolle als Fanfan identi-    
+10  fiziert worden.                        
+11  auf den Stationen seines Weges.        
+12  Er strahlte einen besonderen Charme    
+13  aus, war liebenswerter Träumer und     
+14  tollsühner Held zum Gewinn einer       
+15  großen Schlacht für den König.         
+16  Gerard Philipe, der in vielen Filmen   
+17  gespielt hat, war auch ein bedeutender 
+18  Bühnenschauspieler.                    
+19                      Mehr in 25 Sekunden
+20  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋 🬋🬋🬋🬋🬋🬋T🬋 🬋  🬋               
+21       ▐🬂    🬚       ▌     ▌▐            
+22       ▐🬃🬰▌🬕▌🬛🬠🬸▐🬨  🬕▌🬴▌🬕🬄 🬛🬫▐▐▐🬰🬠🬸▐🬊    
+23       ▐ 🬲▌▌▌▌▐🬷▐▐🬞 🬲▌🬲🬓▌  ▌▐▐🬷🬦🬷▐🬷▐     
+24
+--------------------------------------------
+P237  VT 237 ARD/ZDF Sa  7 Jun 2010:08
+ 1
+ 2           ZDF - IHR PROGRAMM            
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5  22.1O Uhr - 23.2r Uhr                  
+ 6  Dieter Kürten präsentiert zwei Beriahtb
+ 7  vom Wassersport:                       
+ 8  Die Deutschen Meisterschafte  im Wild- 
+ 9  wasserkanu in Heiming und im Schwimmen 
+10  in München.                            
+11  Essen, das in die Bundesliga ausserig  
+12  schaften aus Stuttgart und Fallschirn- 
+13  springen aus Breitscheid.              
+14  Aus dem Ausland: Die Ljichtathletik-   
+15  meisterschaften der US-Studenten in    
+16  A sti /T xas        Mehr  n 25  e     n
+17                      Mehr in 25 Sekunden
+18  🬂🬂🬂🬂🬡🬰🬒🬂🬰🬒🬡🬰🬰🬂🬂🬡🬰🬂🬰🬡🬒🬰🬰🬡🬒🬰🬡🬰🬡🬒🬡🬒🬡🬰🬂🬂🬂🬂🬂
+19      ▐▌█▐🬲█🬉🬌🬹  █🬷▌█🬷🬀▐▌▐▌█▐🬲▐▌▐▌▐🬲     
+20      🬉🬌🬆🬉🬄🬎🬉🬌🬎  🬎🬉🬄🬎🬉🬄🬉🬄🬁🬌🬆🬉🬌🬉🬌🬉🬌🬉🬌     
+21     🬵🬹🬓🬹🬹🬏🬵🬹🬏🬹🬹🬏🬹🬹   🬵🬹🬓🬹🬹🬦🬓🬹🬦🬹🬱🬦🬓🬵🬹🬏   
+22     🬎🬩🬓█🬻🬄█▐▌█🬫🬐▐▌ 🬋 🬎🬩🬓▐▌▐▌█▐▌█▐▌█▐▌   
+23     █🬻🬄█  🬬🬻🬄█▐▌▐▌   █🬻🬄▐▌🬉🬺🬝▐🬺🬝U▌🬬🬻🬄   
+24
+--------------------------------------------
+P238  VT 238 ARD/ZDF Sa  7 Jun 2019:08
+ 1
+ 2            ZDF - IHR PROGRAMM           
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5  23.25 - O.25 Uhr                       
+ 6
+ 7
+ 8  Kommissar Keller ermittelt in seinem   
+ 9  neuen Fall gegen Unbekannt:            
+10
+11  Ein wohlhabender Unternehmer ist ermor-
+12  det worden. Kurz vor seinem Tode hat er
+13  noch telefonisch einen seiner Mitarbei-
+14  ter zu sich gebeten. Fest steht nur,   
+15  daß das Telefongespräch genau 54 Sekun-
+16  den vor dem Mord stattfand...          
+17
+18
+19
+20  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬇🬋🬋🬋🬋🬋🬋     🬖X   XXX
+21   █🬬🬓█🬄█🬬🬓 █▐▌🬻🬬🬓🬻🬬🬬🬓🬻🬬🬬🬓█🬦🬝🬺🬦🬝🬺🬦🬝🬺▐🬝🬺  
+22   █▐▌█🬃█🬫🬐 █🬴 █▐▌█▐▐▌█▐▐▌█🬉🬌🬹🬉🬌🬹▐🬛█▐🬛🬴  
+23   █🬻🬄█🬓█▐▌ █▐▌🬬🬻🬄█▐▐▌█▐▐▌█🬉🬺🬝🬉🬺🬝▐▌█▐▌█  
+24
+--------------------------------------------
+P250  VT 250 ARD/ZDF Sa  7 Jun 2019:20
+ 1  🬕🬂🬨🬕🬂🬨🬂🬂🬂🬂🬂🬨                           
+ 2  ▌ ▐▌ ▐🬭🬏  🬭🬷                           
+ 3  ▌ ▐▌ ▐█▌  ██    PROGRAMMHINWEIS        
+ 4  🬲    🬷█▌  ██    FÜR ELTERN UND ERZIEHER
+ 5  █🬏  🬞██▌  ██                           
+ 6  🬎🬌🬋🬋🬍🬎🬎🬌🬋🬋🬎🬎🬇🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬖🬖🬋🬖X  🬖XXX  XX 
+ 7  2O.15 - 21.OO Uhr                      
+ 8  Musikladen extra                       
+ 9  Die extra-Ausgabe des Musikladens ist  
+10  ein familienfreundliches Programm. Der 
+11  "Musikladen" ist bei jungen Leuten be- 
+12  liebt. Auch ältere Kinder mögen ihn.   
+13  Diesmal ist sogar eine Jugendgruppe aus
+14  Berlin mit dabei.                      
+15  Die alte Streitfrage, ob und was Kinder
+16  am Abend mitsehen dürfen, ist heute    
+17  wohl keine Gewissensfrage.             
+18  Eine solche Familienunterhaltung am    
+19  Samstagabend kann auch Kindern Spaß    
+20  machen, besonders wenn die Eltern oder 
+21  ältere Geschwister mit dabei sind.     
+22  Dabei schadet es nicht, wenn keiner    
+23  aus seinem Urteil einen Hehl macht.    
+24
+--------------------------------------------
+P300  VT 300 ARD/ZDF Sa  7 Jun 2019:51
+ 1  █🬂🬂🬬🬆🬂🬬🬂🬂🬬🬂🬝🬂🬊█                        
+ 2  █ ▌▐ ▌▐ ▌▐ ▌▐ █                        
+ 3  █ 🬏🬫 🬏▐ ▌▐ ▌▐ █       Ü B E R S I C H T
+ 4  █ ▌▐ ▌▐ 🬀🬷 🬲🬁🬞█                        
+ 5  🬎🬋🬌🬍🬋🬌🬍🬋🬋🬎🬋🬎🬋🬍🬎                        
+ 6  P R O G R A M M 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 / W  / 🬎
+ 7
+ 8
+ 9
+10  Bayerischer Rundfunk....W...WWWWWWW QP 
+11  Hessischer Rundfunk.................30b
+12  Norddeutscher Rundfunk..............303
+13  Radio Bremen...............WWWWWWWWVQX 
+14  Saarländischer Rundfunk.......WWWWW.3P5
+15  Sender Freies Berlin................306
+16  Süddeutscher Rundfunk.............W.307
+17  Südwestfunk....WWWWWWWWWWWWWWWWWWWW QX 
+18  Westdeutscher Rundfunk..............QP9
+19  Deutschlandfunk........WWWWWWWWWWWW    
+20                                         
+21
+22
+23
+24
+--------------------------------------------
+P301  VT 301 ARD/ZDF Sa  7 Jun 2010:05
+ 1  ████🬂🬂🬬🬂🬂🬬███                          
+ 2  ████ ▌▐ ▌▐███      BAYERISCHER RUNDFUNK
+ 3  ████ 🬐🬫 🬐🬫███                          
+ 4  ████ ▌▐ ▌▐███                   SAMSTAG
+ 5  ████🬭🬭🬻🬭🬲🬷███               7.JUNI 1980
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎🬎🬎🬕W🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+ 8
+ 9  19.1O Uhr B2  INTERMEZZO               
+10  17.3O Uhr B1  INTERNATIONALE HITPARADE 
+11                Von Richard Strauß       
+12  17.3O Uhr B2  GUSTAV FLAUBERT:         
+13                "MADAME BOVARY"          
+14                6.Eine Operation mißlingt
+15                -Ein Fluchtplan scheitert
+16  22.O5 Uhr B2  REDEZEIT BIS MITTERNACHT 
+17  19.1O Uhr B3  WESTERNMELODIE           
+18                Mit Bruce Low            
+19                Schulische               
+20                Sexualerziehung          
+21
+22
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P302  VT 302 ARD/ZDF Sa  7 Jun 2021:05
+ 1  ████🬂🬕🬨🬂🬂🬬███                          
+ 2  ████ ▌▐ ▌▐███       HESSISCHER RUNDFUNK
+ 3  ████ 🬐▐ 🬐🬫███                          
+ 4  ████ ▌▐ ▌▐███                   SAMSTAG
+ 5  ████🬭🬲🬷🬭🬲🬷███               7.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎🬎🬎🬎🬎🬎🬎🬕🬎🬎🬎🬎🬎🬎🬆🬎🬍🬎🬎 🬎🬎 W
+ 8
+ 9
+10  22.OO Uhr HR2 GEISTLICHE ABENDMUSIK    
+11
+12  22.2O Uhr HR2 MUSICA POPULAR BRASILEIRA
+13                Besprechung von          
+14  22.3O Uhr HR2 STUDIO FÜR LITERATUR     
+15                Albert Bosper:           
+16                Sechs wildfremde Leute   
+17                Wunschprogramm           
+18  23.OO Uhr HR2 HISTORISCHE AUFNAHMEN    
+19                Die Sopranistin Nellie   
+20                Melba                    
+21
+22
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P303  VT 303 ARD/ZDF Sa  7 Jun 2019:25
+ 1  ██🬂🬨🬨🬂🬂🬬🬂🬂🬬██                          
+ 2  ██ ▐▐ ▌▐ ▌▐██    NORDDEUTSCHER RUNDFUNK
+ 3  ██🬦🬁▐ ▌▐ 🬐🬫██                          
+ 4  ██▐ ▐ ▌▐ ▌▐██                   SAMSTAG
+ 5  ██🬷🬭🬷🬭🬭🬻🬭🬲🬷██               7.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K  🬎🬎W🬎W🬎🬎🬎🬎🬎🬎🬎🬎 🬕 //     W
+ 8
+ 9
+10  17.OO Uhr NDR3 HÖRSPIELWERKSTATT       
+11                 Thema Radio: Trommelfell
+12
+13  2O.15 Uhr NDR3 DON QUICHOTTE           
+14                 Heroische Musikkomödie  
+15                 Von Jules Massenet      
+16
+17  23.OO Uhr NDR2 SATURDAY-NIGHT-CLUB     
+18                 Am Mikrofon:            
+19                 Helga Boddin            
+20
+21
+22
+23
+24
+--------------------------------------------
+P304  VT 304 ARD/ZDF Sa  7 Jun 2021:00
+ 1  ████🬂🬂🬬🬂🬂🬬███                          
+ 2  ████ ▌▐ ▌▐███              RADIO BREMEN
+ 3  ████ 🬐🬫 🬐🬫███                          
+ 4  ████ ▌▐ ▌▐███                   SAMSTAG
+ 5  ████🬭🬲🬷🬭🬭🬻███               7.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎🬎🬎🬎🬎W🬎 WW W  W        W
+ 8
+ 9                HANSAWELLE               
+10                                         
+11  18.3O Uhr     BONN IM SPIEGEL          
+12                Analysen, Interviews und 
+13                Meinungen aus der Bundes-
+14                hauptstadt               
+15
+16  2O.15 Uhr     HEIMATFUNK AM WOCHEtEND  
+17                Heimatmuseen unter       
+18                der Lupe                 
+19                3. Rotenburg             
+20                                         
+21
+22
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P305  VT 305 ARD/ZDF Sa  7 Jun 2021:00
+ 1  ████🬆🬂🬬🬂🬂🬬███                          
+ 2  ████ 🬲🬷 ▌▐███   SAARLÄNDISCHER RUNDFUNK
+ 3  ████🬭🬒🬨 🬐🬫███                          
+ 4  ████🬂▌▐ ▌▐███                   SAMSTAG
+ 5  ████🬱🬭🬻🬭🬲🬷███               7.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬕🬎🬎🬎🬎🬎🬎
+ 8
+ 9                SR2 Studiowelle Saar     
+10
+11  19.O5 Uhr     PLP-TIME: Dibbelabbes    
+12                Ein Jugendmagazin        
+13
+14  2O.2O Uhr     UNTERHALTUNG AM SAMSTAG  
+15                Zwei rechts - zwei links 
+16                Satire, Nonsens, Musik   
+17                Meldungen,Meinungen und  
+18  21.3O Uhr     JAZZBAND-BALL            
+19
+20  22.15 Uhr     KRIMI-TIME:              
+21                "Aufforderung zum Mord"  
+22
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P306  VT 306 ARD/ZDF Sa  7 Jun 2021:18
+ 1  ██🬝🬂🬊🬕🬂🬨🬂🬂🬬██                          
+ 2  ██▌▐🬭▌▐█ ▌▐██      SENDER FREIES BERLIN
+ 3  ██🬲🬯🬂▌🬞🬷 🬐🬫██                          
+ 4  ██🬕🬨 ▌▐█ ▌▐██                   SAMSTAG
+ 5  ██🬺🬭🬵🬲🬷█🬭🬭🬻██               7.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎 ///W//WW////W W77//W 🬎
+ 8
+ 9
+10  17.O5 Uhr SFB1 DEUIKCHER KATHOLIKENTAG 
+11                 Ein Live-Bericht        
+12                 Kompositionsstile       
+13  18.3O Uhr SFB3 OFFERTE                 
+14                 Heute: Seiner Majestät  
+15                 loyalste Gefangene -    
+16                 Hitlerflüchtlinge im    
+17                 englischen Exil         
+18                 SCHWARZE TOD VON WALD-  
+19  19.45 Uhr SFB1 LEONARD BERNSTEIN       
+20                 DIRIGIEsT CHARLES  VES  
+21                 Sinfonie Nr. 2          
+22
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P307  VT 307 ARD/ZDF Sa  7 Jun 2019:12
+ 1  ██🬆🬂🬬🬂🬂🬬🬂🬂🬬██                          
+ 2  ██ 🬲🬷 ▌▐ ▌▐██     SÜDDEUTSCHER RUNDFUNK
+ 3  ██🬭🬒🬨 ▌▐ 🬐🬫██                          
+ 4  ██🬂▌▐ ▌▐ ▌▐██                   SAMSTAG
+ 5  ██🬱🬭🬻🬭🬭🬻🬭🬲🬷██               7.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K  🬎🬎🬎🬎W🬎🬎🬎🬎W🬎 W🬍🬎WW🬕WW🬕W🬍W
+ 8
+ 9  17.OO Uhr SDR2 TREFFPUNKT JAZZ         
+10                 Pony Pointdexter        
+11
+12  18.O5 Uhr SDR2 WISSENSCHAFT IN DER     
+13                 ENTSCHEIDUNG            
+14                 Heute: Parapsychologie  
+15
+16  2O.OO Uhr SDR3 ZEITBRILLE              
+17                 Eine Sendung            
+18                 mit immer wieder        
+19                 tieferer Bedeutung      
+20
+21
+22
+23
+24
+--------------------------------------------
+P308  VT 308 ARD/ZDF Sa  7 Jun 2029:12
+ 1  █🬝🬂🬊🬕🬨🬂🬕🬨🬂🬂██                          
+ 2  █▌▐🬭▌▐ ▌▐ ███               SÜDWESTFUNK
+ 3  █🬲🬯🬂▌▐ ▌▐ 🬭██                          
+ 4  █🬕🬨 ▌▐ ▌▐ ███                   SAMSTAG
+ 5  █🬺🬭🬵🬺🬭🬭🬭🬻🬭███               7.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎W🬎🬎🬎
+ 8  ;u :k ▌🬫 🬝🬝🬜              🬏   🬏🬧🬞🬤🬦🬊🬞🬟
+ 9  16.O5 Uhr SWF1 BLEIBEN SIE AM APPARAT  
+10
+11  16.3O Uhr SWF2 BERLINER JAZZTAGE 1979  
+12
+13  17.O5 Uhr SWF2 DEUTSCHER KATHOLIKENTAG 
+14
+15  18.O5 Uhr SWF1 DIE SWF-SCHLAGERPARADE  
+16
+17  2O.2O Uhr SWF1 SÜDWESTFUNK TANZPARTY   
+18
+19  2O.2O Uhr SWF2 HURRICAN                
+20                 Von Ernst Schnabel      
+21
+22  21.O5 Uhr SWF3 RADIOCLUB               
+23
+24
+--------------------------------------------
+P309  VT 309 ARD/ZDF Sa  7 Jun 2019:22
+ 1  █🬕🬨🬂🬕🬨🬂🬂🬬🬂🬂🬬█                          
+ 2  █▌▐ ▌▐ ▌▐ ▌▐█    WESTDEUTSCHER RUNDFUNK
+ 3  █▌▐ ▌▐ ▌▐ 🬐🬫█                          
+ 4  █▌▐ ▌▐ ▌▐ ▌▐█                   SAMSTAG
+ 5  █🬺🬭🬭🬭🬻🬭🬭🬻🬭🬲🬷█               7.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬕🬎🬎🬎W🬎
+ 8
+ 9
+10  19.3O Uhr WDR1 EINE LUSTIGE GESCHICHTE 
+11            NDR1 Lieder des russischen   
+12                 Dichters A.Galitsch     
+13
+14  2O.15 Uhr WDR3 SAMSTAGABEND IM WDR3    
+15                 Europa - Gespräche      
+16                 in EG-Ländern           
+17                 Heute: Frankreich       
+18                 und Großbritannien      
+19
+20  22.3O Uhr WDR2 WENN DER SAUERLÄNDER    
+21                 SPRICHT...              
+22                 Von und mit             
+23                 Jürgen von der Lippe    
+24
+--------------------------------------------
+P310  VT 310 ARD/ZDF Sa  7 Jun 2021:18
+ 1  ███🬂🬂🬬🬂█🬕🬂🬨██                          
+ 2  ███ ▌▐ █▌▐███           DEUTSCHLANDFUNK
+ 3  ███ ▌▐ █▌🬞🬷██                          
+ 4  ███ ▌▐ █▌▐███                   SAMSTAG
+ 5  ███🬭🬭🬻🬭🬭🬲🬷███               7.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎🬎🬎🬎🬎🬎🬎🬎WW🬎🬎 W 7    W/7W
+ 8
+ 9
+10  16.1O Uhr     DATEN UND TIPS           
+11  21.4O Uhr     BUNDESPARTEITAG DER FDP  
+12
+13  22.O5 Uhr     TANZPARTY ZUM WOCHENENDE 
+14                Mit Günter Bendig        
+15                Achtung - Morgen         
+16  11.O5 Uhr     INTERVIEW DER WOCHE      
+17                Klaus Voigdt befragt     
+18                Hans-Jürgen Wischnewski  
+19
+20  21.1O Uhr     KATHOLIKENTAG IN BERLIN  
+21
+22
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P333  VT 333 ARD/ZDF Sa  7 Jun 2021:13
+ 1  🬕🬂🬨🬕🬂🬨🬂🬂🬂🬂🬂🬨                           
+ 2  ▌ ▐▌ ▐🬭🬏  🬭🬷                           
+ 3  ▌ ▐▌ ▐█▌  ██                           
+ 4  🬲    🬷█▌  ██                           
+ 5  █🬏  🬞██▌  ██                           
+ 6  🬎🬌🬋🬋🬍🬎🬎🬌🬋🬋🬎🬎                           
+ 7  VERKEHRSFUNK 🬎🬎🬎W🬎WWW🬎W🬎W W /7        W
+ 8
+ 9   Kommender Sonntag ohne Auto           
+10  Hinweise zum Reiseverkehr              
+11
+12   Der für den Umweltschutz zuständige   
+13   Bundesministerr Baum hat an die Auto- 
+14   fahrer appelliert, am kommenden Sonn- 
+15   tag ihren Wagen stehenzulassen.       
+16  In Jugoslawien sind Benzin-Bons nun    
+17   Baum sagte, der Sinn liege ni.ht i    
+18   der minimalen Benzineinsparung, son-  
+19   dern in der Schärfung des nmweltbe-   
+20   wußtseins der freiwillig mitmachen-   
+21   den Bürger.                           
+22  Pfennig je Liter mehr.                 
+23                      Mehr in 25 Sekunden
+24
+--------------------------------------------
+P400  VT 400 ARD/ZDF Sa  7 Jun 2018:53
+ 1   🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 2   ███ █ 🬲🬏🬞🬷██🬀🬭🬁█ █ 🬲🬏🬞🬷 █ █ 🬭█ █▌▐███ 
+ 3   ███ █ █▌▐███ 🬎 █ 🬆🬞█▌▐█ █ █ 🬎█ █▌▐███ 
+ 4   ███🬏 🬞█▌▐███ 🬹 █ 🬱 █▌▐█ █ █ 🬹█ █▌▐███ 
+ 5   ████🬭██🬲🬷███🬭█🬭█🬭█🬭█🬲🬷█🬱🬭🬵█🬭🬭█🬭🬭🬲🬭🬷██ 
+ 6   ▌                                   ▐ 
+ 7   ▌                                   ▐ 
+ 8   ▌    Jugoslawien für Urlauber       ▐ 
+ 9   ▌    ein Drittel billiger -         ▐ 
+10   ▌    Dinar drastisch abgewertet     ▐ 
+11   ▌                                   ▐ 
+12   ▌                                   ▐ 
+13   ▌                                   ▐ 
+14   ▌                                   ▐ 
+15   ▌                                   ▐ 
+16   ▌  Nachrichten........4O1 bis 4O4   ▐ 
+17   ▌                                   ▐ 
+18   🬺🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬻 
+19   █ █ 🬷🬏🬞🬲 🬲 🬷 🬷██🬀🬏🬞🬁▌🬞▌▐▌🬞🬁▌▐ 🬕🬞🬁🬕🬞🬁█ 
+20   █ █ 🬬▌▐🬝🬞█ █ 🬬██ ▌▐ ▌🬉▌▐▌▐ ▌▐ ▌▐ ▌▐🬂█ 
+21   █ █ 🬻▌▐▌▐█ █ 🬻██ ▌▐ ▌🬦▌▐▌▐ ▌▐ ▌▐ ▌▐ █ 
+22   █ 🬨 🬨▌▐▌🬁█ █ 🬨██ ▌▐ ▌🬁▌🬁▌🬁🬞🬲 🬞▌▐ 🬲 🬞█ 
+23   🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎W🬎🬎🬎🬎🬎🬎W🬎🬎🬎🬎🬎🬎 🬎 🬎W 
+24
+--------------------------------------------
+P401  VT 401 ARD/ZDF Sa  7 Jun 2011:33
+ 1  ██🬻██                                  
+ 2  ██ ██                       NACHRICHTEN
+ 3  ██ ██ 🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 4
+ 5        FDP-WAHLPROGRAMM VERABSCHIEDET   
+ 6                                         
+ 7        FREIBURG: Zum Abschluß ihres     
+ 8        Parteitages hat die FDP ihr      
+ 9        Wahlprogramm verabschiedet.      
+10
+11        Das Programm bezeichnet die Fort-
+12        führung der Entspannungs- und Si-
+13        cherheitspolitik ebenso wie das  
+14        Festhalten an der Abrüstung als  
+15        unverzichtbar.                   
+16
+17        Im innenpolitischen Teil werden  
+18        die Probleme von Randgruppen an- 
+19        gesprochen. Die FDP will sich mit
+20        ihren Zielen als Partei der Er-  
+21        neuerung gegen CDU/CSU und SPD   
+22        abgrenzen.                       
+23
+24
+--------------------------------------------
+P402  VT 402 ARD/ZDF Sa  7 Jun 2018:35
+ 1  ██🬻██                                  
+ 2  ██ ██                       NACHRICHTEN
+ 3  ██ ██ 🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 4                                         
+ 5        IG DRUCK GEGEN DGB-PROGRAMM      
+ 6
+ 7        KÖLN: Der Bundesvorsitzende der  
+ 8        Gewerkschaft Druck und Papier    
+ 9        Mahlein hat den Entwurf für ein  
+10        Grundsatzprogramm des DGB kriti- 
+11        siert.                           
+12
+13        Mahlein sagte, er vermisse etwas 
+14        mehr Bekennermut für eine Politik
+15        der aktiven Interessenvertretung 
+16        der Arbeitnehmer.                
+17
+18        Es wäre eine verhängnisvolle     
+19        Illusion zu glauben, durch Zu-   
+20        sammenarbeit mit den Unterneh-   
+21        mern könne das materielle Lebens-
+22        niveau der arbeitenden Menschen  
+23        gesichert werden.                
+24
+--------------------------------------------
+P403  VT 403 ARD/ZDF Sa  7 Jun 2011:35
+ 1  ██🬻██                                  
+ 2  ██ ██                       NACHRICHTEN
+ 3  ██ ██ 🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 4
+ 5
+ 6        GORLEBEN-PROTESTE                
+ 7
+ 8        HAMBURG: Die Proteste gegen die  
+ 9        Räumung des Bohrplatzes in Gorle-
+10        ben hielten auch heute im ganzen 
+11        Bundesgebiet an.                 
+12        In vielen Städten beteiligten    
+13        sich hunderte von zumeist jungen 
+14        Menschen an Demonstrationen.Die  
+15        meisten der gestern beuetzten    
+16        Kirchen wurden inzwischen wieder 
+17        geräumt.                         
+18        Am Rande des FDP-Parteitages     
+19        in Freiburg sprach Bundesinnen-  
+20        minister Baum mit Kernkraftgeg-  
+21        nern.Er äußerte sich befriedigt  
+22        über den friedlichen Ausgang der 
+23        Räumung in Gorleben.             
+24
+--------------------------------------------
+P404  VT 404 ARD/ZDF Sa  7 Jun 2019:27
+ 1  ██🬻██                                  
+ 2  ██ ██                       NACHRICHTEN
+ 3  ██ ██ 🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 4
+ 5        KURZMELDUNGEN                    
+ 6
+ 7        ARUSCHA: Mit einem Appell an die 
+ 8        reichen Länder, den Hunderttau-  
+ 9        senden vom Hungertod bedrohten   
+10        Menschen in Ostafrika sofort zu  
+11        helfen, ging in Tansania die Kon-
+12        ferenz des Welternährungsrates   
+13        der UNO zu Ende.                 
+14        KABUL: In Afghanistan verdichten 
+15        sich die Anzei hen für ei e Ent- 
+16        scheidungsschlacht zwischen den  
+17        moslemischen Aufständischen und  
+18        den sowjetischen Interventions-  
+19        truppen.                         
+20        WASHINGTON: Die USA wollen mehre-
+21        re hundert offenbar Wrimi elle   
+22        Flüchtlinge aus Kuba zurückschik-
+23        ken.          Mehr in 25 Sekunden
+24
+--------------------------------------------
+P444  VT 444 ARD/ZDF Sa  7 Jun 2018:36
+ 1  █🬂🬂█🬂🬂🬂█🬂🬂█          🬞🬚🬋🬱              
+ 2  █  █   █  █           ▌ ▐🬏      🬕🬨     
+ 3  █  █   █  █          🬞▌  🬂🬡🬸🬞🬭🬕🬂🬀🬴     
+ 4  █  █   █  █          🬉🬓   🬷🬭🬷    🬉🬱    
+ 5  █🬏  🬞🬭   🬞█          🬞🬸   ▌       ▐    
+ 6  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎       🬕🬂🬲🬜    🬊🬋🬓     🬉🬓   
+ 7  W E T T E R 🬎🬎🬎🬎 🬐🬲🬟 23A  §🬎🬍🬟  🬜🬄§🬍🬎🬍T
+ 8                   ▐🬐        ▐     🬀 🬁🬲  
+ 9  NORD-            🬚🬄        ▐  22°C  ▐  
+10  DEUTSCHLAND:   🬦🬋🬄        ▐🬂        ▐🬭 
+11  heiter,        ▐         🬚🬆          ▐ 
+12  trocken        🬕         ▌         ▐🬨🬞 
+13  SÜD-           🬲         ▌  🬭🬏   🬚🬍🬂   
+14  DEUTSCHLAND:   🬜   15°C  🬂🬌🬋🬄🬂🬌🬜🬂🬀     
+15  Schauer        🬨               🬨       
+16                 🬉🬱              🬁🬲🬭     
+17  WIND:           🬁🬌🬋🬱🬭            🬉🬓    
+18  mäßig,              🬜             🬊🬩   
+19  aus NO bis W       🬷🬀    21°C    🬭🬕🬂   
+20                  D  ▌            ▐🬐   🬞 
+21                     🬲🬭🬭🬭      🬞🬭🬚🬱🬪     
+22                        🬁🬂🬂🬊🬍🬊🬋🬆  🬁🬂     
+23  Mittagstempiraturen in 25 Sekunden     
+24
+--------------------------------------------
+P450  VT 450 ARD/ZDF Sa  7 Jun 2019:36
+ 1  █🬕█🬓█🬝🬄🬻🬕█🬓🬻🬕█🬓                        
+ 2  █🬛█🬐█🬴🬐█▌█▌█▌█▌                        
+ 3  🬎🬄🬎🬄🬎🬎🬄🬎🬄🬎🬄🬎🬄🬎🬄             OHNE GEWÄHR
+ 4  🬕🬨▐▐▐▐🬨🬁🬕▐🬐🬨🬀🬨🬀                        
+ 5  🬲🬫▐🬷█▐▐ ▌▐🬏▐ ▐ 🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 6   █ ▐▌▐▌ █ ▐▌▐▌                         
+ 7   █ ▐██▌ █ ▐██▌                         
+ 8   🬎 🬉🬎🬎🬄 🬎 🬉🬎🬎🬄 🬎🬎🬎🬎🬎🬎W 🬕W 7W77/ 7W7   W
+ 9
+10  Lottozahlen:   heute gegen 21.45 Uhr   
+11
+12  Pfsrtzzoto:   4  9  7                  
+13
+14  Spiel 77:      0 0 0 9 7 2 1           
+15
+16  Pferdelotto:  2  4  9  12              
+17
+18  Zusatzspiel:                           
+19
+20  Elferwette:                            
+21
+22
+23              Rennquintett in 25 Sekunden
+24
+--------------------------------------------
+P500  VT 500 ARD/ZDF Sa  7 Jun 2019:34
+ 1   🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 2   ██🬀🬏🬨 🬏🬨🬀🬏🬨 🬏🬨🬏🬞██🬕🬞🬁▌▐ 🬲 🬷 ▌▐ 🬷 █ ██ 
+ 3   ██ 🬎🬬 🬄▐ ▌▐ 🬄🬷▌▐██▌🬉 ▌🬉🬞█ █ ▌▐ 🬬 █ ██ 
+ 4   ██🬋🬓▐ 🬹█ ▌▐ 🬓▐▌▐██▌🬦 ▌🬦 █ █ ▌▐ 🬻 █ ██ 
+ 5   ██🬱🬭🬻🬭██🬱🬭🬻🬭🬲🬷🬲🬷██🬲🬷🬭🬲🬷🬭█🬭█🬱🬭🬻🬭🬷🬭🬷🬭🬷█ 
+ 6   ▌                                   ▐ 
+ 7   ▌   Einen neuen DSV-Rekord über     ▐ 
+ 8   ▌   50m Schmetterling erzielte      ▐ 
+ 9   ▌   Andreas Behrend (Neckarsulm)    ▐ 
+10   ▌   im Rahmen der Deutschen Titel-  ▐ 
+11   ▌   kämpfe in München mit           ▐ 
+12   ▌   25,66 Sekunden.                 ▐ 
+13   ▌                                   ▐ 
+14   ▌                                   ▐ 
+15   ▌                                   ▐ 
+16   ▌              SPORT AUCH..501-504  ▐ 
+17   ▌              SCHWIMMEN.......502  ▐ 
+18   🬺🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬻 
+19   █ █ 🬷🬏🬞🬲 🬲 🬷 🬷██🬀🬏🬞🬁▌🬞▌▐▌🬞🬁▌▐ 🬕🬞🬁🬕🬞🬁█ 
+20   █ █ 🬬▌▐🬝🬞█ █ 🬬██ ▌▐ ▌🬉▌▐▌▐ ▌▐ ▌▐ ▌▐🬂█ 
+21   █ █ 🬻▌▐▌▐█ █ 🬻██ ▌▐ ▌🬦▌▐▌▐ ▌▐ ▌▐ ▌▐ █ 
+22   █ 🬨 🬨▌▐▌🬁█ █ 🬨██ ▌▐ ▌🬁▌🬁▌🬁🬞🬲 🬞▌▐ 🬲 🬞█ 
+23   🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 //  🬎        W 
+24   ██🬋🬓▐ 🬹█ ▌▐ 🬓▐▌▐██▌🬦 ▌🬦 █ █ 🬲U 🬻 █ ██ 
+--------------------------------------------
+P501  VT 501 ARD/ZDF Sa  7 Jun 2019:31
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹                              
+ 2  ████ ████                              
+ 3  ████                                   
+ 4  █████████         INTERNAT.FRANZÖSISCHE
+ 5       ████         TENNISMEISTERSCHAFTEN
+ 6  ████ ████                              
+ 7  🬎🬎🬎🬎🬎🬎🬎🬎🬎                              
+ 8  S P O R T 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 /W/ /77/ 7   W
+ 9
+10  AMAYA/PFISTER SIEGEN IM HERRENDOPPEL   
+11  JORDAN/SMITH GEWINNEN DAS DAMENDOPPEL  
+12
+13  Beide Doppel-Finale wurden bei den Int.
+14  Französischen Meisterschaften von Teil-
+15  nehmern aus den USA gewonnen.          
+16
+17  Amaya/Pfister setzten sich mit 1:6,    
+18  6:4, 6:4, 6:3 gegen Gottfried/Ramirez  
+19  (USA/Mexiko) durch.                    
+20
+21  Zuvor hatten sich bereits Anne Jordan/ 
+22  Kathy Smith in die Siegerliste einge-  
+23  tragen.                                
+24
+--------------------------------------------
+P502  VT 502 ARD/ZDF Sa  7 Jun 2019:56
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹                              
+ 2  ████ ████                              
+ 3  ████                                   
+ 4  █████████   92. DEUTSCHE SCHWIMM-      
+ 5       ████   MEISTERSCHAFTEN IN MÜNCHEN 
+ 6  ████ ████   ENDLÄUFE                   
+ 7  🬎🬎🬎🬎🬎🬎🬎🬎🬎                              
+ 8  S P O R T 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 7/   7 /   7    W
+ 9
+10  100m Schmetterling Damen               
+11  1. Karin Seick (Winsen)         1:02,60
+12  2. Doris Wiebke (München)       1:03,62
+13  3. Angelika Garzecki (Saarbr.)  1:04,03
+14
+15  4x1oom Freistil Herren                 
+16  1. SSG Saar/Max Ritter          3:32,52
+17  2. VFL Wolfsburg                3:32,91
+18  3. SG Hansa Dortmund            3:34,35
+19
+20  4oom Lagen Damen                       
+21  1. Barbara Selter (Gladbeck)    5:01,46
+22  2. Petra Zendler (Köln)         5:02,04
+23  3. Irene Sindern (Essen)        5:02,40
+24
+--------------------------------------------
+P503  VT 503 ARD/ZDF Sa  7 Jun 2021:36
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹                              
+ 2  ████ ████                              
+ 3  ████                      GIRO D'ITALIA
+ 4  █████████                              
+ 5       ████                              
+ 6  ████ ████                              
+ 7  🬎🬎🬎🬎🬎🬎🬎🬎🬎                              
+ 8  S P O R T 🬎🬎🬎🬎W🬎🬕🬎🬎W🬎W🬎 7   7//W/7    W
+ 9
+10
+11  Endstand                               
+12
+13  1. Bernard Hinault (F)      112:08:20  
+14  2. Vladimiro Panizza (I)    5:43 zurück
+15  3. Giovanni Battaglin (I)   6:03 zurück
+16  4. Tommi Priem (S)          7:53 zurück
+17
+18 22. Gregor Braun (D)        58:25 zurück
+19 85. Hans Hindelang (D)    3:01:30 zurück
+20 89. Heinz Betz            3:39:20 zurück
+21
+22
+23
+24
+--------------------------------------------
+P504  VT 504 ARD/ZDF Sa  7 Jun 2018:01
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹                              
+ 2  ████ ████                              
+ 3  ████                                   
+ 4  █████████                 KURZMELDUNGEN
+ 5       ████                              
+ 6  ████ ████                              
+ 7  🬎🬎🬎🬎🬎🬎🬎🬎🬎                              
+ 8  S P O R T 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 7  7 7  7       W
+ 9
+10  Vor seinem ersten Titelgewinn steht bei
+11  den Deutschen Military-Meisterschaften 
+12  der Olympia-Dritte Karl Schultz (Böbst)
+13                                         
+14  Nach zwei Disziplinen (Dressur und Ge- 
+15  länderitt) führt er unangefochten vor  
+16  Titelverteidiger Harry Klugmann und    
+17  Otto Ammermann.                        
+18
+19  Heiner Thade aus Darmstadt wiederholte 
+20  seinen Vorjahreserfolg bei einem Tur-  
+21  nier im Modernen Fünfkampf in Bern.    
+22
+23
+24
+--------------------------------------------
+P600  VT 600 ARD/ZDF Sa  7 Jun 2018:12
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 2                                         
+ 3     🬕▌                    ▌             
+ 4     🬛🬄🬕🬄🬴▌🬴🬐🬴🬐🬴▌▌▌🬕▌🬕🬄🬴🬐🬕🬄🬕▌🬰▌▌▌🬴▌🬕▌    
+ 5     ▌ ▌ 🬲🬓🬱▌🬱▌🬲🬓🬪🬄🬲▌▌ 🬱▌🬲🬓▌▌🬲▌🬲▌🬲🬓▌▌    
+ 6                                         
+ 7  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬕🬎🬎🬎🬎W🬎WWW🬎WWWWW          W 
+ 8
+ 9    DIE WELT........W.....WW6P1 bt1 603  
+10                                         
+11
+12    FRANKFURTER ALLGEMEINE .604 bis 606  
+13
+14    I I🬢 VT 600 ARD/ZDF Sa  7 Jun 2021:58
+15    FRANKFURTER RUNDSCHAU ..607 bis 609  
+16
+17
+18    HANDELSBLATT............610 bis 612  
+19
+20
+21    SÜDDEUTSCHE ZEITUNG.....613 bis 615  
+22
+23
+24
+--------------------------------------------
+P601  VT 601 ARD/ZDF Sa  7 Jun 2018:07
+ 1  ████🬒🬡🬰🬂🬴🬂🬸🬒🬡🬰🬨██🬒🬡██🬒🬸🬒🬡🬰🬨🬒🬡█🬡🬒🬡🬒█████
+ 2  ████▌▐█ █ █▌🬉🬨███▌▐▌▐▌█▌🬉🬨█▌▐██▌▐██████
+ 3  ████▌▐█ █ █▌▐🬻🬬██▌▐▌▐▌█▌▐🬻█▌▐█🬬▌▐██████
+ 4  ████🬮🬯🬰🬭🬴🬭🬸🬮🬯🬰🬷██🬲🬯🬮🬯🬮█🬮🬯🬰🬷🬮🬯🬰🬷🬮🬯██████
+ 5  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎W🬎🬎🬎🬎 ///7/W7//  WW  🬕  W
+ 6
+ 7   Außenminister Barzel ?                
+ 8
+ 9
+10   Kanzlerkandidat Franz Josef Strauß    
+11   stellte seine Regierungsmannschaft    
+12   vor. Von den zehn Namen verband er nur
+13   zwei mit festen Ressort-Zuweisungen:  
+14   Stoltenberg soll Finanzminister und   
+15   Vizekanzler, Wörner Verteidigungsmini-
+16   ster werden. Außerdem gilt Barzel als 
+17   sicherer Kandidat für das Amt des     
+18   Außenministers.                       
+19
+20   Mehr in der WELT am Wochenende.       
+21
+22                mehr von der WELT auf 602
+23  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬖🬋🬖XX X🬇XX🬖XX
+24
+--------------------------------------------
+P602  VT 602 ARD/ZDF Sa  7 Jun 2018:07
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 2  ████🬒🬡🬰🬂🬴🬂🬸🬒🬡🬰🬨██🬒🬡██🬒🬸🬒🬡🬰🬨🬒🬡█🬡🬒🬡🬒█████
+ 3  ████▌▐█ █ █▌🬉🬨███▌▐▌▐▌█▌🬉🬨█▌▐██▌▐██████
+ 4  ████▌▐█ █ █▌▐🬻🬬██▌▐▌▐▌█▌▐🬻█▌▐█🬬▌▐██████
+ 5  ████🬮🬯🬰🬭🬴🬭🬸🬮🬯🬰🬷██🬲🬯🬮🬯🬮█🬮🬯🬰🬷🬮🬯🬰🬷🬮🬯██████
+ 6  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 / /        🬎     W
+ 7
+ 8   FDP auf des Messers Schneide          
+ 9
+10
+11   Die FDP steht nach Auffassung ihres   
+12   Parteichefs Genscher vor dem schwer-  
+13   sten Wahlkampf ihrer Geschichte. Gen- 
+14   scher sagte auf dem Parteitag in Frei-
+15   burg: "Am 5. Oktober steht die FDP    
+16   nicht zur Wahl, nein, sie steht zur   
+17   Abstimmung, sie steht zur Entschei-   
+18   dung. Es steht auf des Messers Schnei-
+19   de".                                  
+20   Ausführlicher Bericht in der Wochen-  
+21   endausgabe der WELT.                  
+22                mehr von der WELT auf 6O3
+23  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬖🬖🬋XX🬖X🬖XX🬖XX
+24
+--------------------------------------------
+P603  VT 603 ARD/ZDF Sa  7 Jun 2018:32
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 2  ████🬒🬡🬰🬂🬴🬂🬸🬒🬡🬰🬨██🬒🬡██🬒🬸🬒🬡🬰🬨🬒🬡█🬡🬒🬡🬒█████
+ 3  ████▌▐█ █ █▌🬉🬨███▌▐▌▐▌█▌🬉🬨█▌▐██▌▐██████
+ 4  ████▌▐█ █ █▌▐🬻🬬██▌▐▌▐🬲█▌▐🬻█▌▐█🬬🬲U██████
+ 5  ████🬮🬯🬰🬭🬴🬭🬸🬮🬯🬰🬷██🬲🬯🬮🬯🬮█🬮🬯🬰🬷🬮🬯🬰🬷🬮🬯█████🬻
+ 6  🬎🬎🬎🬎🬎🬎🬎🬎🬕🬎W🬎🬎W🬎🬎WWW🬕W🬎🬎W🬎 W W//W/W  /7/
+ 7   Zwei Mill vrd KaGew                   
+ 8         Heiraten ist wieder "in"        
+ 9
+10   Beim Minera ölkonzern B  sprudelt der 
+11   Geeinn. Ie easten euartal t98O stieg  
+12   der RDingewlnn bei British Pstroleum  
+13   von 27O Millir en aufl5O4,7 Millionen 
+14   Pfund Ster wnrd(umgeeenhn t 2,O8 Mil  
+15   lungdsn Mark). BP chew ist Ruf dle    
+16   nnhmende Bedeutunh des Nordseeöls.    
+17   gerechnet.                            
+18   Das lesen Sie in der Wochenendausgabe 
+19   der WELT.                             
+20   emdausgabe der WELT.                  
+21   endausgabe der WELT.                  
+22                      mehr in 25 Sekunden
+23  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋T🬋 🬖 🬖           
+24
+--------------------------------------------
+P604  VT 604 ARD/ZDF Sa  7 Jun 2018:32
+ 1  🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭
+ 2     FRANKFURTER  ALLGEMEINE █  P/LITIK  
+ 3
+ 4   █ Zeitung für Deutschland ████████████
+ 5  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 6
+ 7  Die FDP fürchtet um Ihre Zukunft.      
+ 8  Thomas Meyer brrichtgtii  sse  .chil   
+ 9  vom Samstag auf Seite 1 üb r den Wahl- 
+10  Samstag auf Seite 4.                   
+11  bei dem der Vorsitzende Genscher ne-   
+12  sorgt geäußert hat, "es geht um das    
+13  Drei-Parteien-System". Ein Hintergrund-
+14  bericht auf Seite 3 beschäftigt sieh   
+15  mit "der An frede  ebPieben ist. Am    
+16  Samstag in der F.A.Z. auf Seite 12.    
+17  In die Wahlkräpfmannschaft von Stra ß  
+18  sind auch Dollinger und Barzel aufge-  
+19  nommen, schreibt in der F.A.Z. vom     
+20  Samstag auf deite 1 Karl FUHdmeyer.    
+21  Frieden tun kann".                     
+22
+23                      Mehr in 25 Sekunden
+24
+--------------------------------------------
+P605  VT 605 ARD/ZDF Sa  7 Jun 2018:31
+ 1  🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭
+ 2     FRANKFURTER  ALLGEMEINE   WIRTSCHAFT
+ 3
+ 4   █ Zeitung für Deutschland ████████████
+ 5  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 6
+ 7  Schweden registriert starke Währungs-  
+ 8  verluste. Werner Adam untersucht in    
+ 9  der F.A.Z. vom Samstag auf Seite 13    
+10  die Hintergründe des starken Devisen-  
+11  abflusses.                             
+12  Eine Analyse des Deutschen Instituts   
+13  für Wirtschaftsforschung in Berlin     
+14  überschreibt Lothar Julitz in der      
+15  F.A.Z. vom Samstag auf Seite 13:       
+16  "Die Investitionen stützen das Wachs-  
+17  tum".                                  
+18  Auf einer Sonderseite fordert unter    
+19  der Überschrift "Eine Agrarpolitik der 
+20  Hoffnungslosigkeit" auf Seite 15 der   
+21  F.A.Z. vom Samstag Prof.Dr.Hermann     
+22  Piebe, daß über neue Lösungen endlich  
+23  nachgedacht werden müsse.              
+24
+--------------------------------------------
+P606  VT 606 ARD/ZDF Sa  7 Jun 2018:13
+ 1  🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭
+ 2     FRANKFURTER  ALLGEMEINE   FEUILLETON
+ 3
+ 4   █ Zeitung für Deutschland ████████████
+ 5  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 6
+ 7  Arthur Millers Stück "The American     
+ 8  Clock" ist am Broadway in New York ur- 
+ 9  aufgeführt worden. F.A.Z.-Korresponden-
+10  tin Sabina Lietzmann schreibt in der   
+11  Samstagausgabe auf Seite 25 eine       
+12  Kritik.                                
+13
+14  Aus Saarbrücken berichtet Günter R.Koch
+15  vom Festival der Musik im 2O. Jahrhun- 
+16  dert in der F.A.Z. vom Samstag auf     
+17  Seite 25.                              
+18
+19  Feministische Kunst in Italien hat     
+20  F.A.Z.-Korrespondent Hans-Joachim      
+21  Fischer erlebt und darüber in der      
+22  F.A.Z. einen Bericht geschrieben.      
+23              F.A.Z. auch auf 6O4 und 6O5
+24
+--------------------------------------------
+P607  VT 607 ARD/ZDF Sa  7 Jun 2018:03
+ 1
+ 2   🬕🬟🬏🬭🬏🬭🬏▌🬏🬷🬮🬞🬞🬖🬛🬭🬏🬭 🬕▌🬏🬏🬭🬏🬭▌🬭🬏🬭▐🬭🬞🬭🬞🬞  
+ 3   🬕▐ ▌▌▌▌🬕🬓▐▐▐▐ ▌🬛🬄▌ 🬕🬓▌▌▌▌▌▌🬌🬓🬲U▐▐▐▐▐  
+ 4   🬮🬯🬭🬰🬰🬮🬮🬮🬮🬯🬯🬰🬯🬭🬮🬰🬮🬮🬭🬮🬮🬰🬮🬮🬮🬰🬮🬰🬮🬰🬯🬯🬯🬰🬰🬰  
+ 5
+ 6   Autos, die nicht laufen               
+ 7
+ 8
+ 9   Manche Autos laufen und laufen.       
+10   Andere nicht.Opel zum Beispiel        
+11   verkauft weniger und weniger.         
+12
+13   Aber die Japaner kommen. Sie          
+14   können Frankreich vom Einfuhr-Platz   
+15   Nummer 1 verdrängen.                  
+16
+17   Alle Verkaufszahlen bringt die FR     
+18   auf einen Blick.                      
+19
+20   Peter Klinkenberg berichtet. Heute    
+21   auf der Motorseite in der Beilage     
+22  F.A.Z. einen Bericht geschrieben.      
+23                          FR auch auf 6O8
+24
+--------------------------------------------
+P608  VT 608 ARD/ZDF Sa  7 Jun 2018:03
+ 1
+ 2   🬕🬟🬏🬭🬏🬭🬏▌🬏🬷🬮🬞🬞🬖🬛🬭🬏🬭 🬕▌🬏🬏🬭🬏🬭▌🬭🬏🬭▐🬭🬞🬭🬞🬞  
+ 3   🬕▐ ▌▌▌▌🬕🬓▐▐▐▐ ▌🬛🬄▌🬟🬕🬓▌▌▌▌▌▌🬌🬓▌▐▐▐▐▐▐  
+ 4   🬮🬯🬭🬰🬰🬮🬮🬮🬮🬯🬯🬰🬯🬭🬮🬰🬮🬮🬭🬮🬮🬰🬮🬮🬮🬰🬮🬰🬮🬰🬯🬯🬯🬰🬰🬰  
+ 5
+ 6   Kinder mit zwei Heimaten              
+ 7
+ 8
+ 9   Kinder von Ausländern müssen nicht    
+10   am Rande leben. Ein Krefelder Versuch 
+11   zeigt, wie man sie eingliedern kann.  
+12
+13   Vielleicht kann vermieden werden,     
+14   was andere Staaten belastet: Die      
+15   Bildung von Ausländer-Ghettos.        
+16
+17   Sonderklassen sind jedenfalls nicht   
+18   der richtige Weg, das zeigt das Kre-  
+19   felder Modell.                        
+20
+21   Jutta Roitsch berichtet. Heute in     
+22   der Beilage 'Zeit und Bild'.          
+23                          FR auch auf 609
+24   der richtige Weg, das zeigt das Kre-  
+--------------------------------------------
+P609  VT 609 ARD/ZDF Sa  7 Jun 2020:13
+ 1   🬕🬟🬏🬭🬏🬭🬏▌🬏🬷🬮🬞🬞🬖🬛🬭🬏🬭 🬕▌🬏🬏🬭🬏🬭▌🬭🬏🬭▐🬭🬞🬭🬞🬞  
+ 2   🬕🬟🬏🬭🬏🬭🬏▌🬏🬷🬮🬞🬞🬖🬛🬭🬏🬭 🬕▌🬏🬏🬭🬏🬭▌🬭🬏🬭▐🬭🬞🬭🬞🬞  
+ 3   🬕▐ ▌▌▌▌🬕🬓▐▐▐▐ ▌🬛🬄▌ 🬕🬓▌▌▌▌▌▌🬌🬓▌▐▐▐▐▐▐  
+ 4   🬮🬯🬭🬰🬰🬮🬮🬮🬮🬯🬯🬰🬯🬭🬮🬰🬮🬮🬭🬮🬮🬰🬮🬮🬮🬰🬮🬰🬮🬰🬯🬯🬯🬰🬥🬰  
+ 5   Teures  🬠🬢🬤🬟🬦🬯🬣🬫                      
+ 6   Was für ein Theater                   
+ 7
+ 8   Der umweltfreundliche Fahrradboom     
+ 9   Die IG Metallnist a feeschreckt.      
+10   sieht Pinen "Generaltng if            
+11   Montan-Mitbesaimtungsg setz  dte      
+12   betriebswirts haftlich e Glo  e       
+13   läut".                                
+14   RadfahrAr ärgern sich über Liefer-    
+15   Grund: Der Manreemann-r dierl         
+16   (1O5 OOh Beschäftigte  so l entsc     
+17   dend abergaamit gelebt, le enr        
+18   "aollen P rität"  erausg   s          
+19   Lokalteil. Morgen auf Seite 15.       
+20   Leonhard S ielho Br untersucht den    
+21   Fell und die Hi tergründe. Morge  a   
+22   SeAte 5 im Wirtschaftsteil.           
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P610  VT 610 ARD/ZDF Sa  7 Jun 2020:14
+ 1
+ 2     🬨🬕🬁█🬀       🬻   🬩▌  🬦▌ 🬩▌   🬵 🬵     
+ 3     ▐🬲🬭█🬞🬅🬱🬦🬖🬱🬞🬚█🬞🬋🬱▐▌🬔🬈▐🬛🬱▐▌🬖🬧🬖█🬋█🬃    
+ 4     ▐▌ █ 🬖█▐ █▐ █▐🬋🬎▐▌🬊🬱▐▌▐▐▌🬞🬫▌█ █     
+ 5     🬷🬲🬞█🬘🬭🬬▐ █🬉🬭🬬🬘🬹🬅🬷🬲🬢🬘🬉🬲🬘🬷🬲🬣🬘▌🬬🬏🬬🬏    
+ 6  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 7
+ 8  OHNE ROTE ZAHLE                        
+ 9                                         
+10  Die Colonia Versicherung AG in Köln    
+11  degrnn 197  die Fr chte der A aeit     
+12  früherer Jahen zu ernten. Das schl g   
+13  sich vor allem in einer Überwinduni d  
+14  roten Zah en im versicher ngstechn -   
+15  schen Bereich nieder. n                
+16  schuß von e,7eMillrDM. beneutet eiee   
+17  Einzelhe ten berichtet aM Mott         
+18  HANDELSBLATT.                          
+19  Lesen Sie mehr  a über am Montag im    
+20  HANDELSBLATT.                          
+21  Darüber berichtet das HANDELSBLATT in  
+22                                         
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P611  VT 611 ARD/ZDF Sa  7 Jun 2018:04
+ 1     ▐🬲🬭█🬞🬅🬱🬦🬖🬱🬞🬚█🬞🬋🬱▐▌🬔🬈▐🬛🬱▐▌🬖🬧🬖█🬋█🬃    
+ 2     🬨🬕🬁█🬀       🬻   🬩▌  🬦▌ 🬩▌   🬵 🬵     
+ 3     ▐🬲🬭█🬞🬅🬱🬦🬖🬱🬞🬚█🬞🬋🬱▐▌🬔🬈▐🬛🬱▐▌🬖🬧🬖█🬋█🬃    
+ 4     ▐▌ █ 🬖█▐ █▐ █▐🬋🬎▐▌🬊🬱▐▌▐▐▌🬞🬫▌█ █     
+ 5     🬷🬲🬞█🬘🬭🬬▐ █🬉🬭🬬🬘🬹🬅🬷🬲🬢🬘🬉🬲🬘🬷🬲🬣🬘▌🬬🬏🬬🬏    
+ 6  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 7
+ 8  ROHSTOFFMÄRKTE                         
+ 9
+10  Zins- und Devisenkontrakte erleben eine
+11  starke Expansion. Mit diesem Komplex   
+12  sowie mit Grundlagen und Techniken des 
+13  Termin-Handels und mit neuen Tendenzen 
+14  der Rohstoffsuche befassen sich am Mon-
+15  tag Experten auf den HANDELSBLATT -    
+16  Sonderseiten 17 bis 3O.                
+17
+18  Dort auch mehr zu den Rohstoffpreisen. 
+19                                         
+20
+21
+22
+23
+24
+--------------------------------------------
+P612  VT 612 ARD/ZDF Sa  7 Jun 2010:14
+ 1
+ 2     🬨🬕🬁█🬀       🬻   🬩▌  🬦▌ 🬩▌   🬵 🬵     
+ 3     ▐🬲🬭█🬞🬅🬱🬦🬖🬱🬞🬚█🬞🬋🬱▐▌🬔🬈▐🬛🬱▐▌🬖🬧🬖█🬋█🬃    
+ 4     ▐▌ █ 🬖█▐ █▐ █▐🬋🬎▐▌🬊🬱▐▌▐▐▌🬞🬫▌█ █     
+ 5     🬷🬲🬞█🬘🬭🬬▐ █🬉🬭🬬🬘🬹🬅🬷🬲🬢🬘🬉🬲🬘🬷🬲🬣🬘▌🬬🬏🬬🬏    
+ 6  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 7
+ 8  STEUER-PESSIMISMUS                     
+ 9
+10  Die deutsche Wirtschaft hat nach An-   
+11  sicht des Präsidenten des Bundes der   
+12  Steuerzahler, Prof. Willy Haubrichs,   
+13  keine steuerlichen Hilfen zu erwarten, 
+14  wenn die Konjunkturlage in die Zone    
+15  der Besorgnis gerät. Die Steuerpolitik 
+16  bezeichnete Haubrich in einem Gespräch 
+17  mit dem HANDELSBLATT als nahezu ver-   
+18  fehlt, falls sie zu einem Verlust der  
+19  Optionen der Wirtschaft führe.         
+20
+21  Den ausführlichen Bericht darüber fin- 
+22  den Sie am Montag im HANDELSBLATT auf  
+23  Seite 1.                               
+24
+--------------------------------------------
+P613  VT 613 ARD/ZDF Sa  7 Jun 2018:14
+ 1  tiert.                                 
+ 2  ***  SÜDDEUTSCHE ZEITUNG               
+ 3  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬖🬖🬋🬋🬖🬖🬖  🬖XXX
+ 4  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋XX🬋🬋XXXXXXXXXXXXXX
+ 5
+ 6  KIRCHE VON UNTEN                       
+ 7
+ 8  Das Wort "Basis" hat nun auch Eingang  
+ 9  in die Theologie gefunden.Auf einer    
+10  Nebenveranstaltung des Katholikentages 
+11  in Berlin unter dem Titel"Kirche von   
+12  unten"werden unter den Begriffen Basis-
+13  kirche und Bürgerkirche die Möglichkei-
+14  ten solcher Formen der Seelsorge disku-
+15  tiert.                                 
+16  Maßgeblicher Vertreter dieser Bestre-  
+17  bungen in der Kirche ist der Theologie-
+18  Professor Johann Baptist Metz.         
+19  Die SZ dokumentiert seine Thesen,die er
+20  auf dem Katholikentag am heutigen Sams-
+21  tag vorträgt.                          
+22         Näheres in der SZ vom Wochenende
+23                          mehr auf ...614
+24
+--------------------------------------------
+P614  VT 614 ARD/ZDF Sa  7 Jun 2018:20
+ 1
+ 2  ***  SÜDDEUTSCHE ZEITUNG               
+ 3  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬖  🬖     XXX 
+ 4  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋XXXXXXXXXXXXX
+ 5
+ 6  800 JAHRE HAUS WITTELSBACH             
+ 7  Nie hat es ein lange wirksames,konkre- 
+ 8  tes politisches Konzept der Wittels-   
+ 9  bacher gegeben,aber dies war vielleicht
+10  der Erfolg für die 800jährige Geschich-
+11  te des Bayerischen Herrscherhauses,die 
+12  in diesem Jahr in fast ungebrochener   
+13  Tradition gefeiert wird.               
+14  In einer Serie wird die  SÜDDEUTSCHE   
+15  ZEITUNG auf diese wechselhafte Ge-     
+16  schichte der Wittelsbacher und ihren   
+17  Einfluß auf die Europäische Geschichte 
+18  eingehen.                              
+19  Den Beginn der Serie lesen Sie im      
+20  Bayernteil der SZ in der Wochenend-    
+21  ausgabe.                               
+22
+23                          mehr auf ...615
+24
+--------------------------------------------
+P615  VT 615 ARD/ZDF Sa  7 Jun 2018:05
+ 1
+ 2  ***  SÜDDEUTSCHE ZEITUNG               
+ 3  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬋🬖XXX
+ 4  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬖🬖🬋🬋🬋🬋🬋XXXXXXXXXXXXXXX
+ 5
+ 6  DER TRANSATLANTISCHE ZWIST             
+ 7
+ 8  Die Amerikaner sind konsterniert       
+ 9  darüber,dass die Europäer in der       
+10  schwierigen Situation der Weltpolitik  
+11  nicht die Solidarität an die erste     
+12  Stelle der Politik stellen.Die Euro-   
+13  päer wundern sich dagegen,dass die     
+14  amerikanische Politik offensichtlich   
+15  nur noch durch Sprunghaftigkeit ge-    
+16  prägt ist.                             
+17  Josef Riemiller untersucht in einem    
+18  Leitartikel die tiefgreifende Kontro-  
+19  verse zwischen den amerikanischen und  
+20  den europäischen Politikern.           
+21  Näheres dazu auf Seite 4 der SZ in     
+22  der Wochenendausgabe.                  
+23                          mehr auf...613 
+24
+--------------------------------------------

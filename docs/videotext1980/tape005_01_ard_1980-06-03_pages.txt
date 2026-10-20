@@ -1,0 +1,1694 @@
+Videotext pages recovered from coll04_tape005_01_ard_1980-06-03, frames 0-5999 (4 minutes), lines 20, 21, 329, 333, 334.
+Equalising slicer with decision feedback; each row is the per-character majority over all repeats.
+Mosaic graphics are shown with Unicode sextant characters. 65 pages.
+
+P100  VT 100 ARD/ZDF Di  3 Jun 2204:12
+ 1                                         
+ 2  🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭
+ 3  ████🬰█🬰█🬂██████████████🬰█████🬂███🬂█████
+ 4  ████ █ █  🬁█🬀 🬁█  🬨🬀 🬁█ █🬀 🬁█  🬁█  ████
+ 5  ████ █ █ █ █ 🬎 █ ▌▐ 🬎🬩█ █ █🬭█ █ █ █████
+ 6  ████ █ █ █ █ 🬹🬋█ ██🬌🬹 █ █ █🬂█ █ █ █████
+ 7  ████🬏 🬞█  🬞█🬏 🬞█ ██🬏 🬞█ █🬏 🬞█ █ █🬏 ████
+ 8  🬎🬎🬎🬎🬎🬎🬎🬕🬎🬎🬕🬎🬎🬎🬕 / 7/7 7W      🬕 🬕     W
+ 9                                         
+10  ARD diese Woche.11O  VT z.Programm..2O1
+11  ZDF diese Woche.12O  VT für Eltern..25O
+12  VT-Untertitel...15O  Hörfunk........3OO
+13  ARD heute.......16O  Verkehrsfunk...333
+14  ZDF heute.......17O  VT aktuell.....4OO
+15  BR III..........18O  Kurzmeldungen..4O1
+16  Hessen III......181  Wetter.........444
+17  Nord III........182  Lotto/Toto.....45O
+18  Südwest III.....183  Sport aktuell..5OO
+19  West III........184  Sportmeldungen.5O1
+20  Wo-Was-Wann?....2OO  Tageszeitungen.6OO
+21                                         
+22                                         
+23   VT-Zentralredaktion,Tel.030/308 3066  
+24
+--------------------------------------------
+P110  VT 110 ARD/ZDF Di  3 Jun 2204:41
+ 1  🬝🬂🬂🬬🬂🬂🬊🬕🬂🬂🬬                            
+ 2  ▌▐▌▐ █ ▌▐▌▐                    Tips für
+ 3  ▌🬁🬀▐ 🬂🬞▌▐▌▐            die Fernsehwoche
+ 4  ▌▐▌▐ █ ▌🬉🬄▐           vom 3.6. bis 9.6.
+ 5  🬌🬍🬌🬍🬋🬎🬋🬌🬋🬋🬎                            
+ 6  DIESE WOCHE 🬎🬎🬕🬕 7 7      7 7       7  
+ 7
+ 8  Dienstag    23.00 ARD-Sport extra      
+ 9
+10  Mittwoch    20.15 Lucilla (1) FS-Spiel 
+11
+12  Donnerstag  16.00 Leichtathletik       
+13              20.15 Lucilla (2) FS-Spiel 
+14
+15  Freitag     17.05 Alles klar?!         
+16
+17  Samstag/    14.45 Glückskinder/Film    
+18  Sonnabend                              
+19
+20  Sonntag     22.40 Katholikentag/Bericht
+21
+22  Montag      21.45 New York, New York   
+23
+24
+--------------------------------------------
+P120  VT 120 ARD/ZDF Di  3 Jun 2203:49
+ 1  █🬕🬂🬂🬨🬂🬂🬊🬕🬂🬂█                           
+ 2  ███🬄▐ █ ▌▐██            WOCHENÜBERSICHT
+ 3  █🬝🬀🬞🬻 █ ▌🬁🬂█                           
+ 4  █▌🬇🬎🬬 🬎 ▌▐██       FREITAG, 6.JUNI 1980
+ 5  🬎🬌🬋🬋🬍🬋🬋🬍🬌🬍🬎🬎                           
+ 6  IHR PROGRAMM 🬎🬎🬕🬕 7 77    777 7 7 7   W
+ 7
+ 8  19.00  Uhr   heute                     
+ 9  19.00  Uhr   heute                     
+10  19.30  Uhr   ausla dsjou               
+11  20.15  Uhr   Der Alte                  
+12               Krimil lserie             
+13  21.25  Uhr   Zau erraftn Z ub    e     
+14  2   0        SeutA-joaf  H             
+15  21.50  Uhr   Beueche                   
+16               Sport am  re tag          
+17  23.15  Uhr   Dts a  eee    n r         
+18               der U-Bahn 12             
+19    .    Uhr   Spielfi m                 
+20   0.55  Uhr   heute                     
+21               Preisverle hung           
+22  Progr  m vom Samstag in 25  e unden    
+23  Programm vom Monntag in 25 Sekunden    
+24
+--------------------------------------------
+P150  VT 150 ARD/ZDF Di  3 Jun 2202:26
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19    FERNSEHSENDUNGEN MIT VT-UNTERTITELN  
+20
+21      WERDEN RECHTZEITIG ANGEKÜNDIGT     
+22
+23    FERNSEHSE DUNGE §  T V( + (J$T 🬇J    
+24
+--------------------------------------------
+P160  VT 160 ARD/ZDF Di  3 Jun 2202:26
+ 1  🬝🬂🬂🬬🬂🬂🬊🬕🬂🬂🬬                            
+ 2  ▌▐▌▐ █ ▌▐▌▐                            
+ 3  ▌🬁🬀▐ 🬂🬞▌▐▌▐      DIENSTAG, 3. JUNI 1980
+ 4  ▌▐▌▐ █ ▌🬉🬄▐                            
+ 5  🬌🬍🬌🬍🬋🬎🬋🬌🬋🬋🬎                            
+ 6  NACHMITTAGS 🬎🬎🬎 🬎         n    >      ^
+ 7
+ 8                                         
+ 9  16.10 Uhr   Tagessc(bu                 
+10  20.15 Uhr   Plattenküche               
+11  16.1   hr   Kulturlanduchaftan         
+12              in der DDR - Leipzig       
+13  21.00 Uhr   Panorama                   
+14  17.00 Uhr   Eine Woche voller Samstage 
+15  21.45 Uhr   Schauplatz New York        
+16              "Eine Zeugin verschwindet" 
+17  17.50 Uhr   Tagesschau                 
+18  22.30 Uhr   Tagesthemen                
+19  18.00 Uhr   Regionalprogramme          
+20  23.00 Uhr   ARD-Sport extra            
+21
+22   0.00 Uhr   Tagesschau                 
+23  Abendprogrspm in 25 Se 2nden           
+24
+--------------------------------------------
+P170  VT 170 ARD/ZDF Di  3 Jun 2201:24
+ 1  █🬕🬂🬂🬨🬂🬂🬊🬕🬂🬂█                           
+ 2  ███🬄▐ █ ▌▐██                           
+ 3  █🬝🬀🬞🬻 █ ▌🬁🬂█      DIENSTAG, 3.JUNI 1980
+ 4  █▌🬇🬎🬬 🬎 ▌▐██                      ABEND
+ 5  🬎🬌🬋🬋🬍🬋🬋🬍🬌🬍🬎🬎                           
+ 6  IHR PROGRAMM W🬎🬎   7     77 777 7    7 
+ 7
+ 8
+ 9  19.00  Uhr   heute                     
+10
+11  19.3O  Uhr   Steai li ber mal w s ein  
+12
+13  21.OO  Uhr   heute-journal             
+14
+15  21.20  Uhr   Der Rok  üär an Nor       
+16
+17  22.00  Uhr   Alaho                     
+18               Western                   
+19  18.2O  Uhr   Es war einmal -           
+20   0.35  Uhr   heutM  s                  
+21
+22
+23  Nacndpttagsprogramm in 25 Se  nde      
+24
+--------------------------------------------
+P180  VT 180 ARD/ZDF Di  3 Jun 2204:16
+ 1  █🬝🬁██▌██▌                              
+ 2  ██▌██▌██▌                              
+ 3  ██▌██▌██▌          BAYERISCHER RUNDFUNK
+ 4  ██▌██▌██▌🬞🬭                            
+ 5  🬎🬎🬄🬎🬎🬄🬎🬎🬄🬉🬎                            
+ 6  HEUTE ABEND 🬎🬎🬎 / /   77        7      
+ 7
+ 8  17.00 Uhr   Pauk mit: Latein (6)       
+ 9  17.15 Uhr   Paul mit: Englisch (6)     
+10  17.30 Uhr   News of the week           
+11  17.45 Uhr   Telekolleg - Algebra (34)  
+12  18.15 Uhr   Clown & Co.                
+13  18.45 Uhr   Monologe zu zweit          
+14  18.50 Uhr   Rundschau                  
+15  19.00 Uhr   "Der Mensch wird geboren,  
+16              um zu leben"               
+17  19.25 Uhr   Sepp Maier-Abschiedsspiel  
+18  20.15 Uhr   In der Pause: Rundschau    
+19  21.15 Uhr   Unser Land                 
+20  21.45 Uhr   "Jeder kann für sich       
+21              was tun" - Unterhaltung    
+22  23.15 Uhr   News of the week           
+23  23.30 Uhr   Nachrichten z. Sendeschluß 
+24
+--------------------------------------------
+P181  VT 181 ARD/ZDF Di  3 Jun 2201:27
+ 1  █🬝▌██▌██▌                              
+ 2  ██▌██▌██▌                              
+ 3  ██▌██▌██🬲                   H E S S E N
+ 4  ██▌██▌██▌🬞🬭                            
+ 5  🬎🬎🬄🬎🬎🬄🬎🬎🬄🬉🬎                            
+ 6  HEUTE ABEND 🬎🬎🬎W 🬕   7     7          W
+ 7
+ 8  17.40 Uhr   Arbeitsgericht             
+ 9  18.00 Uhr   Sesamstraße                
+10  18.30 Uhr   Denk und Dachte            
+11              Der Rollmops               
+12  19.00 Uhr   Fast ein Paradies          
+13              Vogelpark Walsrode         
+14  19.45 Uhr   Heizen auf neue Art (8)    
+15              Altes Haus - neues Herz    
+16  20.00 Uhr   Tagesschau                 
+17  20.15 Uhr   Charlie Smith              
+18              und der Pfannkuchen        
+19              Amerikanischer Fernsehfilm 
+20  21.45 Uhr   Großer Abend               
+21              Liveübertragung            
+22              aus Bad Neuenahr           
+23                                         
+24
+--------------------------------------------
+P182  VT 182 ARD/ZDF Di  3 Jun 2201:57
+ 1  ██▌██▌██🬲                              
+ 2  ██▌██▌██▌                              
+ 3  ██▌██▌██▌                       N O R D
+ 4  ██▌██▌██▌🬞🬭                            
+ 5  🬎🬎🬄🬎🬎🬄🬎🬎🬄🬉🬎                            
+ 6  HEUTE ABEND 🬎🬎 W    🬫 77      7    n  W
+ 7
+ 8  18.00 Uhr   Sesamstraße                
+ 9  18.30 Uhr   7777 Meilen (2)            
+10              Zwischen Kandada und Mexiko
+11  19.00 Uhr   Ein Wikingerschiff sagt aus
+12  19.30 Uhr   Alternativen               
+13              in der Landwirtschaft      
+14  20.00 Uhr   Tagesschau                 
+15  20.15 Uhr   Auf der Suche nach dem Ich 
+16              Gestalttherapie            
+17  20.45 Uhr   Sport für Unsportliche     
+18              Spiele                     
+19  21.00 Uhr   Schauplatz: Praxis         
+20              Drei Veterenäre            
+21  21.45 Uhr   Jeder kann für sich was tun
+22              Live aus Bad Neuenahr      
+23
+24
+--------------------------------------------
+P183  VT 183 ARD/ZDF Di  3 Jun 2201:27
+ 1  ██▌██▌██▌                              
+ 2  ██▌██▌██▌                              
+ 3  ██▌██▌██▌                 S Ü D W E S T
+ 4  ██▌██▌██▌🬞🬭                            
+ 5  🬎🬎🬄🬎🬎🬄🬎🬎🬄🬉🬎                            
+ 6  HEUTE ABEND 🬎🬎🬎🬎🬎🬎🬕🬎  🬕 🬕              
+ 7
+ 8  18.00 Uhr   Sesamstraße                
+ 9  18.30 Uhr   Telekolleg  - Algebra      
+10  19.00 Uhr   Follow me (27)             
+11  19.15 Uhr   Die Sprechstunde           
+12              🬋 Baden-Württemberg        
+13  20.05 Uhr   Jugendkapelle aus Urach    
+14  20.20 Uhr   Forum Südwest              
+15              🬋 Rheinland-Pfalz          
+16  20.05 Uhr   Guten Abend aus Mainz      
+17              🬋 Saarland                 
+18  20.05 Uhr   Lothringen                 
+19  20.50 Uhr   Wacholderheide             
+20              🬋 Südwest 3 gemeinsam      
+21  21.45 Uhr   "Jeder kann für sich       
+22              was tun"                   
+23              Live aus Bad Neuenahr      
+24
+--------------------------------------------
+P184  VT 184 ARD/ZDF Di  3 Jun 2202:15
+ 1  ██▌█🬝▌██🬲                              
+ 2  ██▌██▌██▌                              
+ 3  ██▌██▌██▌       WESTDEUTSCHES FERNSEHEN
+ 4  ██▌██▌██▌🬞🬭                            
+ 5  🬎🬎🬄🬎🬎🬄🬎🬎🬄🬉🬎                            
+ 6  HEUTE ABEND 🬎🬎🬎🬎🬎🬎 77  77 7        7  W
+ 7
+ 8  17.30 Uhr   Berufe '80                 
+ 9              Der Fachjournalist         
+10  18.00 Uhr   Sesamstraße                
+11  18.30 Uhr   Telekolleg Mathematik (34) 
+12  19.00 Uhr   Micro-Macro                
+13              Ein Ratespiel              
+14  19.45 Uhr   Journal 3                  
+15  20.00 Uhr   Tagesschau                 
+16  20.15 Uhr   Landesspiegel              
+17  21.00 Uhr   Momente                    
+18  21.15 Uhr   Frauen-Studien             
+19              Männer sind begabt         
+20              - Frauen strengen sich an  
+21  21.45 Uhr   Großer Abend               
+22              Live aus Bad Neuenahr      
+23
+24
+--------------------------------------------
+P200  VT 200 ARD/ZDF Di  3 Jun 2202:20
+ 1
+ 2  █🬕🬕🬕🬕🬒██🬨🬨🬨🬡🬨🬡🬨█🬕🬕🬕🬕🬒🬕🬒🬕🬒█             
+ 3  █▌▌▌▌▌🬝🬬▐▐▐🬉▐🬉🬫🬎▌▌▌▌🬄▌▌▌▌█             
+ 4  █▌▌▌▌▌██▐▐▐🬦▐🬩▐█▌▌▌▌🬓▌▌▌▌█             
+ 5  █🬲🬮🬮🬲🬮██🬯🬯🬷🬷🬷🬯🬷█🬲🬮🬮🬲🬲🬲🬲🬲🬲█ IM FE$ 'EHE 
+ 6  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬇   XX  X
+ 7
+ 8
+ 9
+10  Aktuelles/Politik...................210
+11
+12  Unterhaltung........................  🬐
+13
+14  Film/Fernsehspiel................WWW21d
+15
+16  Kultur/Bildung......................21Q
+17
+18  Sport....................WWWWWWWWWWW   
+19
+20  Kinder/Jugend.......................b z
+21
+22
+23
+24
+--------------------------------------------
+P201  VT 201 ARD/ZDF Di  3 Jun 2201:20
+ 1  █🬂🬂🬨🬂🬂🬨🬂🬂🬂🬂🬂🬨                          
+ 2  █  ▐  ▐🬭🬏  🬭🬷      DIENSTAG,3.JUNI 198O
+ 3  █  ▐  ▐█▌  ██                          
+ 4  █🬓    🬻█▌  ██                    abends
+ 5  ██🬏  🬷██▌  ██                          
+ 6  🬎🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋🬎🬎                          
+ 7  LFD. PROGRAMM 🬎🬎🬎🬎 🬎 🬎🬎🬎🬎🬎     7      W
+ 8
+ 9  19.00 Uhr ZDF heute....-....WWWW'WWE1Sk
+10  19.30 Uhr ZDF Stenk lieber             
+11                mal wrs eischaften       
+12  2  00 Uhr ARD Tagesr hau .  ...        
+13  20.35 Uhr ADD Posaik                   
+14  21.00 Uhr ZDF hiue Woour               
+15   1            voller Samstage          
+16  21.20 Uhr ZDF Der Rote Bär             
+17                Di NDrdhacheibe          
+18  21.45 Uhr ADD Schwapletz ae   o    .   
+19  22 0    r     - Der Mensch             
+20  22.30 Uhr ARD Tagesthemen   .     ..   
+21  23.00 Uhr ARD Sport extra              
+22             DIENSTAGABEND in 25 Sekunden
+23        DIENSTAGNACHMITTAG in 25 Sekunden
+24
+--------------------------------------------
+P210  VT 210 ARD/ZDF Di  3 Jun 2202:10
+ 1
+ 2  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 3  ▐🬭🬏  🬭🬷  ▐▌  ▌    DIENSTAG, 3.JUNI 1980
+ 4  ▐█▌  ██  ▐▌  ▌                         
+ 5  ▐█▌  ██🬲    🬷▌        AKTUELLES/POLITIK
+ 6  ▐█▌  ███🬏  🬞🬝▌                         
+ 7  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋^🬎🬄🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋T🬋      🬋      
+ 8
+ 9
+10
+11  17.00 ZDF heute                        
+12  17.40 ZDF Die Drehscheibe              
+13  19.00 ZDF heute                        
+14  20.00 ARD Tagesschau................222
+15  21.00 ZDF heute-journal.............237
+16  21.00 ARD Panorama:  Berichte-         
+17            Analysen-Meinungen........224
+18  21.20 ZDF Der Rote Bär am Nordkap...238
+19  22.30 ARD Tagesthemen...............226
+20   0.00 ARD Tagesschau                   
+21   0.35 ZDF heute                        
+22
+23
+24
+--------------------------------------------
+P211  VT 211 ARD/ZDF Di  3 Jun 2202:18
+ 1   §    🬭 § H🬢🬱🬂🬟 🬓🬳  🬂🬯 🬔               
+ 2  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 3  ▐🬭🬏  🬭🬷  ▐▌  ▌    DIENSTAG, 3.JUNI 1980
+ 4  ▐█▌  ██  ▐▌  ▌                         
+ 5  ▐█▌  ██🬲    🬷▌             UNTERHALTUNG
+ 6  ▐█▌  ███🬏  🬞█▌                         
+ 7  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋F🬎🬄🬋🬋🬋🬋🬋🬋 🬋 🬋               
+ 8
+ 9
+10
+11
+12
+13
+14  20.15 ARD Plattenküche                 
+15            Helga und Frank              
+16            servieren Hits............223
+17
+18
+19
+20
+21
+22
+23
+24
+--------------------------------------------
+P212  VT 212 ARD/ZDF Di  3 Jun 2202:28
+ 1
+ 2  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 3  ▐🬭🬏  🬭🬷  ▐▌  ▌    DIENSTAG, 3.JUNI 1980
+ 4  ▐█▌  ██  ▐▌  ▌                         
+ 5  ▐█▌  ██🬲    🬷▌    FILM UND FERNSEHSPIEL
+ 6  ▐🬝🬁  ███🬏  🬞█▌                         
+ 7  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋🬍🬎🬄🬋🬋🬋🬋 🬋🬋  🬋               
+ 8
+ 9
+10
+11
+12  21.45 ARD Schauplatz New York          
+13            Eine Zeugin verschwindet..225
+14
+15
+16
+17  22.00 ZDF Alamo                        
+18            Western mit John Wayne....239
+19
+20
+21
+22
+23
+24
+--------------------------------------------
+P213  VT 213 ARD/ZDF Di  3 Jun 2203:18
+ 1
+ 2  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 3  ▐🬭🬏  🬭🬷  ▐▌  ▌    DIENSTAG, 3.JUNI 1980
+ 4  ▐█▌  ██  ▐▌  ▌                         
+ 5  ▐█▌  ██🬲    🬷▌       KULTUR UND BILDUNG
+ 6  ▐█▌  ███🬏  🬞█▌                         
+ 7  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋🬍🬎🬄🬋🬋 🬋🬋🬋🬋🬖🬋   🬖 🬇🬖X       X
+ 8                                         
+ 9
+10
+11  16.00 ZDF Grundstudium Mathematik      
+12
+13
+14  16.15 ARD Kulturlandschaften           
+15            in der DDR - Leipzig         
+16
+17
+18  16.30 ZDF Mosaik                       
+19            Für die ältere Generation    
+20
+21
+22
+23
+24
+--------------------------------------------
+P214  VT 214 ARD/ZDF Di  3 Jun 2202:08
+ 1  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 2  ▐🬭🬏  🬭🬷  ▐▌  ▌    DIENSTAG, 3.JUNI 1980
+ 3  ▐█▌  ██  ▐▌  ▌                         
+ 4  ▐█▌  █🬝🬦    🬷▌                    SPORT
+ 5  ▐█▌  ███🬏  🬞█▌                         
+ 6  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋F🬎🬄🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋               
+ 7
+ 8
+ 9
+10
+11  23.OO  ARD    Sport extra              
+12
+13                Abschiedsspiel für       
+14  🬉 🬍🬋   7- 46 🬉T                        
+15                Sepp Maier               
+16
+17
+18
+19
+20
+21
+22
+23
+24
+--------------------------------------------
+P215  VT 215 ARD/ZDF Di  3 Jun 2202:11
+ 1
+ 2  ▐🬂🬂🬂🬂🬂🬨🬂🬂🬨🬕🬂🬂▌                         
+ 3  ▐🬭🬏  🬭🬷  ▐▌  ▌    DIENSTAG, 3.JUNI 1980
+ 4  ▐█▌  ██  ▐▌  ▌                         
+ 5  ▐█▌  ██🬲    🬷▌        KINDER UND JUGEND
+ 6  ▐█▌  ███🬏  🬞█▌                         
+ 7  🬉🬎🬌🬋🬋🬎🬎🬎🬌🬋🬋🬍🬎🬄🬋🬋 🬋 🬋 🬋                 
+ 8
+ 9  17.00 ARD Eine Woche voller            
+10            Samstage                     
+11            Spiel mit der                
+12            Augsburger Puppenkiste       
+13
+14  17.10 ZDF Technik für Kinder           
+15            Funk - die unsichtbare       
+16            Botschaft                    
+17
+18  18.20 ZDF Es war einmal...             
+19            Der Mensch................234
+20
+21  19.30 ZDF Steck lieber mal was ein     
+22            Ein Schüler wird Lehrling.236
+23
+24
+--------------------------------------------
+P222  VT 222 ARD/ZDF Di  3 Jun 2202:51
+ 1
+ 2        DEUTSCHES FERNSEHEN - ARD        
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5
+ 6  2O.OO - 2O.15                          
+ 7                                         
+ 8  TAGESSCHAU plant:                      
+ 9
+10  1. Bonn einig über EG-Kompromiß        
+11
+12  2. Generalstreik in West-Jordanien     
+13
+14  3. Diskussion um neues Asylrecht       
+15
+16  4. Sepp Maier zum letzten Mal          
+17     im Tor                              
+18
+19
+20  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋 🬋T          
+21       🬬🬝🬦🬝🬺🬦🬝🬺▐🬝🬦🬝🬺🬦🬝🬺🬦🬝🬺▐▌█🬦🬝🬺▐▌█      
+22       ▐▌▐🬛█▐▌🬹▐🬛🬉🬌🬹🬉🬌🬹▐▌🬰▐🬛█▐🬛█▐▌█      
+23       ▐▌▐▌█🬉🬺🬝▐🬺🬉🬺🬝🬉🬺🬝🬉🬺🬝▐▌█▐▌█🬉🬺🬝      
+24
+--------------------------------------------
+P223  VT 223 ARD/ZDF Di  3 Jun 2202:41
+ 1
+ 2        DEUTSCHES FERNSEHEN - ARD        
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5  2O.15 - 21.OO                          
+ 6
+ 7  Ein durch nichts erwiesenes Gerücht    
+ 8  wird in der "Plattenküche" Wirklich-   
+ 9  keit: Die Mafia hat ihre Pfoten auch   
+10  im Show-Geschäft.                      
+11
+12  Die Tochter des "Paten" hat den drin-  
+13  genden Wunsch, bei Helga und Frank in  
+14  der "Plattenküche" auDzutrUtUn. DUe§§ §
+15  Mafia-Boss übt Druck aus, um diesen    
+16  Wunsch durchzusetzen.                  
+17
+18  Können sich Prof. Moser und sein Team  
+19  der Mafia erwehren ?                   
+20  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+21      █🬬▌█ 🬻🬎🬺🬉█🬄🬬🬝▐🬝▐🬝🬺▐▌█🬠🬐🬰▐🬝▐▌█▐🬝    
+22      █🬍🬄█ █🬋█ █ ▐▌▐🬛▐▌█▐🬛🬲▐▌█▐▌▐🬛█▐🬛    
+23      █  █🬓█ █ █ ▐▌▐🬺▐▌█▐▌█▐🬲█▐🬺▐▌█▐🬺    
+24
+--------------------------------------------
+P224  VT 224 ARD/ZDF Di  3 Jun 2202:11
+ 1
+ 2        DEUTSCHES FERNSEHEN - ARD        
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5  21.OO - 21.45                          
+ 6
+ 7  PANORAMA heute:                        
+ 8
+ 9  1. Die härtere Gangart: Kanzlerkandi-  
+10     dat Franz Josef Strauß mag milde    
+11     Töne nicht mehr.                    
+12  2. Interview mit Bundeskanzler Schmidt 
+13     zur Frage der Haushaltsdeckung nach 
+14     den EG-Beschlüssen.                 
+15  3. "Republik Wendland": Gorlebens      
+16     Bohrplatz 1OO4 soll geräumt werden. 
+17  Moderation: Winfried Scharlau          
+18
+19  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+20     ██🬺 🬻🬝🬷 ██🬺 🬻█🬺 ██🬺 🬻█🬺 🬻█🬹█🬺 🬻█🬺   
+21     █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █   
+22     █🬎🬆 █🬎█ █ █ █ █ █🬎🬲 █🬎█ █ █ █ █🬎█   
+23     █   █ █ █ █ 🬬🬹🬝 █ █ █ █ █ █ █ █ █   
+24
+--------------------------------------------
+P225  VT 225 ARD/ZDF Di  3 Jun 2202:39
+ 1
+ 2         DEUTSCHES FERNSEHEN - ARD       
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5  21.45 - 22.3O                          
+ 6
+ 7
+ 8  Heute abend verschwindet eine Zeugin...
+ 9  Der frühere Bürgermeister Walter Grover
+10  überrascht zwei Einbrecher, die seine  
+11  wertvolle Münzsammlung rauben wollen.  
+12  Sie schlagen ihn nieder und flüchten.  
+13  Grover erliegt kurz danach einer Herz- 
+14  attacke. Die Detektive Sutton und Green
+15  stellen fest, daß zur Tatzeit eine Frau
+16  bei Grover war. Doch die Zeugin ist    
+17  verschwunden.                          
+18
+19
+20  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+21  █🬬▐🬝▐▌▌🬻🬬▐▌▌█🬬▐▌🬦🬝▌🬬🬝🬉🬬 ▐🬨▐🬀▌▌▌▐▐▐🬨▐🬧▐▐
+22  🬎🬩▐▌▐🬛▌█🬫▐▌▌█🬍▐▌▐🬛▌▐▌🬞🬜 ▐▐▐🬃▌▌▌🬉🬘▐▐▐🬤▐🬤
+23  █🬻▐🬺▐▌▌█▐▐🬺▌█ ▐🬺▐▌▌▐▌▐🬺 ▐▐▐🬏🬲🬣▌ ▌▐🬷▐▐▐▐
+24
+--------------------------------------------
+P226  VT 226 ARD/ZDF Di  3 Jun 2202:52
+ 1
+ 2        DEUTSCHES FERNSEHEN - ARD        
+ 3
+ 4  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 5  22.3O - 23.OO                          
+ 6  Situation Israel -                     
+ 7  Interview mit Raymonda Tawil           
+ 8  Dänische Unternehmer wandern aus       
+ 9  Straßenbauruine "Dü-Bo-Do"             
+10  Theaterfestival in München             
+11  Sepp-Maier-Story                       
+12
+13  Den Kommentar spricht Friedrich        
+14  Schreiber vom Bayerischen Rundfunk     
+15  Thema:"Zur Lage im Nahen Osten"        
+16
+17  Moderatorin: Gisela Mahlmann           
+18  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬇🬋🬋  🬇🬖X🬖🬖X🬖X🬖XX
+19      🬹🬹   🬦🬹🬓                           
+20     🬎██🬎🬎🬉🬬█🬝🬎🬄 T A G E S T H E M E N   
+21      ██   ▐█▌                           
+22      🬬█🬱  🬉█🬺🬏                          
+23       🬊██  🬁🬬█▌                         
+24
+--------------------------------------------
+P235  VT 235 ARD/ZDF Di  3 Jun 2202:52
+ 1
+ 2           ZDF - IHR PROGRAMM            
+ 3
+ 4  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋T🬋🬋🬋🬋T           
+ 5                                         
+ 6  19.00 Uhr:                             
+ 7
+ 8  Unter anderem sind u.a. folgende       
+ 9  aktuelle Berichte vorgsehen:           
+10
+11  BONN: Diskussion über eine Reform des  
+12        Asylrechts.                      
+13  OSLO: NATO-Beratungen über die Ausrü1- 
+14        tung mit Mittelstreckenraketen.  
+15  KÖLN: Feier zum 1OO. Jubiläum der      
+16        Fertigstellung des Kölner Doms.  
+17
+18  Redakeur im Studio: Rut Speer          
+19
+20  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬰🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+21             █🬹🬱🬞🬹🬹🬏🬹 🬹🬦█🬓🬵🬹🬱            
+22             █ █▐🬛🬍🬄█ █ █ █🬋🬎            
+23             █ █🬉🬺🬹🬓🬬🬹🬝 🬬🬓🬬🬹🬹            
+24
+--------------------------------------------
+P236  VT 236 ARD/ZDF Di  3 Jun 2202:34
+ 1           ZDF - IHR PROGRAMM            
+ 2
+ 3  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬖🬇🬋🬇🬋X🬖XXXXX🬖XX🬖XXXX
+ 4
+ 5  19.30 Uhr:                             
+ 6  Z5h Dokumentarfilm über den Weg ins    
+ 7  Der Werdeenng ei.es Jugendlichen vo    
+ 8  Schüler zum Lehrling wird in einem     
+ 9  Do umentarfilm verfolgt.               
+10  650 000 Jugendliche einen Ausbildungs- 
+11  Weil er den Eignungstest als Elektri er
+12  nicht besteht, ist Gerd fro(, eine     
+13  Lehrctelle als Dreher zu beaommen      
+14  den jungen Männern und Verkäuferin     
+15  Wenn er die Ausbildung kritisiert,     
+16  weisen ihn seine Eltern zurecht.       
+17  Sie sagen: "Steck lieber mal was ein!" 
+18  fanden sich 1979 in der Ausbildung.    
+19                      mehr in 25 Sekunden
+20  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+21         STECK LIEBER MAL WAS EIN        
+22
+23  🬎🬎🬎🬎🬎W🬎🬎🬎🬎W🬎🬎🬎🬎🬎🬕WWW🬎W🬕 🬕🬕  W 7 7    7W
+24
+--------------------------------------------
+P237  VT 237 ARD/ZDF Di  3 Jun 2204:50
+ 1  Dlb Uz'1ztbrVMgtgvqb 🬊🬥🬶🬏🬗🬸🬭🬑🬲 T       
+ 2            ZDF - IHR PROGRAMM           
+ 3
+ 4  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋 🬋🬋 T🬋🬋              
+ 5
+ 6  21.00 Uhr:                             
+ 7  Das "heute-journal" bereitet folgende  
+ 8  Beiräge vor:                           
+ 9  Zur ersten Sitzung des neuen Landtags  
+10  in Stuttgart: Die Grünen nehmen Platz. 
+11
+12  Asylbewerber - wie ist der Zustrom ein-
+13  zudämmen.                              
+14
+15  Die Künstler-Kolonie Worpswede -       
+16  einst und jetzt.                       
+17
+18  Moderator: Ingeborg Wurster            
+19
+20  🬂🬂🬂🬂🬂🬂🬒🬂🬂🬂🬂🬂🬂🬡🬂🬂🬂🬂🬂🬂🬒🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬡🬂🬂🬂🬂🬂🬂
+21        🬛🬩🬦🬋🬓🬓🬦▐🬃🬚🬩   🬓🬚🬩🬦 🬓🬹🬦🬋🬓🬋🬩▐      
+22        ▌▐▐🬋🬄▌▐▐ 🬛🬍 🬋 ▌▌▐▐ ▌▌▐ ▌🬚🬫▐      
+23        🬄🬉🬉🬋🬃🬌🬍🬉🬃🬌🬋  🬞▌🬌🬍🬉🬋🬄🬄🬉 🬄🬌🬍🬉      
+24
+--------------------------------------------
+P238  VT 238 ARD/ZDF Di  3 Jun 2202:25
+ 1             ZDF - PROGRAMM              
+ 2
+ 3  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬇🬋🬋🬖X🬋🬖🬖🬖X🬖🬇X🬖XXXXX
+ 4
+ 5  21.20 Uhr                              
+ 6
+ 7  Ein Film über die militärpolitische    
+ 8  Situation von Norwegen. Ein Land, das  
+ 9  der nördliche Pfeiler der NATO ist und 
+10  eine zweihundert Kilometer lange Grenze
+11  zur Sowjetunion hat.                   
+12
+13  Joachim Kürtz und Rolf Warnholz be-    
+14  richten über die politische Lage und   
+15  den Alltag im Norden Europas.          
+16
+17
+18
+19
+20  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+21          Der Rote Bär am Nordkap        
+22
+23  🬎🬎🬎🬎🬎🬎🬎 / W/ 7 W   W/ 7 77W           W
+24
+--------------------------------------------
+P239  VT 239 ARD/ZDF Di  3 Jun 2202:55
+ 1             ZDF - PROGRAMM              
+ 2
+ 3  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬇🬋🬖🬇X🬋X🬖🬖X🬖X🬇X🬖X🬇X
+ 4
+ 5  22.00 Uhr                              
+ 6  Dieser amerikanisc(j Saielfilm aus Lem 
+ 7  Die Hauptrolle in diesem amerikanischen
+ 8  Film spielt John Wayne, der dieuen     
+ 9  Western auch produziert und inszeniert 
+10  hat.                                   
+11  Er schildMrt eine Jpisode aus dieser   
+12  Alamo gilt alllrdings als einer der    
+13  umstrnttensten Filme von John Wayne.   
+14  Die einen halten ihn für patriotisch,  
+15  die anderen lehnen ihn als pathetisches
+16  Machwdtk ab.                           
+17
+18                      mehr in 25 Sekunden
+19  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+20      🬻🬎🬎🬺  🬬█🬎   🬻🬎🬎🬺  🬬█🬎🬬█🬎🬬🬺 🬦█🬎🬬🬺   
+21     ▐█🬹🬹█▌ ▐█   ▐█🬹🬹🬝🬇 ▐█ ▐█ ▐█ ▐█ ▐█   
+22     ▐█🬂🬂█▌ ▐█ 🬹 ▐█🬂🬂█▌ ▐█ ▐█ ▐█ ▐█ ▐█   
+23     ██▌▐██ ████ ██▌▐██ ██▌██▌██▌🬉███🬝   
+24
+--------------------------------------------
+P250  VT 250 ARD/ZDF Di  3 Jun 2202:15
+ 1  🬕🬂🬨🬕🬂🬨🬂🬂🬂🬂🬂🬨                           
+ 2  ▌ ▐▌ ▐🬭🬏  🬭🬷                           
+ 3  ▌ ▐▌ ▐█▌  ██    PROGRAMMHINWEIS        
+ 4  🬲    🬷█▌  ██    FÜR ELTERN UND ERZIEHER
+ 5  █🬏  🬞██▌  ██                           
+ 6  🬎🬌🬋🬋🬍🬕🬎🬌🬋🬋 /(,,,,    ,T                
+ 7
+ 8  17.OO - 17.5O                          
+ 9  "Eine Woche voller Samstage"           
+10  Herr Taschenbier ist sehr ängstlich. Er
+11  fürchtet sich vor allen Leuten, die    
+12  schimpfen und befehlen. Ihm läuft an   
+13  einem Samstag ein Sams über den Weg.   
+14  Das Sams ist ein liebenswertes Wesen,es
+15  ist furchtlos und beinahe respektlos.Es
+16  läßt sich von keinem etwas befehlen,es 
+17  schimpft zurück und läßt sich nicht    
+18  einschüchtern. Herrn Taschenbier ist   
+19  das zunächst alles sehr peinlich. Er   
+20  versucht mit allen denkbaren Mühen, das
+21  Sams wieder loszuwerden. Aber je länger
+22  es bei ihm bleibt, um so lieber hat er 
+23  das Sams.                              
+24
+--------------------------------------------
+P300  VT 300 ARD/ZDF Di  3 Jun 2202:15
+ 1  █🬂🬂🬬🬆🬂🬬🬂🬂🬬🬂🬝🬂🬊█                        
+ 2  █ ▌▐ ▌▐ ▌▐ ▌▐ █                        
+ 3  █ 🬏🬫 🬏▐ ▌▐ ▌▐ █       Ü B E R S I C H T
+ 4  █ ▌▐ ▌▐ 🬀🬷 🬲🬁🬞█                        
+ 5  🬎🬋🬌🬍🬋🬌🬍🬋🬋🬎🬋🬎🬋🬍🬎                        
+ 6  P R O G R A M M 🬎🬕  /  7              W
+ 7
+ 8
+ 9
+10  Bayerischer Rundfunk...........WWWW.QP1
+11  Hessischer Rundfunk..............WWVQXb
+12  Norddeutscher Rundfunk..............Q03
+13  Radio Bremen..................F.W...Q04
+14  Saarländischer Rundfunk.............305
+15  Sender Freies Berlin................306
+16  Süddeutscher RundfunkF..........W...Q07
+17  Südwestfunk..................WWWWWW QX 
+18  Westdeutscher Rundfunk..............309
+19  Deutschlandfunk..................WW.   
+20                                         
+21
+22
+23
+24
+--------------------------------------------
+P301  VT 301 ARD/ZDF Di  3 Jun 2202:36
+ 1  ████🬂🬂🬬🬂🬂🬬███                          
+ 2  ████ ▌▐ ▌▐███      BAYERISCHER RUNDFUNK
+ 3  ████ 🬐🬫 🬐🬫███                          
+ 4  ████ ▌▐ ▌▐███                  DIENSTAG
+ 5  ████🬭🬭🬻🬭🬲🬷███               3.JUNI 1980
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎 🬎🬎🬫🬎🬎🬫 🬎🬫🬫🬫  🬫🬜  🬫  ^🬍
+ 8
+ 9  21.3O Uhr B1  ABENDJOURNAL             
+10
+11  22.O8 Uhr B3  V.I.P.                   
+12                Vocal-instrumental-      
+13                progressiv               
+14                VOLKSPARTEIEN            
+15   O.O5 Uhr B2  ARD-NACHTKONZERT         
+16                vom SendNr Frei     r i  
+17
+18                                         
+19
+20
+21
+22
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P302  VT 302 ARD/ZDF Di  3 Jun 2201:00
+ 1  ████🬂🬕🬨🬂🬂🬬██🬜                          
+ 2  ████ ▌▐ ▌▐███       HESSISCHER RUNDFUNK
+ 3  ████ 🬐▐ 🬐🬫███                          
+ 4  ████ ▌▐ ▌▐███                  DIENSTAG
+ 5  ████🬭🬲🬷🬭🬲🬷███               3.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K W🬎🬎🬎🬎W🬕🬕🬕🬕🬕    7        W
+ 8
+ 9  2O.3O Uhr HR2 Abe dstudio:             
+10                                         
+11                FREIHEIT?                
+12                Das Schallplattenkabinett
+13  Wann Gleichheit der Menscrtnwürde e t  
+14  spric t und wann sie ihr abträ lich    
+15  i t,        t Hans Siebeneicher        
+16  loge Iring Fetscher in einer Studie    
+17  über die Akt2alität demokrati cher     
+18  Grundbegri fe.                         
+19                Eine Sendung von         
+20                Rudolf Frisius           
+21
+22
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P303  VT 303 ARD/ZDF Di  3 Jun 2202:36
+ 1  ██🬂🬨🬨🬂🬂🬬🬂🬂🬬██                          
+ 2  ██ ▐▐ ▌▐ ▌▐██    NORDDEUTSCHER RUNDFUNK
+ 3  ██🬦🬁▐ ▌▐ 🬐🬫██                          
+ 4  ██▐ ▐ ▌▐ ▌▐██                  DIENSTAG
+ 5  ██🬷🬭🬷🬭🬭🬻🬭🬲🬷██               3.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎 ////W/W7//         / W
+ 8
+ 9  2O.OO Uhr NDR2 Das Auto-Radio          
+10                 heute:                  
+11                 IM URLAUB ERKRANKT      
+12                 Telefon: O511/8O 44 33  
+13
+14  2O.15 Uhr NDR3 Autoren lesen im        
+15                 Funkhaus Hannover       
+16                 FRANZ FÜHMANN           
+17
+18  22.3O Uhr NDR3 ARTHUR MILLER           
+19                 Ein amerikanischer      
+20                 Schriftsteller          
+21
+22
+23
+24
+--------------------------------------------
+P304  VT 304 ARD/ZDF Di  3 Jun 2202:36
+ 1  ████🬂🬂🬬🬂🬂🬬███                          
+ 2  ████ ▌▐ ▌▐███              RADIO BREMEN
+ 3  ████ 🬐🬫 🬐🬫███                          
+ 4  ████ ▌▐ ▌▐███                  DIENSTAG
+ 5  ████🬭🬲🬷🬭🬭🬻███               3.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎🬎🬎🬎  W  / /  n       ^ 
+ 8
+ 9                2. PROGRAMM              
+10                                         
+11  19.3O Uhr     StOdio fPr Keue Lit r t  
+12               "EINi  undERn orLationen  
+13                Fulvio To Lzza und       
+14                sein neuer Roman         
+15  22.3O Uhr     PLEASE MR.DJ             
+16                Chri tians schwache Seite
+17                Sonate für Klavier       
+18
+19  21.O5 Uhr     Forum der Wissenschaft   
+20                KREBSFORSCHUNG - EINE    
+21                DOMÄNE DER BIOCHEMIE?    
+22
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P305  VT 305 ARD/ZDF Di  3 Jun 2201:16
+ 1  ████🬆🬂🬬🬂🬂🬬███                          
+ 2  ████ 🬲🬷 ▌▐███   SAARLÄNDISCHER RUNDFUNK
+ 3  ████🬭🬒🬨 🬐🬫███                          
+ 4  ████🬂▌▐ ▌▐███                  DIENSTAG
+ 5  ████🬱🬭🬻🬭🬲🬷███               3.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎 //W  W  77           W
+ 8
+ 9                Europawelle Saar         
+10                 VIEL VERLANGT           
+11  18.OO Uhr     RADIO-REPORT             
+12
+13  21.O5 Uhr     ABENDMAGAZIN             
+14                mit Harald Meimeth       
+15
+16  22.OO Uhr     RADIO-REPORT MIT SPORT   
+17
+18  22.1O Uhr     NACHTCLUB                
+19
+20
+21
+22
+23
+24
+--------------------------------------------
+P306  VT 306 ARD/ZDF Di  3 Jun 2202:07
+ 1  ██🬝🬂🬊🬕🬂🬨🬂🬂🬬██                          
+ 2  ██▌▐🬭▌▐█ ▌▐██      SENDER FREIES BERLIN
+ 3  ██🬲🬯🬂▌🬞🬷 🬐🬫██                          
+ 4  ██🬕🬨 ▌▐█ ▌▐██                  DIENSTAG
+ 5  ██🬺🬭🬵🬲🬷█🬭🬭🬻██               3.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎🬕🬎🬎W🬕W 🬎  7  77   77  W
+ 8
+ 9
+10  2O.45 Uhr SFB3 DRITTE-WELTLABEND       
+11                 in Deutschland          
+12                 Porträts, Analysen      
+13  Ein Hörspiel von UrB Widmtr, in dem die
+14  beiden verstorbenen Filmkomi5er Stan   
+15  Laurel und Oliver Hardy fröhliche      
+16         u    l  FRIEDRICH D§M G§OGPfN Ä 
+17  zer Schriftsteller Urs Widmer holt sie 
+18  zu einem Kurzurlaub aus dem Himmel     
+19  herab auf die Erde...                  
+20
+21
+22
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P307  VT 307 ARD/ZDF Di  3 Jun 2201:03
+ 1  ██🬆🬂🬬🬂🬂🬬🬂🬂🬬██                          
+ 2  ██ 🬲🬷 ▌▐ ▌▐██     SÜDDEUTSCHER RUNDFUNK
+ 3  ██🬭🬒🬨 ▌▐ 🬐🬫██                          
+ 4  ██🬂▌▐ ▌▐ ▌▐██                  DIENSTAG
+ 5  ██🬱🬭🬻🬭🬭🬻🬭🬲🬷██               3.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K  🬎 🬎W🬎W 🬕🬕🬕🬕 🬕         n^
+ 8
+ 9  19.3O Uhr SDR1 GERN GEHÖRT -           
+10                 VIEL VERLANGT           
+11                 Wunschkonzert           
+12
+13  2O.OO Uhr SDR3 POP-SERENADE            
+14                 Musik zwischen U und E  
+15
+16  22.3O Uhr SDR1 NACHTPROGRAMM DER ARD   
+17            SDR3 heute vom Südfunk       
+18
+19
+20
+21
+22
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P308  VT 308 ARD/ZDF Di  3 Jun 2202:31
+ 1  █🬝🬂🬊🬕🬨🬂🬕🬨🬂🬂██                          
+ 2  █▌▐🬭▌▐ ▌▐ ███               SÜDWESTFUNK
+ 3  █🬲🬯🬂▌▐ ▌▐ 🬭██                          
+ 4  █🬕🬨 ▌▐ ▌▐ ███                  DIENSTAG
+ 5  █🬺🬭🬵🬺🬭🬭🬭🬻🬭███               3.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K  🬎🬎W🬎W🬕🬎 🬕W 7 7        >W
+ 8
+ 9  21.OO Uhr SWF1 HOHN FÜR 'NE MILLION    
+10                 Kriminalhörspiel        
+11
+12  21.O5 Uhr SWF3 RADIOCLUB               
+13
+14  21.3O Uhr SWF2 AUßEREUROPÄISCHE MUSIK  
+15                 Malaysia                
+16
+17  23.O5 Uhr SWF2 LIVE STORY IN JAZZ      
+18                 Arthur Blythe           
+19                 Avantgardist zwischen   
+20                 Bop und Free            
+21                                         
+22
+23
+24
+--------------------------------------------
+P309  VT 309 ARD/ZDF Di  3 Jun 2202:37
+ 1  █🬕🬨🬂🬕🬨🬂🬂🬬🬂🬂🬬█                          
+ 2  █▌▐ ▌▐ ▌▐ ▌▐█    WESTDEUTSCHER RUNDFUNK
+ 3  █▌▐ ▌▐ ▌▐ 🬐🬫█                          
+ 4  █▌▐ ▌▐ ▌▐ ▌▐█                  DIENSTAG
+ 5  █🬺🬭🬭🬭🬻🬭🬭🬻🬭🬲🬷█               3.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K  🬎🬎 🬎 🬎🬎🬎🬎  🬫🬎🬕   .    n^
+ 8
+ 9
+10  19.3O Uhr WDR1 SPIEL MIR MEINE MELODIE 
+11            NDR1 Das WDR-Wunschkonzert   
+12
+13  2O.15 Uhr WDR3 CLAUSEWITZ ÜBER         
+14                 VOLK UND KRIEG          
+15                 Von der Landwehr bis    
+16                 zur modernen Guerilla   
+17
+18  21.O7 Uhr WDR2 Hörspiel am Dienstag    
+19                 ERHEBUNG EINER          
+20                 VORGESCHICHTE           
+21
+22
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P310  VT 310 ARD/ZDF Di  3 Jun 2203:01
+ 1  ███🬂🬂🬬🬂█🬕🬂🬨█🬝                          
+ 2  ███ ▌▐ █▌▐███           DEUTSCHLANDFUNK
+ 3  ███ ▌▐ █▌🬞🬷██                          
+ 4  ███ ▌▐ █▌▐███                  DIENSTAG
+ 5  ███🬭🬭🬻🬭🬭🬲🬷███               3.JUNI 198O
+ 6  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂                          
+ 7  H Ö R F U N K 🬎🬎🬎🬎🬎 W🬎 W/W/ 7         W
+ 8
+ 9
+10  21.4O Uhr     THEMEN DER ZEIT          
+11                Der Ogaden - ostafrikani-
+12                scher Zankapfel          
+13  2O.15 Uhr     QUO VADIS, HISPANIOLA?   
+14  22.3O Uhr     GEISTLICHE MUSIK         
+15                Von Kodaly und di Lasso  
+16
+17  23.1O Uhr     STUDIOLJAZZ              
+18                Das aktuelle PoLträt:mann
+19                Richard Davis            
+20
+21
+22
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P333  VT 333 ARD/ZDF Di  3 Jun 2203:38
+ 1  🬕🬂🬨🬕🬂🬨🬂🬂🬂🬂🬂🬨                           
+ 2  ▌ ▐▌ ▐🬭🬏  🬭🬷                           
+ 3  ▌ ▐▌ ▐█▌  ██                           
+ 4  🬲    🬷█▌  ██                           
+ 5  █🬏  🬞██▌  ██                           
+ 6  🬎🬌🬋🬋🬍🬎🬎🬌🬋🬋🬎🬎                           
+ 7  VERKEHRSFUNK 🬎🬎🬎WWWW 🬕 WWW            W
+ 8
+ 9  Hinweise zum Reiseverkehr              
+10               Zur Zeit lUegel uns keine 
+11
+12  Aut -Touri ten, die ihren Urlaub       
+13  in der CSSR nicht über ein Reise-      
+14  büro in der BVndesrrssbliu gen vhr     
+15  haben, müusen an der Grenze mehr       
+16  Geld umtauschen.                       
+17  Der ADAC teilt mit, daß die Prager     
+18  Behörden den Pflichtumtausch pro Tag   
+19  von 19,-- auf 25,-- Mark erhöht haben. 
+20  Für Kinder von 6 bis 15 Jahren gilt    
+21  der halbe Satz. Kinder unter 6 Jahren  
+22  sind befreit.                          
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P400  VT 400 ARD/ZDF Di  3 Jun 2202:48
+ 1   🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 2   ███ █ 🬲🬏🬞🬷██🬀🬭🬁█ █ 🬲🬏🬞🬷 █ █ 🬭█ █▌▐███ 
+ 3   ███ █ █▌▐███ 🬎 █ 🬆🬞█▌▐█ █ █ 🬎█ █▌▐███ 
+ 4   ███🬏 🬞█▌▐███ 🬹 █ 🬱 █▌▐█ █ █ 🬹█ █▌▐███ 
+ 5   ████🬭██🬲🬷███🬭█🬭█🬭█🬭█🬲🬷█🬱🬭🬵█🬭🬭█🬭🬭🬲🬭🬷██ 
+ 6   ▌                                   ▐ 
+ 7   ▌                                   ▐ 
+ 8   ▌                                   ▐ 
+ 9   ▌     Das Treffen Schmidt -         ▐ 
+10   ▌                                   ▐ 
+11   ▌     Breschnew findet am 3O. Juni  ▐ 
+12   ▌                                   ▐ 
+13   ▌     und 1. Juli in Moskau statt.  ▐ 
+14   ▌                                   ▐ 
+15   ▌                                   ▐ 
+16   ▌                                   ▐ 
+17   ▌                                   ▐ 
+18   🬺🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬻 
+19   █ █ 🬷🬏🬞🬲 🬲 🬷 🬷██🬀🬏🬞🬁▌🬞▌▐▌🬞🬁▌▐ 🬕🬞🬁🬕🬞🬁█ 
+20   █ █ 🬬▌▐🬝🬞█ █ 🬬██ ▌▐ ▌🬉▌▐▌▐ ▌▐ ▌▐ ▌▐🬂█ 
+21   █ █ 🬻▌▐▌▐█ █ 🬻██ ▌▐ ▌🬦▌▐▌▐ ▌▐ ▌▐ ▌▐ █ 
+22   █ 🬨 🬨▌▐▌🬁█ █ 🬨██ ▌▐ ▌🬁▌🬁▌🬁🬞🬲 🬞▌▐ 🬲 🬞█ 
+23   🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬕🬕W  7                  W 
+24
+--------------------------------------------
+P401  VT 401 ARD/ZDF Di  3 Jun 2203:13
+ 1  ██🬻██                                  
+ 2  ██ ██                       NACHRICHTEN
+ 3  ██ ██ 🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 4
+ 5        TERMIN DER MOSKAU-REISE SCHMIDTS 
+ 6
+ 7        Die sowjetische Nachrichtenagen- 
+ 8        tur TASS hat bestätigt, daß      
+ 9        Bundeskanzler Schmidt und Außen- 
+10        minister Genscher am 3O. Juni    
+11        und 1. Juli in Moskau sein wer-  
+12        den.                             
+13
+14        In der kurzen Meldung heißt es,  
+15        der Kanzler und der Außenminister
+16        besuchten die Sowjetunion auf    
+17        Einladung der sowjetischen Füh-  
+18        rung.                            
+19
+20
+21
+22
+23                      Kurzmeldungen...4O2
+24
+--------------------------------------------
+P402  VT 402 ARD/ZDF Di  3 Jun 2203:13
+ 1  ██🬻██                                  
+ 2  ██ ██                       NACHRICHTEN
+ 3  ██ ██ 🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 4
+ 5        KURZMELDUNGEN:                   
+ 6
+ 7        BONN: Bundesinnenminister Baum   
+ 8        hat es begrüßt, daß bei Video-   
+ 9        text eine erste Form der Koope-  
+10        ration zwischen Pretse und Rund- 
+11        funk gefunden wurde.             
+12
+13        GORLEBEN: Polizeieinheiten aus   
+14        mehrerUn BundenläSdern wollen    
+15        offenbar den von Atomkraftgegnern
+16        beuntzten Bohrplatz räumenDDie   
+17        Besetzer wollen nicht frniwillig 
+18        aufgeben.                        
+19        KIEL: Ministerpräsident Stolten- 
+20        BERLIN: Die  espräthe mit der DDR
+21        über einen neuen Grenzübargang   
+22        sind fortgesetzt worden.         
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P444  VT 444 ARD/ZDF Di  3 Jun 2201:19
+ 1  █🬂🬂█🬂🬂🬂█🬂🬂█                            
+ 2  █  █   █  █           ▌ ▐🬏      🬕🬨     
+ 3  █  █   █  █            DEUTSCHER STÄDTE
+ 4  █  █   █  █                            
+ 5  █🬏  🬞🬭   🬞█                            
+ 6  🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎                            
+ 7  W E T T E R 🬎🬎🬎🬎  ▌  18°C  🬴🬀      🬎🬎🬎 
+ 8                   ▐🬐        ▐     🬀 🬁🬲  
+ 9  NORD-            🬚🬄        ▐  16°C  ▐  
+10              BERLIN        j#        jp 
+11              HAMB R       <'         8° 
+12                 L         ▌         ▐🬨🬷 
+13              WARN  ÜNDE   5  p0   <.# ° 
+14              DÜSSE DORFC  🬂🬌🬋🬄🬂🬌🬜🬂🬀   🬞 
+15              HANkO E .......  ..k ..  ° 
+16              FRANK  RT/  ER .   "up   ° 
+17              FRANKFURT/MA N       *4  ° 
+18              MüN  E  🬜             🬍🬩   
+19              LEIPZI .! ...16°C.   p717°C
+20              DwESDE 5            j1     
+21                     🬲🬭🬭🬭      🬞🬭🬚🬱🬪     
+22                        🬁🬂🬂🬊🬍🬊🬋🬆  🬁🬂     
+23  Temperaturen in 25 Sekunden            
+24
+--------------------------------------------
+P450  VT 450 ARD/ZDF Di  3 Jun 2201:19
+ 1  █ ███▐█▌██▐██▌                         
+ 2  █🬓█ █ █ ▐▌▐▌▐▌                         
+ 3  █▌███ █ ▐▌▐█🬄🬎             GEWINNQUOTEN
+ 4  🬎🬄🬎🬎🬎 🬎 🬉🬄🬉🬎🬎🬄                         
+ 5  ███▐██▌███▐██▌              OHNE GEWÄHR
+ 6   █ ▐▌▐▌ █ ▐▌▐▌                         
+ 7   █ ▐██🬲 █ ▐██▌                         
+ 8   🬎 🬉🬎🬎🬄 🬎 🬉🬎🬎🬄   🬕 7  7 7 7            
+ 9
+10  LotjgzaölbgÜ   1     🬗🬙   Z  Y🬶        
+11  Ergebnisswette: 1. Rang       618,3O DM
+12  Pferdetoto:     2                , O DM
+13                  3. Rang         4,1O DM
+14  Spiel 77:      0 408 805               
+15  Auswahl-Wette:  1. Rang   124 67O,3O DM
+16  Pferdelotto          na       7 8,3  DM
+17                  3. Rang     2 1O1,1O DM
+18                  4              46,4O DM
+19                  nn Rang         4,4O DM
+20  Jacepot: 1.7 2.1-1,10 DM   0           
+21
+22              Gewinnzahlen in 25 Sekunden
+23              Gewinnzahlen in 25 Sekunden
+24
+--------------------------------------------
+P500  VT 500 ARD/ZDF Di  3 Jun 2201:01
+ 1   🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 2   ██🬀🬏🬨 🬏🬨🬀🬏🬨 🬏🬨🬏🬞██🬕🬞🬁▌▐ 🬲 🬷 ▌▐ 🬷 █ ██ 
+ 3   ██ 🬎🬬 🬄▐ ▌▐ 🬄🬷▌▐██▌🬉 ▌🬉🬞█ █ ▌▐ 🬬 █ ██ 
+ 4   ██🬋🬓▐ 🬹█ ▌▐ 🬓▐▌▐██▌🬦 ▌🬦 █ █ ▌▐ 🬻 █ ██ 
+ 5   ██🬱🬭🬻🬭██🬱🬭🬻🬭🬲🬷🬲🬷██🬲🬷🬭🬲🬷🬭█🬭█🬱🬭🬻🬭🬷🬭🬷🬭🬷█ 
+ 6   ▌                                   ▐ 
+ 7   ▌                                   ▐ 
+ 8   ▌                                   ▐ 
+ 9   ▌   Im Sepp-Maier-Abschiedsspiel    ▐ 
+10   ▌                                   ▐ 
+11   ▌   besiegte die deutsche Natio-    ▐ 
+12   ▌                                   ▐ 
+13   ▌   nalmannschaft Bayern München    ▐ 
+14   ▌                                   ▐ 
+15   ▌   mit 3:1.                        ▐ 
+16   ▌                       .....501    ▐ 
+17   ▌                                   ▐ 
+18   🬺🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬻 
+19   █ █ 🬷🬏🬞🬲 🬲 🬷 🬷██🬀🬏🬞🬁▌🬞▌▐▌🬞🬁▌▐ 🬕🬞🬁🬕🬞🬁█ 
+20   █ █ 🬬▌▐🬝🬞█ █ 🬬██ ▌▐ ▌🬉▌▐▌▐ ▌▐ ▌▐ ▌▐🬂█ 
+21   █ █ 🬻▌▐▌▐█ █ 🬻██ ▌▐ ▌🬦▌▐▌▐ ▌▐ ▌▐ ▌▐ █ 
+22   █ 🬨 🬨▌▐▌🬁█ █ 🬨██ ▌▐ ▌🬁▌🬁▌🬁🬞🬲 🬞▌▐ 🬲 🬞█ 
+23   🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎W🬎  777                W 
+24
+--------------------------------------------
+P501  VT 501 ARD/ZDF Di  3 Jun 2203:24
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹                              
+ 2  ████ ████                              
+ 3  ████                   Bayern München -
+ 4  █████████            NATIONALMANNSCHAFT
+ 5       ████                   1:3        
+ 6  ████ ████                              
+ 7  🬎🬎🬎🬎🬎🬎🬎🬎🬎                              
+ 8  S P O R T 🬎🬎🬎🬎🬎 777  7      7          
+ 9
+10  Zum offiziellen Abschied von National- 
+11  torwart Sepp Maier lieferte die deut-  
+12  sche Nationalmannschaft mit ihrem 3:1  
+13  Erfolg eine gelungene Generalprobe für 
+14  das EM-Turnier in Italien.             
+15
+16  Bayern-Kapitän Breitner brachte seine  
+17  Mannschaft in der 37.Minute mit einem  
+18  Foulelfmeter in Führung. Hrubesch per  
+19  Kopfball in der 42., Briegel nach Solo 
+20  in der 51. und Hansi Müller in der 60. 
+21  Minute mit herrlichem Distanzschuß     
+22  sicherten dann den Sieg der Nationalelf
+23                      Kurzmeldungen...5o2
+24
+--------------------------------------------
+P502  VT 502 ARD/ZDF Di  3 Jun 2203:37
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹                              
+ 2  ████ ████                              
+ 3  ████                                   
+ 4  █████████                KURZMELDUNGEN:
+ 5       ████                              
+ 6  ████ ████                              
+ 7  🬎🬎🬎🬎🬎🬎🬎🬎🬎                              
+ 8  S P O R T 🬎🬎🬎🬎🬎    7  7 7             W
+ 9
+10  FUSSBALL: Das ZDF überträgt morgen um  
+11  19.3O Uhr das Endspiel um den DFB-Pokal
+12  zwischen dem 1.FC-Köln und Fortuna     
+13  Düsseldorf live aus Gelsenkirchen.     
+14
+15  TENNIS: Der Spanier Orantes ist vom    
+16  Internationalen Tennisturnier in Paris 
+17  ausgeschlossen worden.                 
+18
+19  WASSERBALL: In Esslingen gewann die    
+20  deutsche Nationalmannschaft überra-    
+21  schend genen Ungarn mit 8:6. Es ist    
+22  der erste Sieg nach 41 Jahren.         
+23
+24
+--------------------------------------------
+P600  VT 600 ARD/ZDF Di  3 Jun 2204:17
+ 1
+ 2
+ 3  █🬂🬂🬝🬂🬊🬕🬂🬂🬕🬂🬨🬂🬂🬨🬂🬂🬕🬂🬨🬂🬕🬂🬨🬂🬕🬨🬂🬂🬬🬂🬂🬨🬂🬂🬕🬂🬊█
+ 4  █▌▐▌🬇 ▌▐🬎▌🬉🬬 🬎🬫🬝🬞▌🬉🬬 █ █ ▌▐ ▌▐ 🬝🬬 🬎▌🬦 █
+ 5  █▌▐▌▐ ▌🬉🬄▌🬉🬬🬊🬄▐ 🬎▌🬉🬬 █ █ 🬄▐ ▌▐ 🬎▐ 🬎▌▐ █
+ 6  🬎🬌🬍🬌🬍🬋🬌🬋🬋🬌🬋🬍🬋🬋🬍🬋🬋🬌🬋🬍🬋🬎🬋🬎🬋🬋🬍🬋🬌🬍🬋🬋🬍🬋🬋🬌🬍🬋🬎
+ 7
+ 8    DIE WELT................601 bis 603  
+ 9                                         
+10
+11    FRANKFURTER ALLGEMEINE .604 bis 606  
+12
+13
+14    FRANKFURTER RUNDSCHAU ..607 bis 609  
+15
+16
+17    HANDELSBLATT............610 bis 612  
+18
+19
+20    SÜDDEUTSCHE ZEITUNG.....613 bis 615  
+21
+22
+23
+24
+--------------------------------------------
+P601  VT 601 ARD/ZDF Di  3 Jun 2201:53
+ 1  ████🬒🬡🬰🬂🬴🬂🬸🬒🬡🬰🬨██🬒🬡██🬒🬸🬒🬡🬰🬨🬒🬡█🬡🬒🬡🬒█████
+ 2  ████▌▐█ █ █▌🬉🬨███▌▐▌▐▌█▌🬉🬨█▌▐██▌▐██████
+ 3  ████▌▐█ █ █▌▐🬻🬬██▌▐▌▐▌█▌▐🬻█🬲U█🬬🬲U██████
+ 4  ████🬮🬯🬰🬭🬴🬭🬸🬮🬯🬰🬷██🬲🬯🬮🬯🬮█🬮🬯🬰🬱🬮🬯🬰🬱🬯🬯██████
+ 5  🬎🬎🬎🬎🬎🬎🬎🬎🬕🬎🬎W🬎🬎 🬎🬕🬎 W7  7W7            W
+ 6
+ 7   Strauß drohte mit Rücktritt           
+ 8
+ 9
+10   CSU-Chef Strauß ist verärgert über    
+11   CDU-Generalsekretär Geißler, der sich 
+12   von einer Strauß-Äußerung distanziert 
+13   hatte. Außerdem wirft er der CDU vor, 
+14   daß seine Ministermannschaft durch    
+15   eine Indiskretion vorzeitig bekannt   
+16   wurde. Strauß drohte sogar mit seinem 
+17   Rücktritt als Kanzlerkandidat.        
+18
+19   Darüber berichtet DIE WELT ausführlich
+20   am Mittwoch.                          
+21
+22                mehr von der WELT auf 602
+23  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬖🬋🬋🬖🬇  🬋 
+24
+--------------------------------------------
+P602  VT 602 ARD/ZDF Di  3 Jun 2202:48
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 2  ████🬒🬡🬰🬂🬴🬂🬸🬒🬡🬰🬨██🬒🬡██🬒🬸🬒🬡🬰🬨🬒🬡█🬡🬒🬡🬒█████
+ 3  ████▌▐█ █ █▌🬉🬨███▌▐▌▐▌█▌🬉🬨█▌▐██▌▐██████
+ 4  ████▌▐█ █ █▌▐🬻🬬██▌▐▌▐▌█▌▐🬻█▌U█🬬▌▐██████
+ 5  ████🬮🬯🬰🬭🬴🬭🬸🬮🬯🬰🬷██🬲🬯🬮🬯🬮█🬮🬯🬰🬷🬮🬯🬰🬷🬮🬯██████
+ 6  🬎🬎🬎🬎WWW🬎 / W    7W  7 7               W
+ 7
+ 8   Kommt höhere Mehrwertsteuer?          
+ 9
+10
+11   In Bonn zeichnet sich ab, daß die  un-
+12   desregierung Teile des versprochenen  
+13   Steuerpakets zurücknehmen muß, um den 
+14   Brüsseler EG-Kompromiß finanzieren zu 
+15   können. Zur Disposition steht unter   
+16   Umständen die geplante Kindergelder-  
+17   höhung. Auch eine Erhöhung der Mehr-  
+18   wertsteuer gilt jetzt als denkbar.    
+19
+20   Ausführlicher Bericht am Mittwoch in  
+21   der WELT.                             
+22                mehr von der WELT auf 6O3
+23  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋           
+24
+--------------------------------------------
+P603  VT 603 ARD/ZDF Di  3 Jun 2201:48
+ 1  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹
+ 2  ████🬒🬡🬰🬂🬴🬂🬸🬒🬡🬰🬨██🬒🬡██🬒🬸🬒🬡🬰🬨🬒🬡█🬡🬒🬡🬒█████
+ 3  ████▌▐█ █ █▌🬉🬨███▌▐▌▐▌█▌🬉🬨█▌▐██▌U██████
+ 4  ███🬝▌▐█ █ █▌▐🬻🬬██▌▐▌▐▌█🬲U🬻█▌▐█🬬▌▐██████
+ 5  ████🬮🬯🬰🬭🬴🬭🬸🬮🬯🬰🬷██🬲🬯🬮🬯🬮█🬮🬯🬰🬷🬮🬯🬰🬷🬮🬯██████
+ 6  🬎🬎🬎W🬎🬎🬎🬎🬎🬎🬎 🬕W    W   7               W
+ 7         B um  ieht die Bremse a"        
+ 8              t                          
+ 9
+10   und sin enminisee  Baum will mit eit  
+11   Dfo tprogrhm  eem tachsendentMißbrr   
+12   Ssndsyltecer  begeg wn. Das neue G -  
+13   Pea soll noch vor der Soiherpause vom 
+14   uedestae veraes hiedet wckdspe        
+15   ahl der Asylanträge ist von 11.123 im 
+16   ahn 1976 tuf 51.49  im V r     g sti  
+17   en. In den erstedefünf Monaten diese  
+18   aeee ewar nies be nits 59.OeO Antr    
+19   woch-Ausgabe der WELT.                
+20  Ausführlicher  eric t  n  er  ELT  m   
+21   ittwoch.                              
+22                      mehr in 25 Sekunden
+23  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋         
+24
+--------------------------------------------
+P605  VT 605 ARD/ZDF Di  3 Jun 2201:18
+ 1  🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭
+ 2     FRANKFURTER  ALLGEMEINE   WIRTSCHAFT
+ 3  🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬞🬭🬞
+ 4   █ Zeitung für Deutschland ████████████
+ 5  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 6
+ 7
+ 8
+ 9  "Immer weiter zahlen für Europa" über- 
+10  schreibt F.A.Z.-Korrespondent Heinz    
+11  Stadelmann aus Brüusel seinen Wirt-    
+12  schaftsleitartikel auf Seite 13 der    
+13  Mittwochausgabe. Er beschäftigt sich   
+14  mit den Beitragszahlungen Deutsch-     
+15  lands in der Europäischen Gemein-      
+16  schaft.                                
+17
+18
+19
+20
+21
+22
+23
+24
+--------------------------------------------
+P606  VT 606 ARD/ZDF Di  3 Jun 2204:41
+ 1  🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭
+ 2     FRANKFURTER  ALLGEMEINE   FEUILLETON
+ 3  🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭🬭
+ 4   █ Zeitung für Deutschland ████████████
+ 5  🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂🬂
+ 6
+ 7  In der F.A.Z.-Reihe "Romane von gestern
+ 8  - heute gelesen" schreibt Dolf Stern-  
+ 9  berger über Ernst Jüngers Buch         
+10  "Auf den Marmorklippen", in der Frank- 
+11  furter Allgemeinen Zeitung vom Mittwoch
+12  auf Seite 25.                          
+13
+14  Von einer deutsch-englischen Tagung    
+15  über Prinz Albert in Coburg berichtet  
+16  für die F.A.Z. auf Seite 25 Eberhard   
+17  Schulz.                                
+18
+19
+20
+21
+22                 FAZ auch auf 604 und 605
+23
+24
+--------------------------------------------
+P607  VT 607 ARD/ZDF Di  3 Jun 2201:45
+ 1   gilt für die Klassen 5 bis 2N         
+ 2   🬕🬟🬏🬭🬏🬭🬏▌🬏🬷🬮🬞🬞🬖🬛🬭🬏🬭 🬕▌🬏🬏🬭🬏🬭▌🬭🬏🬭▐🬭🬞🬭🬞🬞  
+ 3   🬕▐ ▌▌▌▌🬕🬓▐▐▐▐ ▌🬛🬄▌ 🬕🬓▌▌▌▌▌▌🬌🬓▌▐▐▐▐▐▐  
+ 4   🬮🬯🬭🬰🬰🬮🬮🬮🬮🬯🬯🬰🬯🬭🬮🬰🬮🬮🬭🬮🬮🬰🬮🬮🬮🬰🬮🬰🬮🬰🬯🬯🬯🬰🬰🬰  
+ 5
+ 6   Carter verliert in Korea              
+ 7
+ 8
+ 9   Dae USA habet von den eerfolgungen i  
+10   Keangju vorher geweßte Deliginsatz    
+11   kormanischer Soldaten geg n d         
+12   reanisshe Volk war vom US- o  ando    
+13   gebilligt.        e                   
+14   endgültige Fasutng verabschiedet. Sie 
+15   Auf Liberalisierung in Korea setzt    
+16   Certens Poh tik off nbar n cht mehr.  
+17   linien an den hessischen Schulen.     
+18   Amerikas Ansehen in Asien sinkt rasch.
+19   Cahtlte And Hintetgründe beschreibt   
+20   gnser Regrerpng,von Tooioebis Ba      
+21   Seite 3.                              
+22   Aus Korea berichtet uns r Kor   pon   
+23                     .mehr in 25 Se5unden
+24
+--------------------------------------------
+P608  VT 608 ARD/ZDF Di  3 Jun 2204:41
+ 1   🬕▐ ▌▌🬊▌W🬓▐▐▐▐ ▌🬛🬄▌ 🬕🬓▌▌🬁🬒▌🬊🬌🬓▌▐▐▐🬦E▐  
+ 2   🬕🬟🬏🬭🬏🬭🬏▌🬏🬷🬮🬞🬞🬖🬛🬭🬏🬭 🬕▌🬏🬏🬭🬏🬭▌🬭🬏🬭▐🬭🬞🬭🬞🬞  
+ 3   🬕▐ ▌▌▌▌🬕🬓▐▐▐▐ ▌🬛🬄▌ 🬕🬓▌▌▌▌▌▌🬌🬓🬲U▐▐▐▐▐  
+ 4   🬮🬯🬭🬰🬰🬮🬮🬮🬮🬯🬯🬰🬯🬭🬮🬰🬮🬮🬭🬮🬮🬰🬮🬮🬮🬰🬮🬰🬮🬰🬯🬯🬯🬰🬰🬰  
+ 5
+ 6   Die andere Bundesrepublik             
+ 7
+ 8
+ 9   In einer Flut von Schriften, Bild-    
+10   bänden, Funk- und Fernsehbeiträgen    
+11   ist im vergangenen Jahr der           
+12   3O. Geburtstag der Bundesrepublik     
+13   gefeiert worden.                      
+14   Waren die letzten Jahrzehnte tatsäch- 
+15   lich so, wie sie in den offiziellen   
+16   Würdigungen dargestellt wurden?       
+17   Wie hat der Normal-Bürger diese Zeit  
+18   erlebt?                               
+19   Die Dokumentation der FR bringt morgen
+20   einen Rückblick auf die Nachkriegs-   
+21   jahre mit Aspekten, wie sie nicht in  
+22   den Festschriften zu lesen sind.      
+23                          FR auch auf 609
+24
+--------------------------------------------
+P609  VT 609 ARD/ZDF Di  3 Jun 2204:19
+ 1   🬕▐ ▌🬁🬔🬁W🬓▐▐▐▐ ▌🬛🬄▌ 🬕🬓🬊▌▌🬊▌▌🬌🬓🬊▐▐▐▐▐▐  
+ 2   🬕🬟🬏🬭🬏🬭🬏▌🬏🬷🬮🬞🬞🬖🬛🬭🬏🬭 🬕▌🬏🬏🬭🬏🬭▌🬭🬏🬭▐🬭🬞🬭🬞🬞  
+ 3   🬕▐ ▌▌▌▌🬕🬓▐▐▐▐ ▌🬛🬄▌ 🬕🬓▌▌▌▌▌▌🬌🬓▌▐▐▐▐▐▐  
+ 4   🬮🬯🬭🬰🬰🬮🬮🬮🬮🬯🬯🬰🬯🬭🬮🬰🬮🬮🬭🬮🬮🬰🬮🬮🬮🬰🬮🬰🬮🬰🬯🬯🬯🬰🬰🬰  
+ 5
+ 6   Die Lieben der Kommissare             
+ 7
+ 8   In Venedig ist diesjährige Kunst-     
+ 9   biennale eröffnet worden.Sie zeigt in 
+10   in 32 internationalen Pavillions      
+11   und vielen Sonderprogrammen Tendenzen 
+12   der Gegenwartskunst.                  
+13   Für die einzelnen Abteilungen der     
+14   Biennale sind Kommissare der beteilig-
+15   ten Länder verantwortlich. Sie haben  
+16   in der Mehrheit ihre Vorlieben ohne   
+17   Rücksicht auf Qualität und kritische  
+18   Maßstäbe durchgesetzt.                
+19   Der deutsche Beitrag mit Georg Base-  
+20   litz und Anselm Kiefer ist ganz ver-  
+21   unglückt. Über die Kunst und die Kon- 
+22   troversen der Biennale morgen im      
+23   Feuilleton.            FR auch auf 607
+24
+--------------------------------------------
+P610  VT 610 ARD/ZDF Di  3 Jun 2201:17
+ 1     jup°&th8t°<°,tj56)j=tj58i8,$    
+ 2     🬨🬕🬁█🬀       🬻   🬩▌  🬦▌ 🬩▌   🬵 🬵     
+ 3     ▐🬲🬭█🬞🬅🬱🬦🬖🬱🬞🬚█🬞🬋🬱▐▌🬔🬈▐🬛🬱▐▌🬖🬧🬖█🬋█🬃    
+ 4     ▐▌ █ 🬖█▐ █▐ █▐🬋🬎▐▌🬊🬱▐▌▐▐▌🬞🬫▌█ █     
+ 5     🬷🬲🬞█🬘🬭🬬▐ █🬉🬭🬬🬘🬹🬅🬷🬲🬢🬘🬉🬲🬘🬷🬲🬣🬘▌🬬🬏🬬🬏    
+ 6  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 7
+ 8  VOLVO KÜRZN                            
+ 9                                         
+10  Die sehwedisch  Aetomobiw   v °  T     
+11  hat seine Produktion geuü zt, 5n 🬣🬩    
+12  auf PK                                 
+13  entwickluninbereit.                    
+14  Dies ist auch eine Foose der japanb    
+15  schen Kon hrrezz auf den We tmrrkte .  
+16  den Ö.S.                               
+17  Über die Bedeutung der Japa -Aktivi-§  
+18  tit n f r aO  O  esen S e m  ge  A -   
+19  führliches im HANDeLSBLATTd            
+20  ein Bericht im HANDELSBLATT.           
+21  pondent im HANDELSBLATT.               
+22                      mehr in 25 Se+bnden
+23                      mehr in 25 Sekunden
+24
+--------------------------------------------
+P611  VT 611 ARD/ZDF Di  3 Jun 2204:47
+ 1
+ 2     🬨🬕🬁█🬀       🬻   🬩▌  🬦▌ 🬩▌   🬵 🬵     
+ 3     ▐🬲🬭█🬞🬅🬱🬦🬖🬱🬞🬚█🬞🬋🬱▐▌🬔🬈▐🬛🬱▐▌🬖🬧🬖🬝🬋█🬃    
+ 4     ▐▌ █ 🬖█▐ █▐ █▐🬋🬎▐▌🬊🬱▐▌▐▐▌🬞🬫▌█ █     
+ 5     🬷🬲🬞█🬘🬭🬬▐ █🬉🬭🬬🬘🬹🬅🬷🬲🬢🬘🬉🬲🬘🬷🬲🬣🬘▌🬬🬏🬬🬏    
+ 6  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 7
+ 8  KEIN LIKÖR-DURST                       
+ 9
+10  Die Firmengruppe Eckes konnte den Um-  
+11  satz 1979 um 1O,6 % auf 733 Millio.jn  
+12  DM steigern.                           
+13
+14  Zufrieden war man insbesondere mit     
+15  den nicht alkoholischen Getränken,     
+16  während Liköre ein Minus hinnehmen     
+17  mußten.                                
+18
+19  Mehr darüber morgen im HANDELSBLATT    
+20
+21
+22
+23
+24
+--------------------------------------------
+P612  VT 612 ARD/ZDF Di  3 Jun 2201:47
+ 1  stellern auf rund 4O OOO Quadratmetern 
+ 2     🬨🬕🬁█🬀       🬻   🬩▌  🬦▌ 🬩▌   🬵 🬵     
+ 3     ▐🬲🬭█🬞🬅🬱🬦🬖🬱🬞🬚█🬞🬋🬱▐▌🬔🬈▐🬛🬱▐▌🬖🬧🬖🬝🬋█🬃    
+ 4     ▐▌ █ 🬖█▐ █▐ █▐🬋🬎▐▌🬊🬱▐▌▐▐▌🬞🬫▌█ █     
+ 5     🬷🬲🬞█🬘🬭🬬▐ █🬉🬭🬬🬘🬹🬅🬷🬲🬢🬘🬉🬲🬘🬷🬲🬣🬘▌🬬🬏🬬🬏    
+ 6  🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹🬹 
+ 7
+ 8  INTERSCHUTZ                            
+ 9
+10  Die Interschutz '8O, Fachmesse für     
+11  Brand- und Kathastrophenschutz vom     
+12  7. bis 15. Juli in Hannover bringt     
+13  nach 8-jähriger Pause ein Angebot von  
+14  rund 36O In- und Ausländischen Aus     
+15  stellern auf rund 4O OOO Quadratmetern 
+16  Ausstellungsfläche.                    
+17
+18  Einen Vorbericht finden Sie morgen     
+19  im HANDELSBLATT.                       
+20
+21
+22
+23
+24
+--------------------------------------------
+P613  VT 613 ARD/ZDF Di  3 Jun 2204:12
+ 1
+ 2  🬞🬞🬞  SÜDDEUTSCHE ZEITUNG               
+ 3  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋      🬖    
+ 4  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋X🬖🬇🬋🬇🬇XXXXX🬇XXX
+ 5
+ 6  KRITIK AM KATHOLIKENTAG                
+ 7  Haben die Christen angesichts von      
+ 8  Terror, Gewalt und Kriegsfurcht nichts 
+ 9  Wichtigeres zu tun als Fronleichnam zu 
+10  feiern? Dieser Vorwurf betrifft die    
+11  1OO.000 Teilnehmer des 86. Deutschen   
+12  Katholikentages, der vom 4. bis 8. Juni
+13  in Berlin stattfindet. "Christi Liebe  
+14  ist stärker" heißt ihr Motto - einige  
+15  kritische Gruppen bezeichnen es als    
+16  "größte Herausforderung zum Dreschen   
+17  leerer Phrasen". Daß dieses Motto nicht
+18  ungefährlich ist, wissen auch die Ver- 
+19  anstalter.                             
+20  Näheres in dem Bericht von Hannes Bur- 
+21  ger auf der innenpolitischen Seite 12  
+22  in der SZ vom Mittwoch/Donnerstag.     
+23                           mehr auf...614
+24
+--------------------------------------------
+P614  VT 614 ARD/ZDF Di  3 Jun 2201:45
+ 1  🬋🬋🬋T🬋T🬋🬋🬋🬋T🬋T🬋🬋T🬋 🬋T🬋🬋🬋🬋🬋🬋 🬋T🬋 🬋🬋🬋🬋T🬋T🬋
+ 2  🬞🬞🬞  SÜDDEUTSCHE ZEITUNG               
+ 3  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋 🬋🬋🬋🬋🬋      
+ 4  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬇🬋T🬋X🬇X🬇XXXX XXXXX
+ 5
+ 6  BOLIVIEN VOR EINEM NEUEN PUTSCH?       
+ 7
+ 8  19O Staatsstreiche hat Bolivien bisher 
+ 9  in seiner 15Ojährigen Geschichte er-   
+10  tragen müssen. Vier Wochen vor den Par-
+11  lamentswahlen und Präsidentschaftswah- 
+12  len, die dem lateinamerikanischen Staat
+13  endlich eine legitime Führung geben    
+14  sollen, grassiert die Angst vor einem  
+15  neuen Militärputsch. Für diesen Fall   
+16  haben Katholikengruppen, Gewerkschafter
+17  und Studenten energischen Widerstand   
+18  angekündigt.                           
+19  Friedrich Kassebeer schildert die ex-  
+20  plosive Lage.                          
+21  Näheres in der SZ vom Mittwoch/Donners-
+22  tag auf der Seite 3.                   
+23
+24
+--------------------------------------------
+P615  VT 615 ARD/ZDF Di  3 Jun 2204:15
+ 1  Bmd wie sind dif er3tjn Fahreindrüeae  
+ 2  🬞🬞🬞  SÜDDEUTSCHE ZEITUNG               
+ 3  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋T🬋              
+ 4  🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋🬋T🬖🬋🬋🬖          
+ 5
+ 6  TEST: BMW 745i                         
+ 7
+ 8  Mit einem Turboladermotor greift BMW   
+ 9  jetzt nach dem Stern: 252 PS machen    
+10  den 745i zur stärksten Limousine aus   
+11  deutscher Produktion. Eine ungewöhnlich
+12  komplette Ausstattung entschädigt für  
+13  die 52.4OO Mark Kaufpreis. Warum baut  
+14  BMW trotz der Ölkrise dieses Auto?     
+15  Und wie sind die ersten FahreindrüeEe  
+16  mit diesem etwa 23O Km/h schnellen     
+17  Wagen?                                 
+18
+19  Näheres im Testbericht auf der Seite   
+20  "Auto und Verkehr" in der SZ vom       
+21  Mittwoch/Donnerstag.                   
+22
+23                          SZ auch auf 613
+24
+--------------------------------------------

@@ -22,7 +22,7 @@ This repository documents what was found in 376 captures (a first batch of 110 a
 - **Early packet 8/30** with date and time in plain text. Together with teletext headers it helps date undated tapes.
 - **Static test signals** on lines 323 and 328 that flip polarity every frame; line 328 already on ZDF in 1979.
 - **The data line predates VPS:** it first appears in March 1983 with plain-text sources such as `HR1 FFTM`, `BR-MCHN1` and `SDR-TVS3`.
-- **Pre-standard teletext from the 1980 Videotext trial:** packet 8/30 with date and time from June 1980. The apparent M3 X/29 and M7/31 packets of 1980–81 are misread Videotext rows, as the raw waveform shows.
+- **Pre-standard teletext from the 1980 Videotext trial:** packet 8/30 with date and time from June 1980. The apparent M3 X/29 and M7/31 packets of 1980–81 are misread Videotext rows, as the raw waveform shows. With an equalising slicer, the Videotext pages of June 1980 and August 1981 can be read again almost without errors (index, news, sport).
 - **1990s data channels:** an IDL Format A channel (address `777777`) on ARD and ZDF 1996–97 that only sends `TIXXX`/`TIDXX`, and a seconds clock (counted from 1 January 1992) from RTL on line 329 in 1998.
 
 ## Capture format
@@ -46,6 +46,7 @@ Python 3 with `numpy` and `numba` (plus `matplotlib` for plots). Install them wi
 | [tools/cross.py](tools/cross.py) | `cross.py <survey-root>`: one-paragraph summary per tape (see [docs/tape-overview.txt](docs/tape-overview.txt)) |
 | [tools/dz.py](tools/dz.py) | `dz.py <survey-root>`: decodes all 15 words of data lines 16/329 per tape (see [docs/data-line-words.txt](docs/data-line-words.txt)) |
 | [tools/p830.py](tools/p830.py) | `p830.py <survey-root>`: majority-vote text of the early packet 8/30 |
+| [tools/vt_equalise.py](tools/vt_equalise.py) | `vt_equalise.py train/decode/pages`: equalising teletext slicer with decision feedback for heavily low-passed VHS recordings; assembles voted pages as text and PNG |
 | [tools/slipcheck.py](tools/slipcheck.py) | `slipcheck.py <survey-dir> <mag> <packet> [n]`: re-frames packets by ±1–2 bits to expose bit-slip artefacts |
 | [tools/special.py](tools/special.py) | `special.py <survey-dir> <mag> <packet> [n]`: dumps teletext packets of one type |
 | [tools/plotunk.py](tools/plotunk.py) | plots sample waveforms of unclassified rows |
