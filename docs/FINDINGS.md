@@ -9,7 +9,7 @@ Contents:
 2. [Overview of findings](#2-overview-of-findings)
 3. [Data line 16 (source data line) and 329 (section data line)](#3-data-line-16-source-data-line-and-line-329-section-data-line)
 4. [VPS test cycle 1983–1985](#4-vps-test-cycle-19831985)
-5. [A second, 1 Mbit/s biphase signal on lines 16/329](#5-a-second-1-mbits-biphase-signal-on-lines-16329)
+5. [The East German 1 Mbit/s data line on lines 16/329](#5-the-east-german-1-mbits-data-line-on-lines-16329)
 6. [Data channels inside teletext (packet X/31)](#6-data-channels-inside-teletext-packet-x31)
 7. [Early packet 8/30 and dating tapes](#7-early-packet-830-and-dating-tapes)
 8. [Static measurement signals](#8-static-measurement-signals)
@@ -40,7 +40,7 @@ Throughout this document, "line N" means the TV line number and "row N" means th
 | Plain-text source/section IDs in data word 4 of lines 16/329 | almost all tapes carrying the data line, 1985–1995 | "Source identification in plain text" (line 16, e.g. `WDR-KLN`, `SFB-SCHO`, `RIAS-TV`) and "section identification" (line 329, e.g. `DBP-FTZ` of the Deutsche Bundespost) |
 | 4-bit source code in data word 3 | same | a numeric code per broadcaster (WDR 9, NDR C, ZDF 5, …) |
 | VPS test cycle | ARD/ZDF 1983–1985 | a fixed 30-minute cycle of fake programme labels "11.05. 10:xx" plus the special codes, before VPS officially launched in 1985 |
-| 1 Mbit/s biphase on lines 16/329 | ARD/ZDF early 1980s, East German DDR1/DFF 1989–90, Berlin cable 1990 | a static data word that does **not** match the standardised data line; origin unknown |
+| 1 Mbit/s biphase on lines 16/329 | East German DDR1/DFF (1980s and 1989–90), cable recordings 1989–90 | the data line of East German television: run-in, start code and a 4-bit source code |
 | Data channels inside teletext (packet X/31) | ProSieben 1990 | the GIS financial data feed |
 | Early-format packet 8/30 | ZDF 1984, ARD 1982/1988, BR, RIAS-TV 1990/91 | carries a header text with date and time; useful for dating tapes |
 | Static measurement signals | line 328 (1982–87), line 323 (1986–91), line 323 on Sat.1/ProSieben | identical in every frame, no payload |
@@ -151,26 +151,39 @@ During the same period, data words 6, 8 and 10 contain `aa` and words 9 and 15 c
 
 **Interpretation (inferred, no source found):** this looks like a test sequence for VPS recorders before the official launch at the IFA trade fair in 1985. It simulates a programme scheduled for 11 May that is interrupted, continued and ended.
 
-## 5. A second, 1 Mbit/s biphase signal on lines 16/329
+## 5. The East German 1 Mbit/s data line on lines 16/329
 
-Some tapes carry a different biphase signal on lines 16 and 329:
+Some tapes carry a different biphase signal on lines 16 and 329. It is the data line of East German television (Fernsehen der DDR / DFF), not a West German format.
 
-- **Rate:** about 1 Mbit/s (half bit ≈ 17.7 samples, bit duration ≈ 1 µs).
-- **Length:** only about 40–48 bits.
-- **Content:** mostly static.
+![Line 16: the 1 Mbit/s signal compared with the standard data line](images/line16_1mbit_vs_dataline.png)
 
-That does **not** match the standardised data line, which has 15 × 8 bits at 2.5 Mbit/s.
+**Signal.**
+- **Rate:** about 1 Mbit/s (half bit ≈ 17.7 samples, bit duration ≈ 1 µs), biphase coded.
+- **Position:** it starts about 5 µs into the capture window, like the standard data line, and ends after 40 bits (older form) or 48 bits (1989–90). The 48-bit form fills almost exactly the same 48 µs as the West German 2.5 Mbit/s data line (120 bits).
+- **Lines:** lines 16 and 329 carry identical content. Unlike in the West there is no separate section identification on line 329.
 
-| Source | Most frequent bit pattern |
-|---|---|
-| ARD/ZDF, early 1980s (tape153_02) | `111111111010000000000000111111110100000(1)` |
-| DDR1 1989 (tape162_01), DFF1 04/1990 (tape191_01), MKB 1989 | `111111111010000011111111111111111001111111111111` |
-| DFF 08/1990 (tape192_04, tape192_11), Berlin cable 08/1990 | `111111111010000011111111111111110101111111111111` |
+**Origin.**
+- The only supposedly West German example, tape153_02 ("ardzdf", undated), is a 73-second excerpt of *Sekunden entscheiden*. That is the German title of the Polish series *Stawka większa niż życie*, which was shown by East German television (DFF), among other runs in 1980 and 1986 ([fernsehserien.de](https://www.fernsehserien.de/sekunden-entscheiden)). The capture has no ARD/ZDF teletext either. It is therefore an East German recording that was mislabelled.
+- All other occurrences are East German as well: DDR1 1989, DFF 1 in April 1990, DFF in August 1990, and the cable recordings MKB (1989) and PK Berlin 2 (1990), which passed DFF through unchanged.
+- None of the 266 captures of collection 04 (ARD/ZDF 1979–1998) carries this signal.
 
-- **Structure:** the pattern always starts with nine ones followed by `1010` and is otherwise fixed per broadcaster.
-- **Status bit:** one bit (`1010…` vs `1000…`) changes during a recording; it is probably a status flag.
-- **Users:** East German television (DDR1, DFF) and the early-1980s West German recording use the same format.
-- **Origin unknown:** it might be a pre-standard version of the data line, or an East German variant that DFF, MKB and the Berlin cable network still carried in 1989/90. The source does not mention a 1 Mbit/s format.
+**Bit fields.** Read in transmission order, the bits fall into whole bytes:
+
+| Byte | 1980s (40 bits, tape153_02) | DDR1 1989, DFF 1 04/1990, MKB | DFF 08/1990, PK Berlin |
+|---|---|---|---|
+| 0 | `11111111` | `11111111` | `11111111` |
+| 1 | `1010 0000` | `1010 0000` | `1010 0000` |
+| 2 | `00000000` | `11111111` | `11111111` |
+| 3 | `11111111` | `11111111` | `11111111` |
+| 4 | `0100 0000` | `1001 1111` | `0101 1111` |
+| 5 | (none) | `11111111` | `11111111` |
+
+- **Byte 0** is a run-in (`FF`), and **byte 1** (`1010 0000`) is a fixed start code in both generations.
+- **The high nibble of byte 4 changes with the source.** It is `0100` in the 1980s, `1001` in 1989/April 1990 and `0101` in August 1990. In tape192_11 (DFF, 6 August 1990) it switches cleanly from `0101` to `1001` at frame 334 and stays there, and in the MKB recording it switches from `0101` to `1001` as well. That is how a source or studio identification behaves, comparable to the 4-bit source code in word 3 of the West German data line. Which code stands for which studio or programme is not known.
+- **Bytes 2, 3 and 5** are constant per period (`00 FF` in the 1980s, `FF FF … FF` in 1989–90). They are probably unused or reserved.
+- **Bit 4 of byte 1** (`1010 0000` vs `1010 1000`) changes only in isolated single frames, with no pattern, and almost never on the clean 1989 recording. This is a decoding uncertainty on noisier tapes, not a status flag as assumed earlier.
+
+The exact specification (presumably by the Rundfunk- und Fernsehtechnisches Zentralamt of the Deutsche Post der DDR) was not found.
 
 ## 6. Data channels inside teletext (packet X/31)
 
@@ -331,7 +344,7 @@ Lines 14, 15, 327 and 328 are occupied by a signal in 96–100% of frames that i
 - What are the M8/31 channel of ARD/ZDF 1996–98 (head `a1 38 2f 2f`), the M2/31 channel of RTL 1998 and the M7/31 channel of ARD 1981?
 - What is the M3 X/29 packet (head `00 c8 20 d8`) of the 1980–81 Videotext trial?
 - What does the data on lines 14/15/327/328 of Premiere 1991 contain?
-- Where does the 1 Mbit/s biphase signal on lines 16/329 come from, and what do its bits mean?
+- Which studio or programme do the source codes `0100`, `1001` and `0101` of the East German data line stand for?
 - What do the individual bits of data words 5, 6 and 8–10 mean (sound data, signal content, routing)? This needs the original ARD/ZDF/IRT specification of the data line.
 
 Contributions and pointers to original documentation are welcome.
