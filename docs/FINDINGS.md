@@ -338,14 +338,25 @@ The test cycle ("11.05. 10:xx" plus the special codes in 5-minute blocks) appear
 - **Regular enhancement packets:** X/26, X/28 and X/29 on ARD, ProSieben and Kabel 1 1996–98 are ordinary Level 1.5/2.5 teletext.
 - **Packet 8/30 on ZDF 1996 and ProSieben 1996/98** shows a readable status text with date and time (`ARD/ZDF Mi 31.07.96 19:36:53`, `ProSieben Do 19 Feb 17:33:32`), and Kabel 1 shows `INFOTEXT`.
 
-### 10.5 Premiere 1991 (S-VHS)
+### 10.5 Premiere (S-VHS, labelled 1991): Nagravision Syster data decoded
 
 Two S-VHS recordings of the pay-TV channel Premiere (65 and 69 minutes) carry a data line with the text `PREMIERE`, CNI DAC and word 3 = 00.
-Lines 14, 15, 327 and 328 are occupied by a signal in 96–100% of frames that is neither teletext nor the data line. Most likely this is the access control data of the Nagravision scrambling. Not decoded.
+Lines 14, 15, 327 and 328 carry the access data of Nagravision Syster in every frame. They were decoded with the format described in hacktv (`src/syster.c`, `src/syster-ca.c`) and [tools/syster_vbi.py](../tools/syster_vbi.py). Results for the first 12,000 frames (8 minutes) of each tape are in [premiere1993/](premiere1993/).
+
+- **Line format confirmed.** NRZ at 284 fH (4.4375 MHz, 8 capture samples per bit), 28 bytes LSB first: sync `55 D0 18 6C`, a sequence byte, 21 data bytes, CRC-16 (polynomial 0xC003). A 33-tap linear equaliser trained on the sync bytes is enough on S-VHS: 47,964 and 47,956 of 48,000 lines pass the CRC.
+- **Block structure confirmed.** The sequence bytes run `73 9B 5E B6 49 A1 02 EA 15 FD`, four lines per frame, so one block of ten lines every 2.5 frames. All 4,740 and 4,768 complete blocks pass both XOR parity lines (`73`, `9B`) when the block starts at `73` as in hacktv's code (the comment in hacktv says it starts at `15`).
+- **Message 1** (lines `15 FD 02 EA`): flags `0x72` throughout (scrambled, Syster, audio inversion at 12.8 kHz, key table 1), audience 0, a 7-bit ECM index `c` with a 4-bit `ap` field, eight ECM bytes, one byte that does not match hacktv's checksum guess, and a 72-byte EMM.
+- **ECMs decrypt with hacktv's `premiere-ca` key `00 00 00 00 00 00 12 34`.** Even `c` carries the first ECM half, odd `c` the second; 64 pairs cycle. Every decrypted ECM has the structure hacktv expects: `00 00 07 05 | 01 01 00 00 | FF FF | date | 4 random bytes`. The random bytes form the control word (CW) for the line shuffle. The `premiere-fa` key does not give this structure.
+- **The date in the ECM reads 6 March 1993 (tape 1) and 15 March 1993 (tape 2)** when decoded with hacktv's date format (`0x8666`, `0x866F`). The tapes are labelled 1991, so they are probably from March 1993 (inferred; hacktv's date format is itself reverse-engineered).
+- **CW timing.** `ap` is 5 in most blocks; every 20 blocks (50 frames, 2 s) the pair `ap 1 / ap F` and 25 frames later `ap 1 / ap 0` announce the next ECM. In hacktv's model the CW is taken over at `ap 0` and the PRBS restarts every 25 frames; each PRBS step gives the shuffle parameters `s` (7 bits) and `r` (8 bits) of one field. The sample files list every CW change with the first `(s, r)` values.
+- **EMMs.** Most EMMs start `00 xx yy 40` (about 2,300 to 2,500 different `xx yy` values per 8 minutes, each sent two or three times), probably addressed to individual cards. Broadcast EMMs start `00 40 00 00` like hacktv's PPUA EMM. Empty slots carry the ASCII text `DUMMY EMM` padded with `FF`, which hacktv's dummy EMM imitates.
+- **Message 2** (lines `49 A1 5E B6`) differs from the later recording hacktv describes (`FE 28 B1`): byte 0 is `01`, `05`, `07`, `0B` or `7F`, byte 1 is `08`, and the EMM part is zero apart from four fixed `0x10` bytes.
+
+What this means for scrambled recordings: with the CW sequence from the VBI and hacktv's PRBS and key table, the line order of every field can be computed, so the picture of a scrambled VHS recording can in principle be put back in order without a decoder or card. The VBI capture holds no active video, so this has not been tested; the phase of the PRBS restart relative to the `ap 0` block (hacktv uses frame 6 and 31 of 50) has to be checked on a capture of the picture.
 
 ### 10.6 Static signals and a deck artefact
 
-- **Line 328 (row 24): already on ZDF in December 1979.** All three ZDF tapes from 1979 carry the static signal. From 1982 to 1986 it is present on many ARD/ZDF recordings; after 1986 it only appears on Premiere.
+- **Line 328 (row 24): already on ZDF in December 1979.** All three ZDF tapes from 1979 carry the static signal. From 1982 to 1986 it is present on many ARD/ZDF recordings. On Premiere, line 328 is Syster data (section 10.5), not this signal.
 - **Line 323 (row 19):** on ZDF 1986 and on SWF 3 (1990) and SWF (1997).
 - **Line 332 (row 28) is a property of the recording deck.** 98 of the 109 captures made with the HD630 deck show an unclassified signal on line 332 in 90–100% of frames. Only 5 of the 157 captures from other decks do. The line-332 observation in section 8 should therefore be treated with caution until checked against the deck used.
 - **Lines 17–19 and 330–332** are unclassified on a few tapes (ARD 1989). These are the CCIR insertion test signals.
@@ -354,7 +365,7 @@ Lines 14, 15, 327 and 328 are occupied by a signal in 96–100% of frames that i
 
 - Which service used IDL address `777777` with the messages `TIDXX` / `TIXXX` on ZDF and ARD 1996–97, and which receiver used RTL's seconds clock on line 329?
 - What do complete runs of `vt_equalise.py` over all 1980–83 tapes yield? So far only four minutes each of three tapes have been decoded.
-- What does the data on lines 14/15/327/328 of Premiere 1991 contain?
+- Does the CW sequence from the Premiere VBI unscramble the picture of the same recordings? This needs a capture of the active video and the PRBS phase check described in section 10.5.
 - What do the individual bits of data words 5, 6 and 8–10 mean (sound data, signal content, routing)? This needs the original ARD/ZDF/IRT specification of the data line.
 
 Contributions and pointers to original documentation are welcome.
