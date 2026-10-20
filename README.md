@@ -22,8 +22,8 @@ This repository documents what was found in 376 captures (a first batch of 110 a
 - **Early packet 8/30** with date and time in plain text. Together with teletext headers it helps date undated tapes.
 - **Static test signals** on lines 323 and 328 that flip polarity every frame; line 328 already on ZDF in 1979.
 - **The data line predates VPS:** it first appears in March 1983 with plain-text sources such as `HR1 FFTM`, `BR-MCHN1` and `SDR-TVS3`.
-- **Pre-standard teletext from the 1980 Videotext trial:** packet 8/30 with date and time from June 1980, a recurring M3 X/29 packet and a data channel (M7/31) in 1981.
-- **1990s data channels:** a common M8/31 channel on ARD and ZDF 1996–98, and an RTL data channel on line 329 in 1998.
+- **Pre-standard teletext from the 1980 Videotext trial:** packet 8/30 with date and time from June 1980. The apparent M3 X/29 and M7/31 packets of 1980–81 turned out to be non-teletext signals on line 20/333.
+- **1990s data channels:** an IDL Format A channel (address `777777`) on ARD and ZDF 1996–97 that only sends `TIXXX`/`TIDXX`, and a seconds clock (counted from 1 January 1992) from RTL on line 329 in 1998.
 
 ## Capture format
 
