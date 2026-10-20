@@ -186,7 +186,8 @@ Some tapes carry a different biphase signal on lines 16 and 329. It is the data 
   - This mapping is inferred from the recordings, not from a specification. The cleanest confirmation would be the picture of tape192_11 around 13 s.
   - The remaining five bits of byte 4 are `00000` in the old 40-bit form and `11111` in the 1989–90 form, like the other filler bytes.
 - **Bytes 2, 3 and 5** are constant per period (`00 FF` in the 1980s, `FF FF … FF` in 1989–90). They are probably unused or reserved.
-- **Bit 4 of byte 1** (`1010 0000` vs `1010 1000`) changes only in isolated single frames, with no pattern, and almost never on the clean 1989 recording. This is a decoding uncertainty on noisier tapes, not a status flag as assumed earlier.
+- **Bit 4 of byte 1 is a deliberate biphase code violation, i.e. a sync mark, not a data bit.** Unlike every other bit it has no transition in the middle: the soft value (first half minus second half) averages −0.02 with a spread of 0.10, against ±0.4 to ±0.8 for all other bits (tape192_04, 2,373 lines). The signal simply stays high for a whole bit period (the long plateau at about 17 µs in the plot). A biphase decoder therefore reads it as 0 or 1 at random: on line 16 and line 329 of the same frame the readings are statistically independent, and there is no correlation from frame to frame. On the cleanest recording (DDR1 1989) the reading happens to be stable.
+- **No other bit ever carries information.** Across all 121,000 decoded East German lines (7 recordings), every bit except the programme number and the sync mark keeps its fixed value on more than 99.5 % of lines of the clean recordings. The only joint deviations on both lines 16 and 329 occur in a few frames around channel switches in the MKB cable recording and in the first 33 frames of tape192_11. There the bits towards the end of the line turn into runs of 0 while the tuner settles, which is a reception effect.
 
 The exact specification (presumably by the Rundfunk- und Fernsehtechnisches Zentralamt of the Deutsche Post der DDR) was not found.
 
@@ -349,7 +350,6 @@ Lines 14, 15, 327 and 328 are occupied by a signal in 96–100% of frames that i
 - What are the M8/31 channel of ARD/ZDF 1996–98 (head `a1 38 2f 2f`), the M2/31 channel of RTL 1998 and the M7/31 channel of ARD 1981?
 - What is the M3 X/29 packet (head `00 c8 20 d8`) of the 1980–81 Videotext trial?
 - What does the data on lines 14/15/327/328 of Premiere 1991 contain?
-- Do the remaining bits of the East German data line ever carry anything other than filler?
 - What do the individual bits of data words 5, 6 and 8–10 mean (sound data, signal content, routing)? This needs the original ARD/ZDF/IRT specification of the data line.
 
 Contributions and pointers to original documentation are welcome.
