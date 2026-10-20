@@ -42,13 +42,11 @@ def line_ok(by):
 
 
 def timing(r):
-    best = None
-    for off in np.arange(100, 150, 0.25):
-        v = np.interp(off + SPB * np.arange(32), np.arange(2048), r)
-        c = np.corrcoef(v, SYNCBITS)[0, 1]
-        if best is None or c > best[0]:
-            best = (c, off)
-    return best[1]
+    offs = np.arange(100, 150, 0.25)
+    v = np.interp(offs[:, None] + SPB * np.arange(32), np.arange(len(r)), r)
+    v = v - v.mean(1, keepdims=True); s = SYNCBITS - SYNCBITS.mean()
+    c = (v @ s) / (np.sqrt((v * v).sum(1)) * np.sqrt((s * s).sum()) + 1e-9)
+    return offs[int(np.argmax(c))]
 
 
 def feats(r, off, n=224):
@@ -72,13 +70,11 @@ def slice_line(r, w):
     return X, bits, by, line_ok(by)
 
 
-def cmd_train(a):
-    arr = np.load(a.lines, mmap_mode='r')
-    L = [feats(r, timing(r)) for f in range(min(a.frames, arr.shape[0]))
-         for r in np.array(arr[f]).astype(float)]
+def fit(L, iters=4, log=print):
+    """Train the equaliser on sync bits, then decision-directed on CRC-valid lines."""
     w = np.linalg.lstsq(np.vstack([X[:32] for X in L]),
                         np.concatenate([SYNCBITS * 2. - 1] * len(L)), rcond=None)[0]
-    for it in range(4):
+    for it in range(iters):
         XS, YS, good = [], [], 0
         for X in L:
             y = X @ w; bits = (y > 0).astype(int)
@@ -89,8 +85,15 @@ def cmd_train(a):
             else:
                 XS.append(X[:40]); YS.append(bits[:40] * 2. - 1)
         w = np.linalg.lstsq(np.vstack(XS), np.concatenate(YS), rcond=None)[0]
-        print('iteration %d: %d of %d lines pass the CRC' % (it, good, len(L)))
-    np.save(a.weights, w)
+        log('iteration %d: %d of %d lines pass the CRC' % (it, good, len(L)))
+    return w
+
+
+def cmd_train(a):
+    arr = np.load(a.lines, mmap_mode='r')
+    L = [feats(r, timing(r)) for f in range(min(a.frames, arr.shape[0]))
+         for r in np.array(arr[f]).astype(float)]
+    np.save(a.weights, fit(L))
 
 
 def cmd_decode(a):

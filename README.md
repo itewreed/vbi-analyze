@@ -48,6 +48,7 @@ Python 3 with `numpy` and `numba` (plus `matplotlib` for plots). Install them wi
 | [tools/dz.py](tools/dz.py) | `dz.py <survey-root>`: decodes all 15 words of data lines 16/329 per tape (see [docs/data-line-words.txt](docs/data-line-words.txt)) |
 | [tools/p830.py](tools/p830.py) | `p830.py <survey-root>`: majority-vote text of the early packet 8/30 |
 | [tools/syster_vbi.py](tools/syster_vbi.py) | `syster_vbi.py train/decode/blocks`: Nagravision Syster VBI decoder for Premiere (lines 14/15/327/328): slicer with CRC check, block and parity check, ECM decryption and control words using the hacktv sources |
+| [tools/syster_descramble.py](tools/syster_descramble.py) | `syster_descramble.py vbi/apply/search`: descrambles a Syster TBC (vhs-decode) from its own VBI data: CW takeovers from the ECMs, hacktv PRBS and line order, optional keyless search over all 32,768 orders |
 | [tools/vt_equalise.py](tools/vt_equalise.py) | `vt_equalise.py train/decode/pages`: equalising teletext slicer with decision feedback for heavily low-passed VHS recordings; assembles voted pages as text and PNG |
 | [tools/slipcheck.py](tools/slipcheck.py) | `slipcheck.py <survey-dir> <mag> <packet> [n]`: re-frames packets by ±1–2 bits to expose bit-slip artefacts |
 | [tools/special.py](tools/special.py) | `special.py <survey-dir> <mag> <packet> [n]`: dumps teletext packets of one type |

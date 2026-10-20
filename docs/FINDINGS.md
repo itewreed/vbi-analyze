@@ -352,7 +352,19 @@ Lines 14, 15, 327 and 328 carry the access data of Nagravision Syster in every f
 - **EMMs.** Most EMMs start `00 xx yy 40` (about 2,300 to 2,500 different `xx yy` values per 8 minutes, each sent two or three times), probably addressed to individual cards. Broadcast EMMs start `00 40 00 00` like hacktv's PPUA EMM. Empty slots carry the ASCII text `DUMMY EMM` padded with `FF`, which hacktv's dummy EMM imitates.
 - **Message 2** (lines `49 A1 5E B6`) differs from the later recording hacktv describes (`FE 28 B1`): byte 0 is `01`, `05`, `07`, `0B` or `7F`, byte 1 is `08`, and the EMM part is zero apart from four fixed `0x10` bytes.
 
-What this means for scrambled recordings: with the CW sequence from the VBI and hacktv's PRBS and key table, the line order of every field can be computed, so the picture of a scrambled VHS recording can in principle be put back in order without a decoder or card. The VBI capture holds no active video, so this has not been tested; the phase of the PRBS restart relative to the `ap 0` block (hacktv uses frame 6 and 31 of 50) has to be checked on a capture of the picture.
+What this means for scrambled recordings: with the CW sequence from the VBI and hacktv's PRBS and key table, the line order of every field can be computed. Section 10.7 confirms this on a capture of the picture of a Teleclub recording.
+
+### 10.7 Teleclub (VHS, 25 March 1991): picture descrambled from its own VBI data
+
+A Teleclub recording (`tape506_10_teleclub_encrypted_1991-03-25`, VHS, captured with vhs-decode as a TBC) uses the same Syster line format, block layout and ECM structure as Premiere. The ECMs decrypt with the same `premiere-ca` key and carry the date 18 March 1991. With the VBI data of the recording itself the picture of every field is put back in order ([tools/syster_descramble.py](../tools/syster_descramble.py)); left a scrambled frame, right the same frame after descrambling (luma only):
+
+![Teleclub 1991, scrambled and descrambled](images/teleclub_1991_descrambled.png)
+
+- **Slicing from the TBC.** The Syster rows are 13 and 14 of each 313-row field (lines 14/15 and 327/328), sampled at 4fsc (about 4 samples per bit). Resampled to the bttv grid, `syster_vbi.py` slices them; on this VHS capture about 55–65% of the lines pass the CRC, which is enough because every ECM is sent several times.
+- **Keyless descrambling works.** For each field all 32,768 `(s, r)` pairs of hacktv's line-order model were tried; the order that gives the smallest line-to-line difference wins clearly (about 2,000 against 4,500–5,000 for the next best and the scrambled field). This alone restores the picture without any key or card, as described by Markus Kuhn in 1998.
+- **hacktv's PRBS model is right.** From the `(s, r)` found on eight consecutive fields, a GF(2) solve over all 2^29 values of the second register gives exactly one solution, and the register contents at each restart are `sr2 = 0x0A0E0000` (from the constant ECM bytes `00 00 07 05`) and `sr1` = the four random ECM bytes, as in hacktv's `encrypt_syster_cw`. Between restarts the PRBS steps once per field.
+- **CW timing (measured, not hacktv's guess).** Every 25 frames the block in line 14 of one frame carries an odd ECM index `c` with `ap = f` (announcement); 25 frames later the same `c` comes with `ap = 0` (takeover). Counting frames from a first field and calling the frame of the `ap = 0` block F, the PRBS restarts with the new CW at field 2F+3 and again at field 2F+53; the next takeover follows 50 frames later with `c` + 2. The restart field is one that vhs-decode flags as a second field. With this rule all 363 fields after the first restart in a 400-field excerpt descramble correctly from the VBI data alone. Premiere shows the same `ap f` / `ap 0` rhythm (section 10.5).
+- **Tool.** `syster_descramble.py vbi` writes the takeover list (missing `ap 0` blocks are filled from the 50-frame rhythm), `apply` writes a descrambled `.tbcy` (and optionally `.tbcc`) with the same layout; fields without a CW can be searched keylessly with `--search`. Only the samples after the colour burst are moved, as in hacktv for PAL. The chroma part has not been checked yet.
 
 ### 10.6 Static signals and a deck artefact
 
@@ -365,7 +377,7 @@ What this means for scrambled recordings: with the CW sequence from the VBI and 
 
 - Which service used IDL address `777777` with the messages `TIDXX` / `TIXXX` on ZDF and ARD 1996–97, and which receiver used RTL's seconds clock on line 329?
 - What do complete runs of `vt_equalise.py` over all 1980–83 tapes yield? So far only four minutes each of three tapes have been decoded.
-- Does the CW sequence from the Premiere VBI unscramble the picture of the same recordings? This needs a capture of the active video and the PRBS phase check described in section 10.5.
+- Do the descrambled chroma (`.tbcc`) and the whole Teleclub tape decode cleanly with ld-chroma-decoder? Only a 400-field luma excerpt has been checked (section 10.7).
 - What do the individual bits of data words 5, 6 and 8–10 mean (sound data, signal content, routing)? This needs the original ARD/ZDF/IRT specification of the data line.
 
 Contributions and pointers to original documentation are welcome.
