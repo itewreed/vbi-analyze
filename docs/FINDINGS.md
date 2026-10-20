@@ -239,12 +239,16 @@ So lines 323 and 328 were teletext lines by late 1988. On earlier tapes, and on 
 
 ## 9. Other unusual teletext content
 
-- **M5 X/27 on lines 14/327, ARD 1988 (tape176_01):** 228 packets whose payload consists almost entirely of the characters `0` and `8` (`6d7bbbb8 b0b0b8b8…`).
-  - Only one bit per byte carries information; the other bits stay fixed.
-  - This matches no known X/27 structure. It may be a slow data channel or a trial. Not resolved.
-- **M1 X/28 on line 328, ZDF/ARD 1985 (tape157_01, tape195_01):** about 180 packets with header `fd 01/02 56 ab`.
-  - A block repeats within each packet: `342b2e2c d05f01fa 2f00f57f`.
-  - It predates the final X/28 specification and has not been decoded.
+- **M5 X/27 on lines 14/327, ARD 1988 (tape176_01): a decoding artefact.**
+  - All 226 packets with a clean address carry the same address bytes `b6 b6`. The payload alternates between `b0` and `b8`.
+  - Shifted by one bit, `b0`/`b8` become `58`/`5c`. These are the characters `X` and `\` (`Ö` in the German set), which in graphics mode form a mosaic bar.
+  - Rows made of exactly these characters occur on many ordinary pages of the same recording (pages 102 to 611, e.g. row 23 of page 106), on all teletext lines.
+  - A row consisting of one repeated byte is periodic every 8 bits, so the demodulator can lock onto the wrong bit position. Of the 2,445 packets with this X/Ö pattern, 1,971 have an invalid address and 223 come out as "M5/27".
+  - So these are normal graphics rows, not a data channel. The flickering bit is a marginal bit of the VHS recording.
+- **M1 X/28 on line 328, ZDF/ARD 1985 (tape157_01, tape195_01): the static line-328 test signal, not teletext.**
+  - The packets occur only on line 328, which the same captures classify as the static, polarity-flipping signal of section 8 in 54–86 % of frames.
+  - Their content is the same in every frame (52 of the 106 packets on tape195_01 are byte-identical), and the block `342b2e2c d05f01fa 2f00f57f` repeats within the packet. Shifted by two bits, every byte has perfect odd parity. That is what a fixed waveform looks like when a teletext slicer reads it, not data.
+  - The teletext demodulator matches this waveform in only a few frames, so the "M1/28" address is an accident. The M2 X/26 packets on line 328 in 1983 (section 10.3) are most likely the same effect.
 - **X/26–X/29 on ARD, Sat.1, ZDF and RTL 1992–1995:** ordinary enhancement packets (national characters, page links, page attributes). This is regular teletext.
 - **tape188_01 (unknown, possibly Sat.1):** only pages 100, 111 and 199 with the header `VIDEOTEXT-TESTSEITE` ("teletext test page"), so a test transmission.
 - **tape194_01 (SFB):** the header reads `S199 SFB/ZENTRALE 2 … ARD/ZDF`. This is an internal feed of SFB's teletext centre, not a broadcast.
@@ -299,7 +303,7 @@ The test cycle ("11.05. 10:xx" plus the special codes in 5-minute blocks) appear
 - **M3 X/29 on lines 20 and 333, 1980–81.** 18 tapes carry 30–110 packets each of magazine 3, packet 29, with the head bytes `00c820d8` (and variations `20c820d8`, `00c820f8`). They always sit on lines 20 and 333. The structure is constant, so this is probably a pre-standard magazine-related packet, not data. It is not decoded.
 - **M7 X/31 on line 20, 1981 (tape047_01, 1981-08-09):** 116 packets of magazine 7, packet 31, with changing content. This is a data channel inside teletext six years before the standard for Independent Data Lines.
 - **M4 X/30 (tape071_01, 1980-09-12)** and **M8 X/30 with binary content (1982):** in 1982 the 8/30 packets of tape090_01, tape092_01, tape099_02 and tape114_01 carry no readable text, only a repeating binary structure.
-- **M6 X/27 on line 20 (1982–84)** with irregular content (tape092_01, tape106_01, tape089_01), and **M2 X/26 on line 328 (tape128_01, 1983).** Not decoded.
+- **M6 X/27 on line 20 (1982–84)** with irregular content (tape092_01, tape106_01, tape089_01), and **M2 X/26 on line 328 (tape128_01, 1983).** The latter sits on the static line-328 signal and is most likely a misreading of it (see section 9). The M6 X/27 packets are not decoded.
 - **Some 1980–81 tapes have lines 20 and 333 only partly classified.** These lines carry teletext that is too weak to decode on every frame.
 
 ### 10.4 Data channels in teletext, 1996–98
@@ -329,7 +333,6 @@ Lines 14, 15, 327 and 328 are occupied by a signal in 96–100% of frames that i
 - What does the data on lines 14/15/327/328 of Premiere 1991 contain?
 - Where does the 1 Mbit/s biphase signal on lines 16/329 come from, and what do its bits mean?
 - What do the individual bits of data words 5, 6 and 8–10 mean (sound data, signal content, routing)? This needs the original ARD/ZDF/IRT specification of the data line.
-- What are the M5 X/27 "0/8" packets (ARD 1988) and the early M1 X/28 packets (ZDF 1985)?
 
 Contributions and pointers to original documentation are welcome.
 
