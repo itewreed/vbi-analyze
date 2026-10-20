@@ -319,8 +319,9 @@ The test cycle ("11.05. 10:xx" plus the special codes in 5-minute blocks) appear
 45 tapes from 1980 and 36 from 1981 cover the first months of the ARD/ZDF Videotext trial.
 
 - **Packet 8/30 with date and time from June 1980.** tape029_01 shows `VT 180 ARD/ZDF Sa 7 Jun 20:14`, and tape079_02 shows `VT110 ARD/ZDF Fr 11 Jul 23.14:28` (both weekdays match 1980).
-- **"M3 X/29" on lines 20 and 333, 1980–81, is not a teletext packet.** 18 tapes show 30–110 hits each with the head bytes `00c820d8` (variations `20c820d8`, `00c820f8`). A bit-level look at tape005_01 and tape029_01 shows no clock run-in (the line starts `0000 1111 1111 1111 1`, not `1010…`), then about 15 bytes of a fixed pattern, then a strictly periodic `11111110` / `11111100` pattern (bytes 0x7f/0x3f) up to the end of the line. Neither odd parity nor Hamming 8/4 holds at any bit offset. This is a periodic non-teletext waveform on lines 20/333 in which the slicer occasionally finds the framing code 0x27; the "M3/29" address is a coincidence of that pattern. Which signal it is (a test or insertion signal of the trial) cannot be told from the packet data.
-- **"M7 X/31" on line 20, 1981 (tape047_01, 1981-08-09), is not a data channel.** The 116 hits (irregular, about one every 250 frames, rows 13/29/30) have a correct run-in and framing code, but none of the following bytes passes odd parity or Hamming 8/4, at any bit offset from −8 to +8. Some byte positions repeat (`03 d1 77 00 00 59 00 c0`), the rest changes from hit to hit. This is a non-teletext signal on line 20 that occasionally passes the framing check, not an early IDL channel.
+- **"M3 X/29" (1980–81) and "M7 X/31" (1981) on lines 20 and 333 are misread Videotext.** The raw waveform (tape005_01, tape029_01, tape047_01, frames 0–5999) shows teletext-shaped data on lines 19, 20, 21, 329, 333 and 334 in 96–100% of frames: a block of about 50 µs starting 3 µs into the line, with the 6.9375 Mbit/s bits strongly low-pass filtered by the VHS recording. The run-in shows only as a raised plateau, because its 3.47 MHz fundamental is above the VHS luma bandwidth. That is why the survey slicer saw no `1010…` run-in. The long periodic stretches (one pulse every 1.15 µs, i.e. every 8 bits) are rows of spaces: 0x20 has a single 1 bit per byte. Bit errors turned them into the bytes 0x7f/0x3f. A simple adaptive slicer on these lines finds ordinary page rows (packets 0–24 in magazines 1–6) and German text fragments ("ZDF", "sich", "NAGH…"). The "M3/29" and "M7/31" addresses are therefore wrong decodes of normal Videotext rows. The fixed byte pattern of the hits comes from recurring page rows, not from a separate signal.
+
+![Lines 20/333 in 1980–81](images/line20_1980_teletext.png)
 - **M4 X/30 (tape071_01, 1980-09-12)** and **M8 X/30 with binary content (1982):** in 1982 the 8/30 packets of tape090_01, tape092_01, tape099_02 and tape114_01 carry no readable text, only a repeating binary structure.
 - **M6 X/27 on line 20 (1982–84)** with irregular content (tape092_01, tape106_01, tape089_01), and **M2 X/26 on line 328 (tape128_01, 1983).** The latter sits on the static line-328 signal and is most likely a misreading of it (see section 9). The M6 X/27 packets are not decoded.
 - **Some 1980–81 tapes have lines 20 and 333 only partly classified.** These lines carry teletext that is too weak to decode on every frame.
@@ -348,7 +349,7 @@ Lines 14, 15, 327 and 328 are occupied by a signal in 96–100% of frames that i
 ## 11. Open questions
 
 - Which service used IDL address `777777` with the messages `TIDXX` / `TIXXX` on ZDF and ARD 1996–97, and which receiver used RTL's seconds clock on line 329?
-- Which non-teletext signals sat on lines 20/333 of ARD in 1980–81? This needs the raw waveform rather than sliced bytes.
+- Can a better slicer (equaliser for the VHS low-pass) recover the 1980–81 Videotext pages on lines 19–21 and 329–334?
 - What does the data on lines 14/15/327/328 of Premiere 1991 contain?
 - What do the individual bits of data words 5, 6 and 8–10 mean (sound data, signal content, routing)? This needs the original ARD/ZDF/IRT specification of the data line.
 

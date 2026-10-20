@@ -17,8 +17,8 @@ nibbles 14..20 = 28-bit seconds since 1992-01-01 (0x0B4DAF82 = 1998-01-03 21:56:
 Kabel 1 tape165_03 1998-01-25, "M8/31": filler, all 0x20
 50 17 555527d0ea20202020202020202020202020202020202020202020202020202020202020202020202020202020
 
-ARD tape047_01 1981-08-09, "M7/31", row 13 (line 20): no parity or Hamming at any bit offset
+ARD tape047_01 1981-08-09, "M7/31", row 13 (line 20): misread Videotext row (raw waveform is teletext, VHS low-pass)
 433 13 555527eaea4300084009004a2a115118004011c0176a424203d17700005900c0ba23001050d610985a90100000
 
-ARD tape005_01 1980-06-03, "M3/29", rows 13/29 (lines 20/333): no run-in, periodic 0x7f/0x3f tail
+ARD tape005_01 1980-06-03, "M3/29", rows 13/29 (lines 20/333): misread Videotext row; the 0x7f/0x3f tail is a row of spaces (0x20) after bit errors
 331 13 e8bf279bfd00c820d82182204620fb21ce20db937f7f7f7f7f7f7f7f7f7f7f7f7f7f7f7f7f7f3f7f7f7e7f7f7f
