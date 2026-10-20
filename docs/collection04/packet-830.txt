@@ -1,0 +1,30 @@
+# Collection 04: majority-vote text of packet 8/30 (output of tools/p830.py)
+# Format: tape, number of packets, |majority text|, then the first and last packet seen.
+# Non-ASCII characters are the German national-option rendering of the raw bytes.
+
+coll04_tape029_01_ard_1980-06-07_sp 6 |jdI I  VT 180 ARD/ZDF Sa  7 Jun 2024:14 |
+   first: |j I I  VT 181 ARD/ZDF Sa  7 Jun 2020:04 |  last: |jd^ I  VT 120 ARD/ZDF Sa  7 Jun 2034:24 |
+coll04_tape045_02_ard_1982-01-05_sp 16 |js 8 d V*201 A2DoZJF Di  5!*bn 16.19:1§ |
+   first: |ja%^u U5B§BAA §BAB§B!$§!°bbdbdbddebdbdbb|  last: |jG 8 d V*2P1 A2DoZJF Di  u!Jbn 16.19:59 |
+coll04_tape079_02_ard_1980-07-11_sp 11 |jd ^I  VT110 ARD/ZDF Fr 11 Jul 23.14:28 |
+   first: |jd ^K  VT111 ARD/ZDF Fr 11 Jul 23.14:21 |  last: |j ^^I  VT100 ARD/ZDF Fr 11 Jul 23.30:28 |
+coll04_tape089_01_ard_1984-02-21_sweep_sp 7 |j  8Id !86  RD/ZDF  i 21.02.84 20.14:16 |
+   first: |j  8I  !4P  RD/ZDF  i 2!.02.84 2 .06:13 |  last: |j  rId !8v AUD/ZDF Di 21.P5.84 20n54:P5 |
+coll04_tape090_01_ard_1982-10-01_sp 43 |.euÜ_Üj*Uj%§§ÄÜÜÜkm_m§BÄmVoZÜ^§kj§§§Ü§§§|
+   first: |.,+Z+ÜjÄmmÄmÄÄ=ÜÜkm?B  ÄmVoVÜ^Jkj■ÜÜÜowo|  last: |.DKuVmÄoVUZm%TmÜUZoÜnÜ=ÜÜ^Ü^^^^^^^^^^kq_|
+coll04_tape092_01_ard_1982-07-24_sp 14 |.kKÜVmÄ*Uj%§§TmÜJlk^VÜÜyÜÜÜ^Ü^ÜÜÜÜÜÜÜk§^|
+   first: |. KvVmÄoVUVm%Tm^JlkÜVÜÜ=Ü^ÜÜÜ^^Ü^ÜÜÜ^k2^|  last: |.kuÜ_^A*Uj%§§*mÜKjJRjÜB$KvVmÜBZE§ §§§§§§|
+coll04_tape099_02_ard_1982-10-07_sweep_sp 6 | -UZ+ÜjÄmmÄmÄYÜÜÜkj_A§ ÄmUoVÜ^ kj_ÜÜÜww§|
+   first: | -+Z+ÜjWmmÄmÄÜÜÜÜkm_A§ ÄmZoVÜ> kj_ÜÜÜwwW|  last: |ja%^u=U5B§!DA  $    §!§A°jbjbjbjjjbjjjbj|
+coll04_tape114_01_ard_1982-05-30_sp 21 |.buÜ_^A*Uj%§§nUkUkmUVBVnBjjnVÜB§^^§§Ü§§§|
+   first: |.D■BUvnBnu-v%Z§i%§e>B§eeA§juA§juK vkA vw|  last: |.4 -"TUWoV%n■WUZÜkj^A§ ämÜk^VÜ=ÜÜ^=Ü^w_^|
+coll04_tape158_01_zdf_1996-07-31_hd630_lp 95 |jd    G318 ARD/ZDF Mi 31.07.96 19:36:53 |
+   first: |js    G708 ARD/ZDF Mi 31.07.96 19:26:10 |  last: |js   dG784 ARD/ZDF Mi 31.07.96 19:40:58 |
+coll04_tape158_04_pro7_1996-09-28_hd630_lp 88 |jP   dG702 ProSieben 28.09.    20:04:36 |
+   first: |j    dG109 ProSieben 28.09.    20:01:36 |  last: |jP   dG120 ProSieben 28.09.    20:16:17 |
+coll04_tape165_02_pro7_1998-02-19_hd630_sp 218 |jj/j^ G721 ProSieben Do 19 Feb 17:33:32 |
+   first: |jj/j^ G301 ProSieben Do 19 Feb 17:33:21 |  last: |jj/j^ G748 ProSieben Do 19 Feb 17:33:33 |
+coll04_tape165_03_kabel1_1998-01-25_hd630_sp 872 |   jjj^     I*6B   jINFOTEXT            |
+   first: |   jjj^     I*&Y   jINFOTEXT            |  last: |   jjj^     I*AV   jINFOTEXT            |
+coll04_tape167_02_ard_1993-12-27_hd630_lp 879 |       NI  $Y4# TVPRABCDEFG504 95 439251|
+   first: |       NI  $Y4 4TVP*BECDEFW504 :5 438143|  last: |       NI  $Y43eTVPRABCDEFG504 95 433356|

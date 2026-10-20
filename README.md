@@ -1,6 +1,6 @@
 # vbi-analyze
 
-Analysis of the vertical blanking interval (VBI) of German TV broadcasts from 1981 to 1995, recovered from VHS tapes.
+Analysis of the vertical blanking interval (VBI) of German TV broadcasts from 1979 to 1998, recovered from VHS tapes.
 
 Besides ordinary teletext, the VBI of that era carried data that viewers never saw:
 
@@ -9,7 +9,7 @@ Besides ordinary teletext, the VBI of that era carried data that viewers never s
 - early, pre-standard teletext packets;
 - several **measurement signals**.
 
-This repository documents what was found in 110 captures and contains the tools used to find it.
+This repository documents what was found in 376 captures (a first batch of 110 and a second batch, "collection 04", of 266) and contains the tools used to find it.
 
 **→ Read the findings: [docs/FINDINGS.md](docs/FINDINGS.md)**
 
@@ -20,7 +20,10 @@ This repository documents what was found in 110 captures and contains the tools 
 - **A second, unidentified 1 Mbit/s biphase signal** on lines 16/329. It appears on an early-1980s West German recording and on East German DDR1/DFF in 1989/90.
 - **Data channels in teletext:** the GIS financial feed on ProSieben 1990 (see [gis-financefeed-vbi-decoder](https://github.com/itewreed/gis-financefeed-vbi-decoder)) and further independent data lines on ProSieben and RTL.
 - **Early packet 8/30** with date and time in plain text. Together with teletext headers it helps date undated tapes.
-- **Static test signals** on lines 323 and 328 that flip polarity every frame.
+- **Static test signals** on lines 323 and 328 that flip polarity every frame; line 328 already on ZDF in 1979.
+- **The data line predates VPS:** it first appears in March 1983 with plain-text sources such as `HR1 FFTM`, `BR-MCHN1` and `SDR-TVS3`.
+- **Pre-standard teletext from the 1980 Videotext trial:** packet 8/30 with date and time from June 1980, a recurring M3 X/29 packet and a data channel (M7/31) in 1981.
+- **1990s data channels:** a common M8/31 channel on ARD and ZDF 1996–98, and an RTL data channel on line 329 in 1998.
 
 ## Capture format
 

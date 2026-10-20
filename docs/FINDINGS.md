@@ -1,6 +1,6 @@
-# Findings: what German TV broadcasts carried in the VBI besides teletext (1981–1995)
+# Findings: what German TV broadcasts carried in the VBI besides teletext (1979–1998)
 
-This document summarises an analysis of 110 raw VBI captures from VHS recordings of German TV channels between 1981 and 1995.
+This document summarises an analysis of 376 raw VBI captures from VHS recordings of German TV channels between 1979 and 1998: a first batch of 110 captures (1981–1995, sections 3–9) and a second batch of 266 captures (1979–1998, section 10).
 The focus is on everything that is **not** ordinary teletext meant for TV sets: the line-16/329 data lines, VPS, data channels hidden inside teletext, early packet formats, and static measurement signals.
 
 Contents:
@@ -14,8 +14,9 @@ Contents:
 7. [Early packet 8/30 and dating tapes](#7-early-packet-830-and-dating-tapes)
 8. [Static measurement signals](#8-static-measurement-signals)
 9. [Other unusual teletext content](#9-other-unusual-teletext-content)
-10. [Open questions](#10-open-questions)
-11. [Sources](#11-sources)
+10. [Collection 04: 266 further captures (1979–1998)](#10-collection-04-266-further-captures-19791998)
+11. [Open questions](#11-open-questions)
+12. [Sources](#12-sources)
 
 ## 1. Capture format and line numbering
 
@@ -220,7 +221,7 @@ The old "VTxxx ARD/ZDF" header style suggests the earlier year in each case.
 - The 42-byte content is the same in every frame.
 - It is probably also a test line.
 
-**Line 332 (row 28), ARD 1988/89.** A white line containing a black pulse whose position changes ([plot](images/line332_ard_1988.png)). Its purpose is unknown.
+**Line 332 (row 28), ARD 1988/89.** A white line containing a black pulse whose position changes ([plot](images/line332_ard_1988.png)). Its purpose is unknown. Section 10.6 shows that line 332 is mostly a property of the HD630 recording deck, so this may be a deck artefact.
 
 **Lines 17/18 and 330/331.** These are the standard CCIR insertion test signals.
 - Per the source, the test lines for 17 and 330 are inserted at the programme source ("source test line") and again at the transmitter in 18 and 331 ("section test line").
@@ -247,16 +248,90 @@ So lines 323 and 328 were teletext lines by late 1988. On earlier tapes, and on 
 - **tape194_01 (SFB):** the header reads `S199 SFB/ZENTRALE 2 … ARD/ZDF`. This is an internal feed of SFB's teletext centre, not a broadcast.
 - **RTL 1988 (tape154_01):** teletext on many lines in both fields, but the headers are heavily corrupted. The apparent hex pages 2Cx are most likely decoding errors.
 
-## 10. Open questions
+## 10. Collection 04: 266 further captures (1979–1998)
 
-- What do the M5/31 data channels on ProSieben and RTL contain?
+A second batch of 266 captures (about 170 GB of FLAC) was processed with the same tools.
+It reaches further back (ZDF 1979, ARD 1980–81) and further forward (ARD, ZDF, HR, SWF, ProSieben, Kabel 1, RTL 1996–98, Premiere 1991).
+Raw results: [tape overview](collection04/tape-overview.txt), [data-line words](collection04/data-line-words.txt), [packet 8/30](collection04/packet-830.txt).
+
+### 10.1 The data line existed before VPS, in March 1983
+
+The batch shows when the data line on lines 16/329 first appears.
+
+- **No data line on any of the 30 tapes from 1982.** The first one is tape105_01 (ARD, 1983-03-15) with the source text `HR1 FFTM` (HR 1, Frankfurt am Main) on both lines 16 and 329.
+- **Early plain-text sources, 1983–85.** All with the "empty" VPS label (CNI FFF):
+
+| Tape | Date | Word 3 | Word 4 text (line 16) | Meaning |
+|---|---|---|---|---|
+| tape105_01 | 1983-03-15 | f8 | `HR1 FFTM` | HR 1 Frankfurt |
+| tape107_02 | 1983-04-23 | 04 | `BR` (weak signal) | BR |
+| tape083_01 | 1983-07-09 | e1 | ` 8 SWF  ` | SWF |
+| tape106_01 | 1984-02-10 | 04 | `BR-MCHN1` | BR Munich 1 |
+| tape089_01, tape142_02, tape147_01 | 1984 | 08 | `HR3 FFTM` | HR 3 (third programme) Frankfurt |
+| tape051_01 | 1984-10-09 | 04 | `N3BR-MCH` | BR Munich, with "N3" |
+| tape150_01 | 1984-07-29 | 9e | `SDR-TVS3` | SDR Stuttgart |
+
+- **The 4-bit source code sits in the low nibble of word 3.** The high nibble varies (0, 8, 9, e, f), while the low nibble matches the codes found in the first batch: 1 SWF, 4 BR, 5 ZDF, 6 SFB, 8 HR, 9 WDR, A SR, C NDR, E SDR.
+  - Newly confirmed in this batch: `SAARL*RF` with code A (tape165_01, 1998; tape167_01, 1994), `SDR*STGT` with code E (1990–97), `SFB*BLN1` with code 6 (1988).
+  - Private broadcasters use code 0 (RTL `RTLKOELN`, Sat.1 `SAT1*LU1`, Premiere `PREMIERE`) or 3f/ff (ProSieben `PRO 7`, Kabel 1 `KABEL 1`).
+- **Line 329 on ARD: `HR1 FFTM` as the section, 1983–1993.** On almost all ARD recordings line 329 carries `HR1 FFTM` with word 3 = f8, whatever regional broadcaster is named on line 16 (NDR, WDR, SFB, SDR, BR …). The recording location was evidently in the HR area, and HR inserted its own section identification. On the HR third programme (HR 3) both lines carry `HR3 FFTM`.
+- **Line 329 from 1990: `DBP-1`.** HR 3 (1990, 1996–97), SWF 3 (1990), SWF (1997) and Sat.1 (1994) carry `DBP-1` on line 329 with word 3 = 03; ZDF carries `DBP-1` with word 3 = 23 (1988–1997).
+- **`DBP-FTZ` with the `Hartmann` cycle in word 15** is confirmed on ZDF from December 1985 to March 1986 (word 3 = cb; c4 on one BR recording). `DBP 2` (word 3 = 0b, word 7 = 8 × 0x16) appears on ZDF in late 1986.
+- **Word 7 fillers:** mostly 8 × 0x00 or 8 × 0x7F. Other fillers are 8 × 0x16 (ZDF line 329, 1986–1990), 8 × 0x10 (HR, 1985-12-23) and `99999999` (WDR 1989, NDR 1988). The last two coincide with words 9/10 = b2/76 or b2/77 instead of the usual ff/ff, so those recordings carried a routing value in words 8–10.
+- **Other source texts:** `WDR*ZUBR` (WDR feed line) in 1990–91, `NDR HMBG` 1986–88, `****BR**` with word 3 = ff (1986), and `*B***S**` with word 3 = 81 (ARD 1993, unexplained).
+
+### 10.2 The VPS test cycle on more tapes, 1983–85
+
+The test cycle ("11.05. 10:xx" plus the special codes in 5-minute blocks) appears on 23 more tapes, from 1983-08-13 (tape131_03) to 1985-03-09 (tape148_01).
+
+- Until 1984 word 3 is 0a (code A) with the text `ZDF`; words 6/8/10 are aa and words 9/15 are 55, exactly as in the first batch.
+- In March 1985 the code changes to 05 and the text to `*ZDF*` (tape148_01, tape148_04).
+- **tape136_02 (1984-01-01)** runs the same cycle with CNI DC1 (ARD), word 3 = 06 and the text `ARD-ZDF`. **tape148_05 (1984-07-28)** also shows the cycle with CNI DC1.
+- In this batch the first real programme labels appear in December 1985 (there are no tapes from April to November 1985) (tape154_02 HR `23.12. 14:20`, tape154_01 ZDF `26.12. 20:15`).
+
+### 10.3 Teletext in 1980–81: pre-standard packets
+
+45 tapes from 1980 and 36 from 1981 cover the first months of the ARD/ZDF Videotext trial.
+
+- **Packet 8/30 with date and time from June 1980.** tape029_01 shows `VT 180 ARD/ZDF Sa 7 Jun 20:14`, and tape079_02 shows `VT110 ARD/ZDF Fr 11 Jul 23.14:28` (both weekdays match 1980).
+- **M3 X/29 on lines 20 and 333, 1980–81.** 18 tapes carry 30–110 packets each of magazine 3, packet 29, with the head bytes `00c820d8` (and variations `20c820d8`, `00c820f8`). They always sit on lines 20 and 333. The structure is constant, so this is probably a pre-standard magazine-related packet, not data. It is not decoded.
+- **M7 X/31 on line 20, 1981 (tape047_01, 1981-08-09):** 116 packets of magazine 7, packet 31, with changing content. This is a data channel inside teletext six years before the standard for Independent Data Lines.
+- **M4 X/30 (tape071_01, 1980-09-12)** and **M8 X/30 with binary content (1982):** in 1982 the 8/30 packets of tape090_01, tape092_01, tape099_02 and tape114_01 carry no readable text, only a repeating binary structure.
+- **M6 X/27 on line 20 (1982–84)** with irregular content (tape092_01, tape106_01, tape089_01), and **M2 X/26 on line 328 (tape128_01, 1983).** Not decoded.
+- **Some 1980–81 tapes have lines 20 and 333 only partly classified.** These lines carry teletext that is too weak to decode on every frame.
+
+### 10.4 Data channels in teletext, 1996–98
+
+- **ARD and ZDF: M8/31 with head `a1 38 2f 2f`.** ZDF (1996–97) and ARD (1997–98) both carry about 450 packets per 15 minutes (one every two seconds) in magazine 8, packet 31, on a single line (lines 11 or 324 on ZDF, lines 7/320 on ARD). The same head on both networks suggests one common service. Not decoded yet.
+- **Kabel 1 (1998-01-25):** 27,234 packets addressed as M8/31 on lines 19, 21, 328, 332, 333 and 334, whose payload is almost entirely 0x20. This looks like an idle data channel, but it may also be a decoding artefact and needs a closer look.
+- **RTL (1998-01-03):** 3,828 packets of M2/31 on line 329. In 1998 RTL therefore used line 329 for a teletext data channel instead of a section data line.
+- **Regular enhancement packets:** X/26, X/28 and X/29 on ARD, ProSieben and Kabel 1 1996–98 are ordinary Level 1.5/2.5 teletext.
+- **Packet 8/30 on ZDF 1996 and ProSieben 1996/98** shows a readable status text with date and time (`ARD/ZDF Mi 31.07.96 19:36:53`, `ProSieben Do 19 Feb 17:33:32`), and Kabel 1 shows `INFOTEXT`.
+
+### 10.5 Premiere 1991 (S-VHS)
+
+Two S-VHS recordings of the pay-TV channel Premiere (65 and 69 minutes) carry a data line with the text `PREMIERE`, CNI DAC and word 3 = 00.
+Lines 14, 15, 327 and 328 are occupied by a signal in 96–100% of frames that is neither teletext nor the data line. Most likely this is the access control data of the Nagravision scrambling. Not decoded.
+
+### 10.6 Static signals and a deck artefact
+
+- **Line 328 (row 24): already on ZDF in December 1979.** All three ZDF tapes from 1979 carry the static signal. From 1982 to 1986 it is present on many ARD/ZDF recordings; after 1986 it only appears on Premiere.
+- **Line 323 (row 19):** on ZDF 1986 and on SWF 3 (1990) and SWF (1997).
+- **Line 332 (row 28) is a property of the recording deck.** 98 of the 109 captures made with the HD630 deck show an unclassified signal on line 332 in 90–100% of frames. Only 5 of the 157 captures from other decks do. The line-332 observation in section 8 should therefore be treated with caution until checked against the deck used.
+- **Lines 17–19 and 330–332** are unclassified on a few tapes (ARD 1989). These are the CCIR insertion test signals.
+
+## 11. Open questions
+
+- What do the M5/31 data channels on ProSieben and RTL contain, and what are the M8/31 channel of ARD/ZDF 1996–98 (head `a1 38 2f 2f`), the M2/31 channel of RTL 1998 and the M7/31 channel of ARD 1981?
+- What is the M3 X/29 packet (head `00 c8 20 d8`) of the 1980–81 Videotext trial?
+- What does the data on lines 14/15/327/328 of Premiere 1991 contain?
 - Where does the 1 Mbit/s biphase signal on lines 16/329 come from, and what do its bits mean?
 - What do the individual bits of data words 5, 6 and 8–10 mean (sound data, signal content, routing)? This needs the original ARD/ZDF/IRT specification of the data line.
 - What are the M5 X/27 "0/8" packets (ARD 1988) and the early M1 X/28 packets (ZDF 1985)?
 
 Contributions and pointers to original documentation are welcome.
 
-## 11. Sources
+## 12. Sources
 
 - fernsehgeschichte.de (Burosch TV Technik): "9. Übertragung zusätzlicher Prüf- und Datensignale", section 9.3 "Datenzeile", including table 9.1 and figure 9.1. It cites references [9, 161, 162, 163] of the underlying textbook.
 - The same site, "Übertragungsverfahren für Bild, Ton und Daten". It also mentions that PALplus signalling on line 23 chose biphase code because of the good experience with data line 16.

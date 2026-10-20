@@ -1,0 +1,777 @@
+# Collection 04: per-tape summary (output of tools/cross.py), 266 captures
+# Rows: r0-15 = TV lines 7-22, r16-31 = TV lines 320-335. 'unclassified' = row occupied by a signal that is neither teletext nor the data line.
+
+## coll04_tape001_01_zdf_1979-12-23_sp  (22481 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape001_02_zdf_1979-12-24_sweep_sp  (22467 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(97%), r28(98%)
+## coll04_tape002_01_ard_1983-10-08_sp  (29963 Frames, 20.0 min)
+  VPS (29529 lines): CNI DC2 11.05. 10:20 x7421; CNI DC2 00.15. 31:63 x7376; CNI DC2 11.05. 10:25 x5951; CNI DC2 00.15. 30:63 x4469
+  data word 4 text (period 8, consistency 96%): |  ZDF   |
+## coll04_tape002_02_zdf_1983-10-15_sweep_sp  (29981 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(66%)
+## coll04_tape004_01_zdf_1979-12-28_sweep_sp  (29981 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape005_01_ard_1980-06-03_sp  (29640 Frames, 19.8 min)
+  X/29: 84 packets; (mag,row): M3r13:42, M3r29:39
+     most frequent head bytes M3: 00c820d8:17, 20c820d8:13, 008820d8:4, 07c820d8:4
+## coll04_tape006_01_ard_1980-01-05_tests_sp  (29888 Frames, 19.9 min)
+  unclassified rows (>30% of frames): r13(42%), r14(38%), r29(59%)
+## coll04_tape008_01_ard_1980-08-03_sp  (29872 Frames, 19.9 min)
+## coll04_tape008_02_ard_1980-10-20_montag_sp  (29978 Frames, 20.0 min)
+## coll04_tape013_01_br_tests_1980-xx-xx_sp  (29982 Frames, 20.0 min)
+## coll04_tape015_01_wdr_1981-04-05_sp  (29646 Frames, 19.8 min)
+## coll04_tape017_01_ard_1980-03-22_sp  (7463 Frames, 5.0 min)
+## coll04_tape017_02_ard_1980-07-05_samstag_sp  (29867 Frames, 19.9 min)
+  unclassified rows (>30% of frames): r28(35%)
+## coll04_tape024_01_ard_1981-10-25_sp  (14857 Frames, 9.9 min)
+  unclassified rows (>30% of frames): r28(54%)
+## coll04_tape024_02_ard_1981-10-25_sp  (24008 Frames, 16.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  X/29: 42 packets; (mag,row): M3r29:14, M3r13:12
+     most frequent head bytes M3: 00c820d8:11, 00c820f8:3, 20c820d8:3, 008000d8:2
+## coll04_tape025_01_ard_1980-05-31_sp  (7463 Frames, 5.0 min)
+  unclassified rows (>30% of frames): r28(62%)
+## coll04_tape025_02_ard_1981-01-04_sp  (29960 Frames, 20.0 min)
+## coll04_tape026_01_ard_1980-10-18_sp  (29951 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r28(40%)
+  X/29: 59 packets; (mag,row): M3r13:23, M3r29:17
+     most frequent head bytes M3: 00c820d8:16, 00c800d8:7, 00c820f8:2, 07c020d8:2
+## coll04_tape027_01_ard_1980-12-20_test-to-regular_sp  (5970 Frames, 4.0 min)
+## coll04_tape027_02_ard_1980-12-20_sp  (25035 Frames, 16.7 min)
+## coll04_tape027_03_ard_1981-01-19_montag_sp  (29967 Frames, 20.0 min)
+## coll04_tape029_01_ard_1980-06-07_sp  (29853 Frames, 19.9 min)
+  unclassified rows (>30% of frames): r28(51%)
+  X/29: 110 packets; (mag,row): M3r13:46, M3r29:40
+     most frequent head bytes M3: 00c820d8:38, 20c820d8:11, 00c800d8:5, 008820d8:3
+## coll04_tape031_01_ard_1980-12-22_montag_sp  (29968 Frames, 20.0 min)
+## coll04_tape032_01_ard_1980-06-30_montag_sp  (29968 Frames, 20.0 min)
+## coll04_tape032_02_ard_1981-04-27_sp  (29970 Frames, 20.0 min)
+## coll04_tape033_01_ard_1980-06-21_sp  (29964 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  X/29: 50 packets; (mag,row): M5r29:13, M3r29:12, M5r13:11, M3r13:11
+     most frequent head bytes M5: 927f7f7f:3, 927f2f7f:3, 927f3f7f:2, 200892bd:2
+## coll04_tape033_02_ard_1980-07-12_sp  (29939 Frames, 20.0 min)
+## coll04_tape033_03_ard_1980-06-14_sp  (13549 Frames, 9.0 min)
+  unclassified rows (>30% of frames): r28(56%)
+  X/29: 32 packets; (mag,row): M3r29:13, M3r13:11
+     most frequent head bytes M3: 00c820d8:5, 00c820f8:3, 06c820d8:2, 20c820f8:2
+## coll04_tape034_01_ard_1980-07-02_sp  (29968 Frames, 20.0 min)
+## coll04_tape034_02_ard_1982-02-07_sp  (29837 Frames, 19.9 min)
+## coll04_tape035_01_ard_1980-11-08_sp  (3822 Frames, 2.5 min)
+## coll04_tape035_02_zdf_1981-03-08_test_sp  (7462 Frames, 5.0 min)
+  unclassified rows (>30% of frames): r14(50%), r24(85%)
+## coll04_tape036_01_ard_1980-09-03_sp  (29964 Frames, 20.0 min)
+  X/29: 31 packets; (mag,row): M3r13:13
+     most frequent head bytes M3: 00c820d8:7, 07c020d8:2, 00c820f8:2, 00c800d8:2
+## coll04_tape036_02_ard_1980-10-04_sp  (29968 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r28(43%)
+  X/29: 67 packets; (mag,row): M3r29:29, M3r13:21
+     most frequent head bytes M3: 00c820d8:13, 00c820dc:7, 00c820f8:4, 20c820d8:2
+## coll04_tape037_01_ard_1981-02-16_sp  (29967 Frames, 20.0 min)
+## coll04_tape038_01_ard_1980-07-25_sp  (29924 Frames, 19.9 min)
+  unclassified rows (>30% of frames): r28(61%)
+  X/29: 46 packets; (mag,row): M3r13:19, M3r29:18
+     most frequent head bytes M3: 00c820d8:7, 20c820d8:5, 00c821d8:3, 00c820f8:3
+## coll04_tape039_01_ard_1980-09-19_sp  (29960 Frames, 20.0 min)
+  X/29: 39 packets; (mag,row): M3r13:20, M3r29:14
+     most frequent head bytes M3: 00c820d8:13, 00c820f8:3, 00c821d8:3, 20c820d8:2
+## coll04_tape039_02_ard_1981-01-17_sp  (29966 Frames, 20.0 min)
+## coll04_tape040_01_ard_1981-12-28_sp  (1746 Frames, 1.2 min)
+  unclassified rows (>30% of frames): r13(31%), r29(31%)
+## coll04_tape040_01_ard_1981-12-29_sp  (649 Frames, 0.4 min)
+  unclassified rows (>30% of frames): r13(40%), r14(37%), r28(61%), r29(35%), r30(35%)
+## coll04_tape041_01_ard_1980-12-28_sp  (29973 Frames, 20.0 min)
+## coll04_tape042_01_ard_1980-12-29_sp  (10323 Frames, 6.9 min)
+## coll04_tape043_01_ard_1980-10-21_sp  (29943 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  X/29: 32 packets; (mag,row): M3r29:16, M3r13:12
+     most frequent head bytes M3: 00c820d8:11, 20c820dc:4, 00c820dc:2, 00c800d8:2
+## coll04_tape043_02_ard_1981-03-14_sp  (29961 Frames, 20.0 min)
+## coll04_tape044_01_ard_1980-07-27_sp  (29924 Frames, 19.9 min)
+  unclassified rows (>30% of frames): r28(39%)
+## coll04_tape044_02_ard_1982-01-16_sp  (29968 Frames, 20.0 min)
+## coll04_tape045_01_ard_1980-07-30_sp  (29968 Frames, 20.0 min)
+## coll04_tape045_02_ard_1982-01-05_sp  (29966 Frames, 20.0 min)
+## coll04_tape046_01_ard_1981-06-07_sp  (29970 Frames, 20.0 min)
+## coll04_tape047_01_ard_1981-08-09_sp  (29971 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r13(55%), r29(67%)
+  X/31: 116 packets; (mag,row): M7r13:103, M7r29:11
+     most frequent head bytes M7: 094e0941:5, b3480a49:4, 2e4e0941:4, 174e0941:4
+## coll04_tape047_02_ard_1981-08-02_sp  (6355 Frames, 4.2 min)
+  unclassified rows (>30% of frames): r28(40%)
+## coll04_tape048_01_ard_1981-04-20_sp  (29633 Frames, 19.8 min)
+## coll04_tape048_02_ard_1981-05-28_sp  (29970 Frames, 20.0 min)
+## coll04_tape049_01_ard_1980-08-22_sp  (29964 Frames, 20.0 min)
+## coll04_tape049_02_ard_1981-04-14_sp  (29942 Frames, 20.0 min)
+  X/29: 35 packets; (mag,row): M3r29:16, M3r13:15
+     most frequent head bytes M3: 00c820d8:11, 00c820f8:6, 07c820d8:2, 00c1fffd:1
+## coll04_tape050_01_ard_1981-01-31_sp  (29904 Frames, 19.9 min)
+## coll04_tape050_02_ard_1981-03-08_sp  (29791 Frames, 19.9 min)
+## coll04_tape051_01_ard_1984-10-09_sweep_sp  (29929 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(95%)
+  VPS (29056 lines): CNI FFF 31.15. 31:63 x29052; CNI FFE 31.15. 31:63 x4
+  data word 4 text (period 8, consistency 60%): |N3BR-MCH|
+## coll04_tape051_02_ard_1981-02-28_sweep_sp  (29923 Frames, 19.9 min)
+## coll04_tape052_01_ard_1981-01-31_sweep_sp  (29916 Frames, 19.9 min)
+  unclassified rows (>30% of frames): r28(41%)
+  X/29: 51 packets; (mag,row): M3r13:22, M3r29:19
+     most frequent head bytes M3: 00c820d8:17, 00c820dc:6, 00c0fdfd:2, 07c820d8:2
+## coll04_tape052_02_ard_1981-02-27_sweep_sp  (29830 Frames, 19.9 min)
+## coll04_tape053_01_ard_1981-07-18_sweep_sp  (29911 Frames, 19.9 min)
+  unclassified rows (>30% of frames): r28(64%)
+  X/29: 36 packets; (mag,row): M3r29:15, M3r13:13
+     most frequent head bytes M3: 00c820d8:7, 00c820f8:3, 00c820fc:3, 00c821d8:2
+## coll04_tape054_01_ard_1983-07-02_sweep_sp  (29972 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape055_01_ard_1981-02-06_sweep_sp  (29970 Frames, 20.0 min)
+## coll04_tape055_02_ard_1981-02-13_sweep_sp  (29682 Frames, 19.8 min)
+## coll04_tape056_01_ard_1986-12-25_sweep_sp  (29971 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r19(94%), r24(92%)
+  VPS (30691 lines): CNI DC2 25.12. 22:05 x19444; CNI FFF 31.15. 31:63 x10281; CNI 53B 12.06. 19:52 x966
+  data word 4 text (period 8, consistency 71%): |F     ZD|
+## coll04_tape057_01_ard_1980-08-02_sweep_sp  (29951 Frames, 20.0 min)
+## coll04_tape057_02_ard_1981-01-11_sp  (29971 Frames, 20.0 min)
+  X/29: 31 packets; (mag,row): M3r29:13
+     most frequent head bytes M3: 20c820d8:4, 00c820d8:4, 00c821d8:2, 0080fffd:2
+## coll04_tape059_01_ard_1980-10-24_sp  (29972 Frames, 20.0 min)
+  X/29: 48 packets; (mag,row): M3r13:24, M3r29:21
+     most frequent head bytes M3: 00c820d8:13, 00c821d8:4, 00c800d8:4, 00c820dc:3
+## coll04_tape059_02_ard_1981-03-31_sp  (29967 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r28(32%)
+## coll04_tape060_01_ard_1980-12-07_sp  (29943 Frames, 20.0 min)
+## coll04_tape060_02_ard_1980-12-15_sp  (29818 Frames, 19.9 min)
+## coll04_tape061_01_ard_1984-12-28_sweep_sp  (29972 Frames, 20.0 min)
+  VPS (8581 lines): CNI FFF 31.15. 31:63 x8580; CNI 001 00.00. 00:00 x1
+  data word 4 text (period 8, consistency 100%): |        |
+## coll04_tape061_02_ard_1984-12-29_sweep_sp  (29970 Frames, 20.0 min)
+  VPS (6647 lines): CNI FFF 31.15. 31:63 x6646; CNI 001 00.00. 00:00 x1
+  data word 4 text (period 8, consistency 100%): |        |
+## coll04_tape062_01_ard_1984-12-30_sweep_sp  (29971 Frames, 20.0 min)
+  VPS (6687 lines): CNI FFF 31.15. 31:63 x6685; CNI FFC 31.15. 31:63 x2
+  data word 4 text (period 8, consistency 100%): |        |
+## coll04_tape064_01_zdf_1988-04-24_sweep_sp  (29968 Frames, 20.0 min)
+  VPS (16619 lines): CNI FFF 31.15. 31:63 x9981; CNI DC2 24.04. 20:15 x6521; CNI 53B 15.06. 23:32 x116; CNI 4C8 01.02. 16:63 x1
+  data word 4 text (period 8, consistency 53%): |     P-1|
+## coll04_tape064_02_zdf_1988-05-08_sweep_sp  (29956 Frames, 20.0 min)
+  VPS (35604 lines): CNI FFF 31.15. 31:63 x18490; CNI DC2 08.05. 12:00 x16766; CNI 57B 15.05. 07:62 x348
+  data word 4 text (period 8, consistency 49%): |        |
+## coll04_tape065_01_ard_1981-01-11_sp  (29967 Frames, 20.0 min)
+  X/29: 51 packets; (mag,row): M3r29:19, M3r13:16
+     most frequent head bytes M3: 00c820d8:18, 20c820dc:3, 20c820d8:2, 00c2fdfd:1
+## coll04_tape065_02_ard_1981-02-18_sweep_sp  (29953 Frames, 20.0 min)
+## coll04_tape066_01_ard_1980-11-08_sp  (29924 Frames, 19.9 min)
+## coll04_tape066_02_ard_1980-08-29_sp  (29915 Frames, 19.9 min)
+## coll04_tape067_01_ard_1986-03-02_sp  (29720 Frames, 19.8 min)
+  unclassified rows (>30% of frames): r28(36%)
+  VPS (41186 lines): CNI DC1 02.03. 20:15 x23725; CNI FFF 31.15. 31:63 x17460; CNI 57D 27.08. 23:32 x1
+  data word 4 text (period 8, consistency 54%): |R-STGTSD|
+## coll04_tape068_01_ard_1980-09-17_sp  (29892 Frames, 19.9 min)
+## coll04_tape069_01_ard_1983-11-19_sp  (29971 Frames, 20.0 min)
+## coll04_tape069_02_ard_1983-12-30_sp  (29868 Frames, 19.9 min)
+## coll04_tape069_03_ard_1982-01-01_donnerstag_sp  (4296 Frames, 2.9 min)
+## coll04_tape070_01_ard_1983-11-27_sweep_sp  (29961 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+  VPS (29087 lines): CNI DC2 11.05. 10:05 x7338; CNI DC2 00.15. 30:63 x7158; CNI DC2 11.05. 10:10 x5929; CNI DC2 11.05. 10:20 x5732
+  data word 4 text (period 8, consistency 94%): |   ZDF  |
+## coll04_tape070_02_ard_1983-11-28_sweep_sp  (29968 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(59%)
+## coll04_tape071_01_ard_1980-09-12_sp  (29879 Frames, 19.9 min)
+  unclassified rows (>30% of frames): r13(61%), r29(62%)
+  X/30: 31 packets; (mag,row): M4r29:11
+     most frequent head bytes M4: 41480840:1, 44400a40:1, 17480a41:1, 97400a41:1
+## coll04_tape071_02_ard_1980-09-26_sp  (29936 Frames, 20.0 min)
+## coll04_tape072_01_ard_1981-01-23_sp  (29892 Frames, 19.9 min)
+## coll04_tape075_01_ard_1980-09-28_sp  (29958 Frames, 20.0 min)
+## coll04_tape076_01_ard_1980-09-21_sp  (29951 Frames, 20.0 min)
+## coll04_tape076_02_ard_1981-01-10_sp  (29948 Frames, 20.0 min)
+## coll04_tape077_01_ard_1980-07-21_sp  (29962 Frames, 20.0 min)
+## coll04_tape078_01_ard_1980-09-08_sp  (25974 Frames, 17.3 min)
+## coll04_tape079_01_ard_1980-07-11_sp  (29960 Frames, 20.0 min)
+## coll04_tape079_02_ard_1980-07-11_sp  (29971 Frames, 20.0 min)
+  X/29: 39 packets; (mag,row): M3r13:21
+     most frequent head bytes M3: 00c820d8:6, 20c820d8:4, 00c821d8:3, 00c800d8:3
+## coll04_tape080_01_ard_1980-09-27_sp  (19744 Frames, 13.2 min)
+## coll04_tape080_02_ard_1981-01-16_sp  (29969 Frames, 20.0 min)
+## coll04_tape081_01_ard_1982-01-09_sp  (29969 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(43%)
+## coll04_tape082_01_ard_1981-06-18_sp  (29967 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r28(70%)
+  X/29: 64 packets; (mag,row): M3r13:35, M3r29:26
+     most frequent head bytes M3: 00c820d8:20, 20c820d8:6, 00c800d8:4, 07c820d8:3
+## coll04_tape082_02_ard_1981-10-31_sp  (29930 Frames, 20.0 min)
+## coll04_tape083_01_ard_1983-07-09_sp  (29896 Frames, 19.9 min)
+  VPS (19795 lines): CNI FFF 31.15. 31:63 x19791; CNI FFC 31.15. 31:63 x4
+  data word 4 text (period 8, consistency 75%): | 8 SWF  |
+## coll04_tape083_02_ard_1982-02-14_sp  (10264 Frames, 6.8 min)
+  unclassified rows (>30% of frames): r28(56%)
+## coll04_tape083_03_ard_1982-02-15_montag_sp  (6443 Frames, 4.3 min)
+  unclassified rows (>30% of frames): r28(32%)
+## coll04_tape084_01_ard_1982-01-29_sp  (29956 Frames, 20.0 min)
+## coll04_tape085_01_ard_1983-09-24_sp  (29960 Frames, 20.0 min)
+## coll04_tape085_02_ard_1983-10-14_sp  (29888 Frames, 19.9 min)
+## coll04_tape086_01_ard_1983-04-17_sp  (29960 Frames, 20.0 min)
+## coll04_tape087_01_ard_1983-04-10_sp  (29915 Frames, 19.9 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape088_01_ard_1982-10-27_sp  (9565 Frames, 6.4 min)
+  unclassified rows (>30% of frames): r24(51%), r28(35%)
+## coll04_tape089_01_ard_1984-02-21_sweep_sp  (29958 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r6(44%), r7(36%), r13(32%), r14(39%), r22(39%), r23(33%), r24(91%), r30(35%)
+  VPS (17694 lines): CNI FFF 31.15. 31:63 x17655; CNI 001 00.00. 00:00 x17; CNI FFE 31.15. 31:63 x12; CNI FFC 31.15. 31:63 x6
+  data word 4 text (period 8, consistency 39%): |  FFFMHR|
+  X/27: 61 packets; (mag,row): M6r13:18
+     most frequent head bytes M6: 6d5b45e5:2, 6ddb7279:1, b66dfaea:1, dad6e9d3:1
+## coll04_tape089_02_zdf_1983-02-25_sweep_sp  (29954 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape089_03_zdf_1983-04-25_sweep_sp  (2513 Frames, 1.7 min)
+  unclassified rows (>30% of frames): r24(99%)
+## coll04_tape090_01_ard_1982-10-01_sp  (29954 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r13(31%)
+  X/30: 44 packets; (mag,row): M8r30:13, M8r29:12, M8r14:10
+     most frequent head bytes M8: 2e65755d:4, 166b755d:3, aeac555b:2, 6b61a5de:2
+## coll04_tape090_02_zdf_1983-07-05_sweep_sp  (29945 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape091_01_zdf_1983-02-14_sweep_sp  (29880 Frames, 19.9 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape091_02_zdf_1983-01-10_sweep_sp  (4534 Frames, 3.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape091_03_zdf_1983-01-03_sweep_sp  (1772 Frames, 1.2 min)
+  unclassified rows (>30% of frames): r24(99%)
+## coll04_tape092_01_ard_1982-07-24_sp  (29966 Frames, 20.0 min)
+  X/27: 35 packets; (mag,row): M6r13:15
+     most frequent head bytes M6: 10d2fa76:3, 1090e9ba:3, 10e57777:2, 10e57f77:2
+## coll04_tape093_01_zdf_1982-10-23_sweep_sp  (29966 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(46%)
+## coll04_tape094_01_ard_1982-07-02_sp  (29958 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(39%)
+## coll04_tape095_01_ard_1983-11-05_sp  (19183 Frames, 12.8 min)
+  VPS (18643 lines): CNI DC2 00.15. 30:63 x6389; CNI DC2 11.05. 10:40 x5934; CNI DC2 11.05. 10:35 x4845; CNI DC2 00.15. 29:63 x1447
+  data word 4 text (period 8, consistency 100%): |     ZDF|
+## coll04_tape095_02_ard_1983-11-05_sp  (29971 Frames, 20.0 min)
+## coll04_tape096_01_br_1983-12-10_sweep_sp  (29964 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape097_01_zdf_1983-07-11_sweep_sp  (29971 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape098_01_zdf_1982-10-02_sweep_sp  (29956 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape099_01_ard_1982-10-05_sweep_sp  (29970 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape099_02_ard_1982-10-07_sweep_sp  (29971 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape100_01_zdf_1982-10-09_sweep_sp  (29964 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape100_02_zdf_1982-10-12_sweep_sp  (29970 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape101_01_ard_1986-04-04_sp  (29971 Frames, 20.0 min)
+  VPS (36404 lines): CNI FFF 31.15. 31:63 x22370; CNI DC1 04.04. 20:15 x13971; CNI FFE 31.15. 31:63 x46; CNI FFC 31.15. 31:63 x8
+  data word 4 text (period 8, consistency 66%): | FFTMHR1|
+## coll04_tape102_01_zdf_1983-07-11_sweep_sp  (29970 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(55%)
+## coll04_tape103_01_zdf_1982-09-08_sweep_sp  (29970 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape104_01_zdf_1982-12-25_sweep_sp  (29971 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape105_01_ard_1983-03-15_sp  (29970 Frames, 20.0 min)
+  VPS (58652 lines): CNI FFF 31.15. 31:63 x58643; CNI FFE 31.15. 31:63 x9
+  data word 4 text (period 8, consistency 39%): |R1FFFTTH|
+## coll04_tape105_02_ard_1985-04-03_sp  (29966 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r6(33%)
+  VPS (45786 lines): CNI FFF 31.15. 31:63 x44914; CNI 001 00.00. 00:00 x865; CNI FFE 31.15. 31:63 x5; CNI FF8 31.15. 31:63 x1
+  data word 4 text (period 8, consistency 44%): |HR3 FFTM|
+## coll04_tape106_01_ard_1984-02-10_sp  (29972 Frames, 20.0 min)
+  VPS (26543 lines): CNI FFF 31.15. 31:63 x26537; CNI FFE 31.15. 31:63 x6
+  data word 4 text (period 8, consistency 100%): |BR-MCHN1|
+  X/27: 31 packets; (mag,row): M6r13:13
+     most frequent head bytes M6: 6fb9b8b8:8, 856e2951:1, 6fb9baba:1, 2d90d57b:1
+  X/29: 35 packets; (mag,row): M6r23:11
+     most frequent head bytes M6: 0e1b84df:3, 0e1b845f:3, 0688df98:2, 965aa45f:1
+## coll04_tape107_01_ard_1983-06-04_sp  (29971 Frames, 20.0 min)
+## coll04_tape107_02_ard_1983-04-23_sp  (29957 Frames, 20.0 min)
+  VPS (227 lines): CNI FFF 31.15. 31:63 x226; CNI FFF 23.15. 31:63 x1
+  data word 4 text (period 8, consistency 30%): |BN-BN N |
+## coll04_tape108_01_zdf_1983-01-01_sweep_sp  (29963 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape108_02_zdf_1983-01-05_sweep_sp  (29760 Frames, 19.8 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape109_01_zdf_1982-10-18_sweep_sp  (29435 Frames, 19.6 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape109_02_zdf_1982-10-19_sweep_sp  (29963 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape110_01_zdf_1983-02-15_sweep_sp  (29971 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape111_01_zdf_1982-06-22_sweep_sp  (29962 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(38%)
+## coll04_tape112_01_zdf_1983-05-23_sweep_sp  (29969 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape112_02_zdf_1983-05-17_sweep_sp  (29972 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape113_01_ard_1982-04-30_sp  (29965 Frames, 20.0 min)
+## coll04_tape113_02_br_1982-04-30_sp  (29945 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape114_01_ard_1982-05-30_sp  (29955 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r28(91%)
+## coll04_tape115_01_zdf_1982-07-11_sweep_sp  (29954 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(37%)
+## coll04_tape116_01_zdf_1982-07-13_sweep_sp  (29968 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape116_01_zdf_1982-07-20_sweep_sp  (29957 Frames, 20.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape117_01_ard_1982-06-13_son_hd630_sp  (22366 Frames, 14.9 min)
+  unclassified rows (>30% of frames): r28(41%)
+## coll04_tape122_01_ard_1984-12-28_hd630_sp  (22471 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44928 lines): CNI FFF 31.15. 31:63 x44928
+  data word 4 text (period 8, consistency 56%): |THH1  FT|
+## coll04_tape122_02_ard_1991-05-19_hd630_sp  (22388 Frames, 14.9 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44765 lines): CNI FFF 31.15. 31:63 x22385; CNI DC1 19.05. 20:15 x22380
+  data word 4 text (period 8, consistency 48%): |F FFHMHR|
+  X/27: 110 packets; (mag,row): M5r7:62, M5r23:47
+     most frequent head bytes M5: 01181818:81, 03181818:12, 61181818:10, 0dc0c0c0:6
+## coll04_tape123_01_ard_1988-04-03_hd630_sp  (22471 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44934 lines): CNI FFF 31.15. 31:63 x22468; CNI DC1 03.04. 20:14 x22466
+  data word 4 text (period 8, consistency 50%): |FFTMFB1B|
+## coll04_tape123_02_ard_1990-12-30_hd630_sp  (22296 Frames, 14.9 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44485 lines): CNI DC1 30.12. 20:15 x22261; CNI FFF 31.15. 31:63 x22224
+  data word 4 text (period 8, consistency 32%): |ZMBRWRRF|
+## coll04_tape124_01_ard_1992-07-12_hd630_sp  (22469 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44909 lines): CNI FFF 31.15. 31:63 x22459; CNI DC1 12.07. 20:15 x22450
+  data word 4 text (period 8, consistency 36%): |TRHF1 FF|
+## coll04_tape124_02_ard_1990-06-03_hd630_sp  (22455 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44865 lines): CNI FFF 31.15. 31:63 x22440; CNI DC1 03.06. 20:15 x22425
+  data word 4 text (period 8, consistency 24%): |*BRHRCHF|
+## coll04_tape125_01_ard_1986-10-18_hd630_sp  (22469 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44678 lines): CNI FFF 31.15. 31:63 x22448; CNI DC1 18.10. 20:14 x22230
+  data word 4 text (period 8, consistency 31%): |F1 1FRMF|
+## coll04_tape126_01_ard_1986-06-08_hd630_sp  (22469 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (22461 lines): CNI DC1 08.06. 21:50 x22461
+  data word 4 text (period 8, consistency 99%): |****BR**|
+## coll04_tape126_02_ard_1992-06-28_hd630_sp  (22455 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44775 lines): CNI FFF 31.15. 31:63 x22401; CNI DC1 28.06. 20:15 x22374
+  data word 4 text (period 8, consistency 24%): |STGTFFTM|
+## coll04_tape127_01_ard_1983-01-30_hd630_sp  (22472 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(100%)
+## coll04_tape127_02_ard_1983-02-13_hd630_sp  (22467 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(100%)
+## coll04_tape128_01_ard_1983-01-16_hd630_sp  (22466 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(100%)
+  X/26: 41 packets; (mag,row): M2r24:31
+     most frequent head bytes M2: 49a3a75f:9, 09a3a75f:5, 49a3275f:3, 69a3a75f:2
+## coll04_tape128_02_ard_1983-01-23_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(100%)
+## coll04_tape129_01_ard_1984-01-07_hd630_sp  (22465 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+## coll04_tape129_02_ard_1984-01-22_hd630_sp  (22467 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(100%)
+  VPS (22460 lines): CNI DC2 00.15. 30:63 x7499; CNI DC2 11.05. 10:50 x7497; CNI DC2 11.05. 10:40 x4658; CNI DC2 00.15. 29:63 x1499
+  data word 4 text (period 8, consistency 98%): |    ZDF |
+## coll04_tape130_01_ard_1983-05-28_hd630_sp  (22469 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+## coll04_tape130_02_ard_1983-12-17_hd630_sp  (22471 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(100%)
+  VPS (22470 lines): CNI DC2 11.05. 10:20 x7500; CNI DC2 11.05. 10:25 x6000; CNI DC2 00.15. 30:63 x4623; CNI DC2 00.15. 31:63 x2847
+  data word 4 text (period 8, consistency 100%): |ZDF     |
+## coll04_tape131_01_ard_1983-07-14_hd630_sp  (22471 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(100%)
+## coll04_tape131_02_wdr_1986-07-17_hd630_sp  (22468 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(100%)
+  VPS (22453 lines): CNI DE6 17.07. 20:15 x22453
+  data word 4 text (period 8, consistency 36%): | WDR-KLN|
+  X/26: 80 packets; (mag,row): M3r30:22, M3r23:15, M3r22:11
+     most frequent head bytes M3: 29595858:51, a9595858:10, 315d4140:10, 27585858:4
+## coll04_tape131_03_ard_1983-08-13_hd630_sp  (22456 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (22433 lines): CNI DC2 00.15. 31:63 x7498; CNI DC2 11.05. 10:35 x7490; CNI DC2 11.05. 10:25 x5342; CNI DC2 00.15. 29:63 x1478
+  data word 4 text (period 8, consistency 76%): |ZDF     |
+## coll04_tape132_01_ard_1983-12-24_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+## coll04_tape132_02_ard_1983-12-25_hd630_sp  (22471 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+## coll04_tape132_03_wdr_1983-xx-xx_hd630_sp  (8292 Frames, 5.5 min)
+  unclassified rows (>30% of frames): r28(98%)
+## coll04_tape136_01_ard_1983-12-26_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+## coll04_tape136_02_ard_1984-01-01_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (22457 lines): CNI DC1 00.15. 30:63 x7498; CNI DC1 11.05. 10:20 x7490; CNI DC1 11.05. 10:10 x3622; CNI DC1 11.05. 10:25 x2347
+  data word 4 text (period 8, consistency 100%): |DF ARD-Z|
+## coll04_tape137_01_ard_1984-01-30_hd630_sp  (22471 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(100%)
+  VPS (22469 lines): CNI DC2 11.05. 10:20 x7500; CNI DC2 00.15. 30:63 x7499; CNI DC2 11.05. 10:25 x3101; CNI DC2 11.05. 10:10 x2869
+  data word 4 text (period 8, consistency 100%): |DF     Z|
+## coll04_tape137_02_ard_1984-02-27_hd630_sp  (22469 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (22469 lines): CNI DC2 11.05. 10:05 x7499; CNI DC2 00.15. 30:63 x6659; CNI DC2 11.05. 10:10 x6000; CNI DC2 00.15. 29:63 x1500
+  data word 4 text (period 8, consistency 81%): |   ZDF  |
+## coll04_tape138_01_ard_1984-02-12_hd630_sp  (22469 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (22453 lines): CNI DC2 11.05. 10:20 x7494; CNI DC2 11.05. 10:25 x5994; CNI DC2 00.15. 30:63 x4136; CNI DC2 00.15. 31:63 x3329
+  data word 4 text (period 8, consistency 97%): |  ZDF   |
+## coll04_tape138_02_ard_1984-04-09_hd630_sp  (22471 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(100%)
+  VPS (22469 lines): CNI DC2 00.15. 30:63 x7500; CNI DC2 11.05. 10:40 x6000; CNI DC2 11.05. 10:50 x4319; CNI DC2 11.05. 10:35 x3150
+  data word 4 text (period 8, consistency 100%): | ZDF    |
+## coll04_tape139_01_ard_1990-11-10_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44918 lines): CNI DC1 10.11. 20:13 x22461; CNI FFF 31.15. 31:63 x22457
+  data word 4 text (period 8, consistency 50%): |MHBRWDR*|
+## coll04_tape139_02_ard_1985-02-13_hd630_sp  (22471 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44917 lines): CNI FFF 31.15. 31:63 x44917
+  data word 4 text (period 8, consistency 35%): |HR1 FFFF|
+## coll04_tape140_01_ard_1984-07-13_hd630_sp  (22471 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44931 lines): CNI FFF 31.15. 31:63 x44931
+  data word 4 text (period 8, consistency 50%): |F T     |
+## coll04_tape141_01_ard_1984-07-16_hd630_sp  (22405 Frames, 14.9 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (22380 lines): CNI DC2 11.05. 10:20 x7411; CNI DC2 11.05. 10:25 x5998; CNI DC2 00.15. 30:63 x3861; CNI DC2 00.15. 31:63 x3610
+  data word 4 text (period 8, consistency 73%): |DF     Z|
+## coll04_tape141_02_ard_1984-11-17_hd630_sp  (22403 Frames, 14.9 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44755 lines): CNI FFF 31.15. 31:63 x44755
+  data word 4 text (period 8, consistency 44%): |THH11FFF|
+## coll04_tape142_01_ard_1984-06-24_hd630_sp  (22469 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44936 lines): CNI FFF 31.15. 31:63 x44936
+  data word 4 text (period 8, consistency 50%): |        |
+## coll04_tape142_02_ard_1984-05-01_hd630_sp  (22313 Frames, 14.9 min)
+  unclassified rows (>30% of frames): r6(38%), r7(35%), r13(37%), r14(37%), r22(37%), r23(33%), r28(100%), r29(35%), r30(36%)
+  VPS (44615 lines): CNI FFF 31.15. 31:63 x44615
+  data word 4 text (period 8, consistency 55%): |FTMHR3 F|
+## coll04_tape143_01_ard_1984-6-11_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r25(45%), r28(100%)
+  VPS (22468 lines): CNI DC2 00.15. 30:63 x7500; CNI DC2 11.05. 10:20 x7500; CNI DC2 11.05. 10:10 x3747; CNI DC2 11.05. 10:25 x2222
+  data word 4 text (period 8, consistency 100%): |   ZDF  |
+## coll04_tape144_01_ard_1984-03-30_hd630_lp  (2 Frames, 0.0 min)
+  unclassified rows (>30% of frames): r10(100%), r11(100%), r12(100%), r26(100%), r27(100%), r28(100%)
+## coll04_tape144_01_ard_1984-03-30_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (22453 lines): CNI FFF 31.15. 31:63 x22453
+  data word 4 text (period 8, consistency 100%): |FTMHR1 F|
+## coll04_tape145_01_ard_1984-03-17_hd630_sp  (22469 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44917 lines): CNI FFF 31.15. 31:63 x44917
+  data word 4 text (period 8, consistency 56%): | FFHM1 R|
+## coll04_tape146_01_ard_1984-11-17_hd630_sp  (22449 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(100%)
+  VPS (22434 lines): CNI DC2 11.05. 10:20 x7494; CNI DC2 11.05. 10:25 x5972; CNI DC2 00.15. 30:63 x5345; CNI DC2 00.15. 31:63 x2123
+  data word 4 text (period 8, consistency 92%): |F     ZD|
+## coll04_tape146_02_ard_1984-11-19_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(100%)
+  VPS (22464 lines): CNI DC2 11.05. 10:20 x7498; CNI DC2 11.05. 10:25 x6000; CNI DC2 00.15. 31:63 x4532; CNI DC2 00.15. 30:63 x2935
+  data word 4 text (period 8, consistency 100%): |    ZDF |
+## coll04_tape146_03_ard_1984-08-26_hd630_sp  (2247 Frames, 1.5 min)
+  unclassified rows (>30% of frames): r24(98%), r25(30%), r28(98%)
+  VPS (2200 lines): CNI DC2 11.05. 10:35 x2200
+  data word 4 text (period 8, consistency 100%): |ZDF     |
+## coll04_tape147_01_ard_1984-10-11_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r6(34%), r13(31%), r14(31%), r28(100%)
+  VPS (44928 lines): CNI FFF 31.15. 31:63 x44928
+  data word 4 text (period 8, consistency 56%): |HHR3 FTM|
+## coll04_tape147_02_ard_1991-11-20_hd630_sp  (22469 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44904 lines): CNI FFF 31.15. 31:63 x22454; CNI DC1 20.11. 15:15 x22450
+  data word 4 text (period 8, consistency 50%): |WTMHZ1 R|
+  X/27: 38 packets; (mag,row): M5r7:26, M5r23:12
+     most frequent head bytes M5: 03181818:19, 01181818:12, 61181818:3, 0dc0c0c0:2
+## coll04_tape148_01_ard_1985-03-09_hd630_sp  (22471 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (22453 lines): CNI DC2 00.15. 30:63 x7496; CNI DC2 11.05. 10:50 x7426; CNI DC2 11.05. 10:40 x5993; CNI DC2 00.15. 29:63 x1500
+  data word 4 text (period 8, consistency 100%): |*ZDF*   |
+## coll04_tape148_03_ard_1985-03-03_hd630_sp  (17805 Frames, 11.9 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (35587 lines): CNI FFF 31.15. 31:63 x35587
+  data word 4 text (period 8, consistency 56%): | FFTMHR3|
+## coll04_tape148_04_zdf_1985-03-02_hd630_sp  (21993 Frames, 14.7 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (21952 lines): CNI DC2 11.05. 10:20 x9139; CNI DC2 11.05. 10:25 x5999; CNI DC2 00.15. 30:63 x4558; CNI DC2 00.15. 29:63 x1500
+  data word 4 text (period 8, consistency 68%): |   *ZDF*|
+## coll04_tape148_05_ard_1984-07-28_hd630_sp  (22471 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (22469 lines): CNI FFF 31.15. 31:63 x15875; CNI DC1 11.05. 10:50 x2861; CNI DC1 00.15. 30:63 x1757; CNI DC1 11.05. 10:55 x1420
+  data word 4 text (period 8, consistency 44%): |R3 FFTMH|
+## coll04_tape148_06_ard_1984-06-07_hd630_sp  (2338 Frames, 1.6 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (4656 lines): CNI FFF 31.15. 31:63 x4656
+  data word 4 text (period 8, consistency 56%): |MMHR1 FF|
+## coll04_tape149_01_ard_1986-03-15_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r19(100%), r24(100%), r28(100%)
+  VPS (44909 lines): CNI DC2 15.03. 23:15 x22454; CNI FFF 31.15. 31:63 x22453; CNI FE8 29.14. 14:57 x1; CNI FFE 31.15. 31:63 x1
+  data word 4 text (period 8, consistency 56%): | PZFFZ D|
+## coll04_tape149_02_swf_1985-01-09_hd630_sp  (22469 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%)
+## coll04_tape149_03_ard_1981-12-26_hd630_sp  (18023 Frames, 12.0 min)
+  unclassified rows (>30% of frames): r9(59%), r24(99%), r25(56%), r28(99%)
+## coll04_tape150_01_ard_1984-07-29_hd630_sp  (22467 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44918 lines): CNI FFF 31.15. 31:63 x44915; CNI 7BF 06.03. 12:61 x2; CNI FBF 06.03. 12:61 x1
+  data word 4 text (period 8, consistency 49%): |TSHSDRFF|
+## coll04_tape151_01_ard_1986-11-01_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r19(100%), r24(100%), r28(100%)
+  VPS (44932 lines): CNI FFF 31.15. 31:63 x22468; CNI DC2 01.11. 17:15 x22464
+  data word 4 text (period 8, consistency 62%): |      ZD|
+## coll04_tape152_01_ard_1984-02-19_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (22467 lines): CNI DC2 11.05. 10:50 x7499; CNI DC2 00.15. 31:63 x7150; CNI DC2 11.05. 10:55 x5999; CNI DC2 00.15. 29:63 x1500
+  data word 4 text (period 8, consistency 100%): |    ZDF |
+## coll04_tape152_02_ard_1985-02-02_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44936 lines): CNI FFF 31.15. 31:63 x44936
+  data word 4 text (period 8, consistency 56%): |FFMMH11 |
+## coll04_tape154_01_ard_1985-12-26_hd630_sp  (22464 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(100%)
+  VPS (44911 lines): CNI FFF 31.15. 31:63 x22458; CNI DC2 26.12. 20:15 x22453
+  data word 4 text (period 8, consistency 52%): |D   F Z |
+## coll04_tape154_02_ard_1985-12-23_hd630_sp  (22471 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44940 lines): CNI DC1 23.12. 14:20 x22471; CNI FFF 31.15. 31:63 x22469
+  data word 4 text (period 8, consistency 50%): |FTM1HR F|
+## coll04_tape155_01_ard_1986-01-12_hd630_sp  (22418 Frames, 14.9 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44308 lines): CNI FFF 31.15. 31:63 x22401; CNI DC1 12.01. 20:45 x21907
+  data word 4 text (period 8, consistency 49%): |        |
+## coll04_tape155_02_ard_1986-03-31_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r19(100%), r24(100%), r28(100%)
+  VPS (44923 lines): CNI FFF 31.15. 31:63 x22462; CNI DC2 31.03. 19:30 x22461
+  data word 4 text (period 8, consistency 50%): |  FZZFD |
+## coll04_tape156_01_ard_1986-02-02_hd630_sp  (22469 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44936 lines): CNI FFF 31.15. 31:63 x22469; CNI DC1 02.02. 20:15 x22467
+  data word 4 text (period 8, consistency 50%): |F       |
+## coll04_tape156_02_ard_1986-02-04_hd630_sp  (22449 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(100%)
+  VPS (44808 lines): CNI DCB 00.15. 31:63 x22398; CNI FFF 31.15. 31:63 x22379; CNI DCF 00.15. 31:63 x31
+  data word 4 text (period 8, consistency 47%): |-MCHN3BR|
+## coll04_tape156_03_zdf_1985-12-29_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r24(100%), r28(100%)
+  VPS (44924 lines): CNI FFF 31.15. 31:63 x22464; CNI DC2 29.12. 22:00 x12949; CNI DC2 29.12. 21:45 x7320; CNI DC2 00.15. 30:63 x2191
+  data word 4 text (period 8, consistency 56%): |D-     B|
+## coll04_tape158_01_zdf_1996-07-31_hd630_lp  (22442 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44597 lines): CNI FFF 01.15. 30:63 x22383; CNI DC2 31.07. 19:25 x22213; CNI DC2 31.11. 19:25 x1
+  data word 4 text (period 8, consistency 50%): |        |
+  X/30: 99 packets; (mag,row): M8r8:39, M8r24:21, M8r23:12
+     most frequent head bytes M8: ea641515:32, ea381515:29, ea731515:25, eaba2a15:1
+  X/31: 449 packets; (mag,row): M8r4:447
+     most frequent head bytes M8: a1382f2f:376, a1383f2f:8, a1383f3f:8, a3382f2f:4
+## coll04_tape158_02_zdf_1996-08-07_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44880 lines): CNI DC3 07.08. 19:25 x22442; CNI FFF 01.15. 30:63 x22438
+  data word 4 text (period 8, consistency 50%): |P 1Z F B|
+  X/31: 449 packets; (mag,row): M8r20:449
+     most frequent head bytes M8: a1382f2f:357, 81382f2f:32, a1380f2f:9, a1380f0f:7
+## coll04_tape158_03_zdf_1996-08-14_hd630_sp  (22469 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44902 lines): CNI FFF 01.15. 30:63 x22455; CNI DC2 14.08. 19:25 x22447
+  data word 4 text (period 8, consistency 50%): |        |
+  X/31: 451 packets; (mag,row): M8r4:449
+     most frequent head bytes M8: a1382f2f:394, 81382f2f:25, a1380f2f:7, 81380f2f:5
+## coll04_tape158_04_pro7_1996-09-28_hd630_lp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (22445 lines): CNI D94 00.15. 31:63 x22445
+  data word 4 text (period 8, consistency 93%): |PRO 7* *|
+  X/26: 261 packets; (mag,row): M3r17:119, M3r1:87, M3r16:40, M3r0:12
+     most frequent head bytes M3: 0f3a4140:95, 0f3a0940:50, 42404040:25, 073b0340:15
+  X/30: 88 packets; (mag,row): M8r8:23, M8r24:16, M8r23:10
+     most frequent head bytes M8: ead01515:16, ea9b1515:10, ea8c1515:9, ea731515:7
+## coll04_tape159_01_ard_1989-04-22_hd630_sp  (22027 Frames, 14.7 min)
+  unclassified rows (>30% of frames): r10(67%), r11(65%), r12(71%), r26(67%), r27(66%), r28(100%)
+  VPS (44016 lines): CNI FFF 31.15. 31:63 x22015; CNI DC1 22.04. 20:15 x22001
+  data word 4 text (period 8, consistency 43%): |*R1 FFDR|
+## coll04_tape159_03_ard_1986-09-14_hd630_sp  (2300 Frames, 1.5 min)
+  unclassified rows (>30% of frames): r19(100%), r24(100%), r28(100%)
+  VPS (4580 lines): CNI FFF 31.15. 31:63 x2292; CNI DC2 14.09. 20:15 x2287; CNI FC2 14.09. 20:15 x1
+  data word 4 text (period 8, consistency 62%): |  F     |
+## coll04_tape159_04_ard_1986-03-14_hd630_sp  (15319 Frames, 10.2 min)
+  unclassified rows (>30% of frames): r19(99%), r24(100%), r28(100%)
+  VPS (30461 lines): CNI FFF 31.15. 31:63 x15212; CNI DC2 13.03. 22:05 x12121; CNI DC2 14.03. 01:15 x3111; CNI 000 00.00. 00:00 x11
+  data word 4 text (period 8, consistency 55%): |    ZDF |
+## coll04_tape159_21_zdf_1990-07-21_hd630_sp  (22087 Frames, 14.7 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44170 lines): CNI DC3 00.15. 30:63 x22086; CNI DC2 21.07. 20:00 x22084
+  data word 4 text (period 8, consistency 51%): |D       |
+## coll04_tape160_01_ard_1988-11-25_hd630_sp  (22469 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44725 lines): CNI FFF 31.15. 31:63 x22455; CNI DC1 25.11. 20:15 x22270
+  data word 4 text (period 8, consistency 49%): |FMBMHRR |
+## coll04_tape160_02_ard_1988-11-26_hd630_sp  (22468 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44734 lines): CNI FFF 31.15. 31:63 x22468; CNI DC1 26.11. 20:15 x22266
+  data word 4 text (period 8, consistency 44%): |MHMBGFDT|
+## coll04_tape161_01_zdf_1990-06-29_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44925 lines): CNI DC3 00.15. 30:63 x22464; CNI DC2 29.06. 23:15 x22461
+  data word 4 text (period 8, consistency 69%): |BF     D|
+## coll04_tape161_02_zdf_1990-07-06_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44921 lines): CNI DC3 00.15. 30:63 x22464; CNI DC2 06.07. 22:55 x22457
+  data word 4 text (period 8, consistency 69%): |P-1  ZDB|
+## coll04_tape161_03_zdf_1990-07-13_hd630_sp  (22471 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(66%)
+  VPS (44934 lines): CNI DC2 13.07. 23:20 x22467; CNI DC3 00.15. 30:63 x22467
+  data word 4 text (period 8, consistency 56%): | -Z F  B|
+## coll04_tape163_01_ard_1993-04-11_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44939 lines): CNI DC1 11.04. 20:15 x22470; CNI FFF 31.15. 31:63 x22469
+  data word 4 text (period 8, consistency 51%): |HR1 FFTM|
+## coll04_tape164_01_swf3_1990-12-30_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r19(100%)
+  VPS (44888 lines): CNI FFF 31.15. 31:63 x22454; CNI DE0 30.12. 00:00 x22434
+  data word 4 text (period 8, consistency 50%): |BPTG   D|
+## coll04_tape165_01_ard_1998-01-24_hd630_sp  (20864 Frames, 13.9 min)
+  unclassified rows (>30% of frames): r28(59%)
+  VPS (20842 lines): CNI DC1 24.01. 20:15 x20841; CNI DC1 28.01. 20:15 x1
+  data word 4 text (period 8, consistency 38%): |ARL.RFSA|
+  X/28: 374 packets; (mag,row): M1r0:86, M1r16:82, M6r0:46, M6r16:41, M8r0:32, M5r0:29
+     most frequent head bytes M1: 5e868000:17, 5e068000:17, 1f178280:17, 1d178280:12
+  X/29: 121 packets; (mag,row): M4r16:11, M7r0:11, M5r0:10
+     most frequent head bytes M4: 1d0b0808:3, 1f0f0808:3, 1b0b0808:2, 1b0f0808:2
+  X/31: 398 packets; (mag,row): M8r16:220, M8r0:178
+     most frequent head bytes M8: a1382f2f:361, 81382f2f:13, a1383f2f:5, 21382f2f:4
+## coll04_tape165_02_pro7_1998-02-19_hd630_sp  (325 Frames, 0.2 min)
+  unclassified rows (>30% of frames): r28(98%)
+  VPS (309 lines): CNI D94 00.15. 31:63 x309
+  data word 4 text (period 8, consistency 100%): |7   PRO |
+  X/30: 218 packets; (mag,row): M8r5:16, M8r2:14, M8r20:14, M8r13:13, M8r22:13, M8r8:13
+     most frequent head bytes M8: eaea2fea:218
+## coll04_tape165_03_kabel1_1998-01-25_hd630_sp  (21781 Frames, 14.5 min)
+  VPS (21772 lines): CNI D92 00.15. 31:63 x21772
+  data word 4 text (period 8, consistency 46%): |KABEL 1 |
+  X/26: 341 packets; (mag,row): M6r16:96, M6r0:79, M8r16:62, M7r16:28, M7r0:24, M8r0:19
+     most frequent head bytes M6: 01747fff:151, 01647fff:5, 01347fff:5, 01743fff:5
+  X/30: 872 packets; (mag,row): M8r0:462, M8r16:404
+     most frequent head bytes M8: 151515ea:833, 011511e2:3, 111111e2:2, 011111e2:2
+  X/31: 27234 packets; (mag,row): M8r14:2821, M8r30:2725, M8r29:2571, M8r28:2073, M8r12:2045, M8r24:1572
+     most frequent head bytes M8: 20202020:27037, 21202020:131, 20302020:21, 20203020:17
+## coll04_tape165_04_hr_1998-01-26_hd630_sp  (21024 Frames, 14.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (42029 lines): CNI DCF 26.01. 20:45 x21015; CNI FFF 31.15. 31:63 x21014
+  data word 4 text (period 8, consistency 27%): | 1H  F  |
+## coll04_tape165_05_rtl_1998-01-03_hd630_sp  (21881 Frames, 14.6 min)
+  VPS (21869 lines): CNI DAB 00.15. 31:63 x21869
+  data word 4 text (period 8, consistency 89%): |OELNRTLK|
+  X/31: 3828 packets; (mag,row): M2r25:3828
+     most frequent head bytes M2: 6415a19b:16, 6415b19b:16, 6415b29b:16, 6415009b:16
+## coll04_tape166_01_ard_1997-10-18_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (22468 lines): CNI DC1 18.10. 20:15 x22468
+  data word 4 text (period 8, consistency 99%): |*BR-MCHN|
+  X/28: 547 packets; (mag,row): M1r16:92, M1r0:91, M6r16:84, M6r0:63, M8r16:62, M8r0:58
+     most frequent head bytes M1: 5e868000:25, 1f1f8280:15, 1d178280:15, 5e068000:13
+  X/29: 135 packets; (mag,row): M4r0:11, M8r16:10, M2r16:10
+     most frequent head bytes M4: 150b0808:2, 1b0f0808:2, 190f0808:1, 1f0f0808:1
+  X/31: 445 packets; (mag,row): M8r0:242, M8r16:203
+     most frequent head bytes M8: a1382f2f:395, 81382f2f:14, a1383f2f:8, 81383f2f:5
+## coll04_tape166_02_rtl_1997-11-18_hd630_sp  (22463 Frames, 15.0 min)
+  VPS (22457 lines): CNI DAB 00.15. 31:63 x22457
+  data word 4 text (period 8, consistency 52%): |RTLKOELN|
+  X/27: 38 packets; (mag,row): M5r3:28
+     most frequent head bytes M5: c1c0c0c0:37
+## coll04_tape167_01_ard_1994-05-22_hd630_sp  (20216 Frames, 13.5 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (20196 lines): CNI DC1 22.05. 20:15 x20195; CNI 000 00.00. 00:00 x1
+  data word 4 text (period 8, consistency 55%): |AARL*RFS|
+## coll04_tape167_02_ard_1993-12-27_hd630_lp  (21862 Frames, 14.6 min)
+  unclassified rows (>30% of frames): r25(30%), r28(100%)
+  VPS (21009 lines): CNI DC1 27.12. 23:00 x21005; CNI 8C0 31.15. 31:00 x4
+  data word 4 text (period 8, consistency 39%): |TTSSR*SS|
+  X/30: 879 packets; (mag,row): M8r20:450, M8r4:429
+     most frequent head bytes M8: 15151515:877, 2b151515:1, 1d011515:1
+## coll04_tape167_02_ard_1993-12-27_hd630_sp  (55 Frames, 0.0 min)
+  unclassified rows (>30% of frames): r10(100%), r11(100%), r12(69%), r21(31%), r25(100%), r26(100%), r27(100%), r28(100%)
+  VPS (54 lines): CNI DC1 27.12. 23:00 x54
+  data word 4 text (period 8, consistency 100%): |R*STGTSD|
+## coll04_tape167_03_sat1_1994-01-14_hd630_lp  (20050 Frames, 13.4 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (39133 lines): CNI FFF 31.15. 31:63 x19594; CNI DB9 21.01. 11:20 x10960; CNI DB9 24.01. 11:20 x8579
+  data word 4 text (period 8, consistency 22%): |1  1  11|
+## coll04_tape167_04_sat1_1994-01-19_hd630_lp  (22098 Frames, 14.7 min)
+  unclassified rows (>30% of frames): r28(87%)
+  VPS (42260 lines): CNI DB9 19.01. 11:20 x22009; CNI FFF 31.15. 31:63 x20251
+  data word 4 text (period 8, consistency 50%): |U1SAT1*L|
+## coll04_tape167_05_sat1_1994-01-20_hd630_lp  (21865 Frames, 14.6 min)
+  unclassified rows (>30% of frames): r28(90%)
+  VPS (43517 lines): CNI FFF 31.15. 31:63 x21805; CNI DB9 20.01. 11:20 x21712
+  data word 4 text (period 8, consistency 27%): |  11 P11|
+## coll04_tape168_01_hr_1990-05-25_hd630_sp  (9841 Frames, 6.6 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (19545 lines): CNI FFF 31.15. 31:63 x9799; CNI DCF 25.05. 20:45 x9726; CNI DCF 25.05. 21:30 x20
+  data word 4 text (period 8, consistency 26%): |3       |
+## coll04_tape169_01_ard_1996-12-26_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (22467 lines): CNI DC1 26.12. 11:00 x22467
+  data word 4 text (period 8, consistency 100%): |CHN*BR-M|
+## coll04_tape169_02_hr_1996-12-27_hd630_sp  (22466 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44931 lines): CNI FFF 31.15. 31:63 x22466; CNI DCF 27.12. 17:00 x22465
+  data word 4 text (period 8, consistency 35%): |P-1     |
+## coll04_tape169_03_hr_1997-01-09_hd630_sp  (22469 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44937 lines): CNI FFF 31.15. 31:63 x22469; CNI DCF 09.01. 19:00 x22468
+  data word 4 text (period 8, consistency 45%): |P-1   DB|
+## coll04_tape169_04_hr_1997-01-10_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44939 lines): CNI DCF 10.01. 17:00 x22470; CNI FFF 31.15. 31:63 x22469
+  data word 4 text (period 8, consistency 50%): |BP-1   D|
+## coll04_tape169_05_swf_1997-01-11_hd630_sp  (22473 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r19(100%), r28(35%)
+  VPS (44944 lines): CNI FFF 31.15. 31:63 x22473; CNI DE0 11.01. 20:15 x22471
+  data word 4 text (period 8, consistency 32%): |S-GT  D-|
+## coll04_tape169_06_hr_1997-01-16_hd630_sp  (22473 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44943 lines): CNI FFF 31.15. 31:63 x22472; CNI DCF 16.01. 19:00 x22471
+  data word 4 text (period 8, consistency 31%): |        |
+## coll04_tape169_07_zdf_1997-02-19_hd630_sp  (22468 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44933 lines): CNI DC2 19.02. 21:00 x22467; CNI FFF 01.15. 30:63 x22466
+  data word 4 text (period 8, consistency 53%): |    -1  |
+  X/31: 447 packets; (mag,row): M8r4:447
+     most frequent head bytes M8: a1382f2f:365, 81382f2f:28, a1383f2f:8, a1382f3f:7
+## coll04_tape170_01_ard_1986-04-19_hd630_sp  (21747 Frames, 14.5 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (43456 lines): CNI FFF 31.15. 31:63 x21742; CNI DC1 19.04. 23:40 x21714
+  data word 4 text (period 8, consistency 26%): |HMMHRDR |
+## coll04_tape170_02_ard_1986-02-01_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r19(100%), r24(100%), r28(100%)
+  VPS (44924 lines): CNI FFF 31.15. 31:63 x22465; CNI DC2 01.02. 20:15 x22459
+  data word 4 text (period 8, consistency 56%): |B -FTZDD|
+## coll04_tape171_01_zdf_1990-07-20_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44918 lines): CNI DC3 00.15. 30:63 x22463; CNI DC2 20.07. 23:15 x22455
+  data word 4 text (period 8, consistency 56%): |B -1  DF|
+## coll04_tape171_02_zdf_1990-07-27_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44936 lines): CNI DC2 27.07. 23:15 x22468; CNI DC3 00.15. 30:63 x22468
+  data word 4 text (period 8, consistency 63%): | ZDF  D |
+## coll04_tape171_03_zdf_1990-08-03_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44935 lines): CNI DC2 03.08. 23:15 x22468; CNI DC3 00.15. 30:63 x22467
+  data word 4 text (period 8, consistency 69%): | DF     |
+## coll04_tape171_04_zdf_1990-08-10_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44931 lines): CNI DC3 00.15. 30:63 x22466; CNI DC2 10.08. 23:15 x22465
+  data word 4 text (period 8, consistency 56%): |  DF  - |
+## coll04_tape172_01_ard_1988-11-20_hd630_sp  (22450 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(60%)
+  VPS (44772 lines): CNI FFF 31.15. 31:63 x22414; CNI DC1 20.11. 20:15 x22358
+  data word 4 text (period 8, consistency 47%): | FFR*HRB|
+## coll04_tape172_02_ard_1988-11-23_hd630_sp  (22470 Frames, 15.0 min)
+  unclassified rows (>30% of frames): r28(100%)
+  VPS (44838 lines): CNI FFF 31.15. 31:63 x22468; CNI DC1 23.11. 20:15 x22370
+  data word 4 text (period 8, consistency 50%): |BGTDR*HM|
+## coll04_tapeaaa_01_premiere_1991-xx-xx_sp_svhs  (97222 Frames, 64.8 min)
+  unclassified rows (>30% of frames): r7(100%), r8(96%), r23(100%), r24(100%)
+  VPS (96819 lines): CNI DAC 00.15. 31:63 x96819
+  data word 4 text (period 8, consistency 47%): |EREPRERE|
+## coll04_tapeaaa_02_premiere_1991-xx-xx_sp_svhs  (103315 Frames, 68.9 min)
+  unclassified rows (>30% of frames): r7(100%), r8(97%), r23(100%), r24(100%)
+  VPS (103087 lines): CNI DAC 00.15. 31:63 x103085; CNI 4E7 30.00. 00:00 x1; CNI B18 01.15. 31:63 x1
+  data word 4 text (period 8, consistency 60%): |PREMIERE|
