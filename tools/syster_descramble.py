@@ -24,6 +24,12 @@ apply also writes <out>.fields.txt (field, cw/search/kept, s, r, roughness befor
   syster_descramble.py search in.tbcy out.txt --hacktv DIR --fields A:B
 
 The output TBC has the same layout as the input; copy the .tbc.json next to it.
+
+Chroma (--chroma): the Syster scrambler keeps each line's colour burst and PAL switch
+in place, so a moved line's chroma has to be re-referenced: it is demodulated against
+the burst it was transmitted with and remodulated with the burst of its new line,
+mirrored in V when the PAL switch differs (--chroma-mode burst). This was checked on
+synthetic data; --chroma-mode move copies the samples unchanged.
 """
 import argparse, json, os, sys
 import numpy as np
@@ -119,6 +125,41 @@ def all_orders(sy):
     return O
 
 
+BURST = slice(100, 136)   # colour burst samples (4fsc PAL)
+
+
+def analytic(rows):
+    """Analytic signal of 4fsc chroma rows, with the column carrier removed (baseband)."""
+    x = rows.astype(np.float64); dc = x.mean(1)
+    X = np.fft.fft(x - dc[:, None], axis=1); n = x.shape[1]
+    X[:, n // 2 + 1:] = 0; X[:, 1:n // 2] *= 2
+    return np.fft.ifft(X, axis=1) * np.exp(-0.5j * np.pi * np.arange(n)), dc
+
+
+def burst_state(m):
+    """Unit burst phasor of every row and the PAL switch (+1/-1) by row parity."""
+    q = m[:, BURST].mean(1); q /= np.abs(q) + 1e-9
+    d = np.angle(q[1:] * np.conj(q[:-1]))              # about +-90 deg, alternating
+    s0 = 1 if (np.sin(d) * (-1.) ** np.arange(len(d))).sum() > 0 else -1
+    return q, s0 * (-1) ** np.arange(len(q))
+
+
+def rephase(t, k, o):
+    """Chroma of field k in picture order, each line re-referenced from the burst it was
+    transmitted with to the burst of the line it is moved to (PAL switch included)."""
+    mp, dcp = analytic(t.a[k - 1, LINE0:LINE0 + NL]); mk, dck = analytic(t.a[k, LINE0:LINE0 + NL])
+    qp, sp = burst_state(mp); qk, sk = burst_state(mk)
+    m = np.concatenate([mp[255:], mk[:255]]); q = np.concatenate([qp[255:], qk[:255]])
+    sw = np.concatenate([sp[255:], sk[:255]]); dc = np.concatenate([dcp[255:], dck[:255]])
+    w = m * np.conj(q)[:, None]
+    out = np.empty_like(m); out[o] = w; sw_o = np.empty_like(sw); sw_o[o] = sw; dc_o = np.empty_like(dc); dc_o[o] = dc
+    flip = sw_o != sk
+    out[flip] = np.conj(out[flip])
+    out *= qk[:, None]
+    c = (out * np.exp(0.5j * np.pi * np.arange(m.shape[1]))).real + dc_o[:, None]
+    return np.clip(np.round(c), 0, 65535).astype(np.uint16)
+
+
 def transmitted(t, k):
     """The 287 transmitted lines that carry the picture of field k (32 from field k-1)."""
     return np.concatenate([t.a[k - 1, LINE0 + 255:LINE0 + NL], t.a[k, LINE0:LINE0 + 255]])
@@ -180,7 +221,9 @@ def cmd_apply(a):
         stat[how] += 1
         for tt, fo in files:
             fld = np.array(tt.a[k])
-            if o is not None:
+            if o is not None and tt is not t and a.chroma_mode == 'burst':
+                fld[LINE0:LINE0 + NL, X0:] = rephase(tt, k, o)[:, X0:]
+            elif o is not None:
                 img = np.empty((NL, tt.w - X0), np.uint16)
                 img[o] = transmitted(tt, k)[:, X0:]
                 fld[LINE0:LINE0 + NL, X0:] = img
@@ -198,6 +241,8 @@ def main():
     p.set_defaults(fn=cmd_vbi)
     p = sub.add_parser('apply'); p.add_argument('tbc'); p.add_argument('cws'); p.add_argument('out')
     p.add_argument('--hacktv', required=True); p.add_argument('--chroma', nargs=2)
+    p.add_argument('--chroma-mode', choices=['burst', 'move'], default='burst',
+                   help='burst: re-reference each moved line to the burst of its new line (default); move: copy samples')
     p.add_argument('--search', action='store_true'); p.add_argument('--fields')
     p.add_argument('--min-rough', type=float, default=3000, help='search only fields rougher than this (16-bit TBC units)')
     p.set_defaults(fn=cmd_apply)
