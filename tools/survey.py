@@ -1,11 +1,12 @@
 """Survey a bttv PAL VBI capture (2048 samples x 32 rows per frame, unsigned 8 bit).
 
 usage: survey.py <file.vbi | file.flac | file.tbc | file.tbcy | file.tbcc | -> <outdir>
-Writes packets.bin (WST packets), vps.txt, l16.txt, summary.json, extra.npz (unknown lines, templates)."""
+Writes packets.bin (WST packets), vps.txt, l16.txt, dataline.txt (data line words 3/4 of lines 16/329,
+see dataline.py), summary.json, extra.npz (unknown lines, templates)."""
 import sys, os, json, numpy as np
 from collections import Counter, defaultdict
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import wst2, vps
+import wst2, vps, dataline
 from wstslice import slice_line
 from l16bits import bits_of
 from vbisource import iter_frames
@@ -80,3 +81,5 @@ json.dump(summary, open(os.path.join(outdir, 'summary.json'), 'w'), indent=1)
 np.savez_compressed(os.path.join(outdir, 'extra.npz'), amp_hist=np.array(amp_hist),
                     **{f'unk{r}': np.array(unk[r]) for r in unk}, **{f'unkf{r}': np.array(unk_frames[r]) for r in unk},
                     **{f'tmpl{r}': templates[r] for r in templates})
+vps_out.close()
+dataline.write(outdir)
