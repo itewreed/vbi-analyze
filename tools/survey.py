@@ -1,6 +1,6 @@
 """Survey a bttv PAL VBI capture (2048 samples x 32 rows per frame, unsigned 8 bit).
 
-usage: survey.py <file.vbi | -> <outdir>
+usage: survey.py <file.vbi | file.flac | file.tbc | file.tbcy | file.tbcc | -> <outdir>
 Writes packets.bin (WST packets), vps.txt, l16.txt, summary.json, extra.npz (unknown lines, templates)."""
 import sys, os, json, numpy as np
 from collections import Counter, defaultdict
@@ -8,11 +8,10 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import wst2, vps
 from wstslice import slice_line
 from l16bits import bits_of
+from vbisource import iter_frames
 HERR = wst2.HERR
 src, outdir = sys.argv[1], sys.argv[2]
 os.makedirs(outdir, exist_ok=True)
-FB = 65536
-f = sys.stdin.buffer if src == '-' else open(src, 'rb')
 pk_out = open(os.path.join(outdir, 'packets.bin'), 'wb')   # u32 frame, u8 row, u8 method, 45 bytes
 vps_out = open(os.path.join(outdir, 'vps.txt'), 'w')
 l16_out = open(os.path.join(outdir, 'l16.txt'), 'w')
@@ -25,11 +24,8 @@ fit_y, fit_b, refits = [], [], 0
 row_try = Counter(); row_ok = Counter()   # skip Viterbi on rows that never yield WST
 def emit(fr, r, method, b):
     pk_out.write(np.array([fr], '<u4').tobytes() + bytes([r, method]) + bytes(b[:45]))
-while True:
-    buf = f.read(FB * 64)
-    if not buf: break
-    n = len(buf) // FB
-    a = np.frombuffer(buf[:n * FB], np.uint8).reshape(n, 32, 2048)
+for a in iter_frames(src, 64):
+    n = len(a)
     black = np.median(a[:, :, 20:100], axis=2); top = np.percentile(a[:, :, 150:1950], 98, axis=2)
     amp = top - black
     for i in range(n):

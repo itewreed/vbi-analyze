@@ -34,6 +34,7 @@ This repository documents what was found in 376 captures (a first batch of 110 a
 | Sampling | 2048 samples per line, unsigned 8 bit, 35.46895 MHz (8 × PAL fsc) |
 | Frame | 32 rows (65,536 bytes): rows 0–15 = TV lines 7–22, rows 16–31 = TV lines 320–335 |
 | Storage | FLAC; decode with `flac -d --force-raw-format --sign=unsigned --endian=little file.flac` |
+| Also read | vhs-decode / ld-decode TBC files (`.tbc`, `.tbcy`; `.tbcc` with a warning), converted to the same layout by `tools/vbisource.py` |
 
 ## Tools
 
@@ -41,8 +42,9 @@ Python 3 with `numpy` and `numba` (plus `matplotlib` for plots). Install them wi
 
 | Script | Purpose |
 |---|---|
-| [tools/run_all.sh](tools/run_all.sh) | `run_all.sh <flac-dir> <out-dir> [jobs]`: decodes every FLAC capture on the fly and runs `survey.py` and `analyze.py` per tape |
-| [tools/survey.py](tools/survey.py) | `survey.py <file.vbi \| -> <outdir>`: classifies every active line as teletext, VPS/data line, 1 Mbit/s biphase, static or unknown, and writes `packets.bin`, `vps.txt`, `l16.txt`, `summary.json` and `extra.npz` |
+| [tools/run_all.sh](tools/run_all.sh) | `run_all.sh <capture-dir> <out-dir> [jobs]`: runs `survey.py` and `analyze.py` on every capture in the folder (`.flac`, `.tbc`, `.tbcy`, `.tbcc`); a chroma TBC is skipped when its luma file is present |
+| [tools/vbisource.py](tools/vbisource.py) | `vbisource.py info/raw/extract`: common reader for all capture formats. FLAC and raw bttv VBI are passed through; TBC lines 7–22 and 320–335 are resampled to the bttv grid (2 bttv samples per TBC sample, sample 0 = 7.17 µs after the line sync) with levels from the `.tbc.json`. `.tbcc` and `*_chroma.tbc` hold only chroma and give a warning |
+| [tools/survey.py](tools/survey.py) | `survey.py <capture \| -> <outdir>` (capture: `.flac`, `.vbi`, `.tbc`, `.tbcy`, `.tbcc`): classifies every active line as teletext, VPS/data line, 1 Mbit/s biphase, static or unknown, and writes `packets.bin`, `vps.txt`, `l16.txt`, `summary.json` and `extra.npz` |
 | [tools/analyze.py](tools/analyze.py) | `analyze.py <outdir>`: writes `report.txt` (row usage, magazines, headers, special packets) and majority-voted teletext pages |
 | [tools/cross.py](tools/cross.py) | `cross.py <survey-root>`: one-paragraph summary per tape (see [docs/tape-overview.txt](docs/tape-overview.txt)) |
 | [tools/dz.py](tools/dz.py) | `dz.py <survey-root>`: decodes all 15 words of data lines 16/329 per tape (see [docs/data-line-words.txt](docs/data-line-words.txt)) |

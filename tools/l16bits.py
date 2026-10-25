@@ -18,6 +18,6 @@ def bits_of(line):
 if __name__=='__main__':
     from collections import Counter
     p=sys.argv[1]; r=int(sys.argv[2])
-    raw=np.memmap(p,np.uint8,'r'); a=raw[:raw.size//65536*65536].reshape(-1,32,2048)
-    C=Counter(bits_of(a[f,r]) for f in range(0,len(a),7))
+    from vbisource import iter_frames
+    C=Counter(bits_of(b[i,0]) for b in iter_frames(p,63,rows=[r]) for i in range(0,len(b),7))
     for k,v in C.most_common(6): print(v,k,len(k) if k else 0)

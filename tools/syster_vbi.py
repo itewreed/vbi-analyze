@@ -6,7 +6,9 @@ hacktv (src/syster.c, src/syster-ca.c). The cipher and key tables are read from
 a local hacktv checkout at run time (--hacktv), they are not copied here.
 
 Input: .npy array (frames, rows, 2048) uint8 holding the four Syster rows of
-each frame in transmission order (bttv rows 7, 8, 23, 24 = lines 14, 15, 327, 328).
+each frame in transmission order (bttv rows 7, 8, 23, 24 = lines 14, 15, 327, 328),
+or any capture vbisource.py reads (.flac, .vbi, .tbc, .tbcy); those four rows are
+then read from it directly.
 
   syster_vbi.py train  lines.npy w.npy                    # fit the slicer equaliser
   syster_vbi.py decode lines.npy w.npy lines.pkl          # slice, check sync and CRC
@@ -15,6 +17,10 @@ each frame in transmission order (bttv rows 7, 8, 23, 24 = lines 14, 15, 327, 32
 """
 import argparse, os, pickle, re, sys, collections
 import numpy as np
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from vbisource import load_rows
+
+SYSTER_ROWS = [7, 8, 23, 24]
 
 SPB = 35.46895 / 4.4375                     # samples per bit, 284 fH NRZ
 SYNC = bytes([0x55, 0xD0, 0x18, 0x6C])
@@ -90,14 +96,14 @@ def fit(L, iters=4, log=print):
 
 
 def cmd_train(a):
-    arr = np.load(a.lines, mmap_mode='r')
+    arr = load_rows(a.lines, SYSTER_ROWS, (0, a.frames))
     L = [feats(r, timing(r)) for f in range(min(a.frames, arr.shape[0]))
          for r in np.array(arr[f]).astype(float)]
     np.save(a.weights, fit(L))
 
 
 def cmd_decode(a):
-    arr = np.load(a.lines, mmap_mode='r'); w = np.load(a.weights)
+    arr = load_rows(a.lines, SYSTER_ROWS); w = np.load(a.weights)
     out, good = [], 0
     for f in range(arr.shape[0]):
         fr = np.array(arr[f]).astype(float)

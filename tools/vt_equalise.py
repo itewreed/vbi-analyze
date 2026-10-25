@@ -2,7 +2,8 @@
 """Equalising teletext slicer for VHS recordings with heavy low-pass filtering.
 
 Input: a numpy array (frames, rows, 2048) of uint8 bttv raw VBI lines (35.46895 MHz),
-rows in transmission order. Steps:
+rows in transmission order, or any capture vbisource.py reads (.flac, .vbi, .tbc,
+.tbcy) together with --rows (bttv rows, e.g. 13,14,29,30). Steps:
   train   fit a linear equaliser (decision directed), then a decision-feedback
           equaliser (DFE), then refine the DFE on page headers whose fixed text
           (e.g. "ARD/ZDF Sa  7 Jun") is learned from the majority of headers.
@@ -16,8 +17,10 @@ Example:
   vt_equalise.py decode lines.npy w.npz pk.pkl --start 88 118
   vt_equalise.py pages pk.pkl pages.txt --png-dir png/
 """
-import argparse, collections, pickle, sys
+import argparse, collections, os, pickle, sys
 import numpy as np
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from vbisource import load_rows
 
 H = [0x15,0x02,0x49,0x5e,0x64,0x73,0x38,0x2f,0xd0,0xc7,0x8c,0x9b,0xa1,0xb6,0xfd,0xea]
 HAM = np.full(256, -1)
@@ -204,13 +207,19 @@ def main():
     sp = ap.add_subparsers(dest='cmd', required=True)
     t = sp.add_parser('train'); t.add_argument('lines'); t.add_argument('weights')
     d = sp.add_parser('decode'); d.add_argument('lines'); d.add_argument('weights'); d.add_argument('out')
-    for q in (t, d): q.add_argument('--start', nargs=2, type=float, default=(88, 118), help='sample window of the first run-in bit')
+    for q in (t, d):
+        q.add_argument('--start', nargs=2, type=float, default=(88, 118), help='sample window of the first run-in bit')
+        q.add_argument('--rows', help='bttv rows to read when the input is a capture, not a .npy')
     p = sp.add_parser('pages'); p.add_argument('packets'); p.add_argument('txt'); p.add_argument('--png-dir'); p.add_argument('--min-headers', type=int, default=2)
     a = ap.parse_args()
+    if a.cmd in ('train', 'decode'):
+        if not a.lines.lower().endswith('.npy') and not a.rows:
+            ap.error('--rows is needed when the input is a capture file')
+        lines = load_rows(a.lines, [int(r) for r in a.rows.split(',')] if a.rows else None)
     if a.cmd == 'train':
-        w, wf, wb = train(np.load(a.lines), *a.start); np.savez(a.weights, w=w, wf=wf, wb=wb)
+        w, wf, wb = train(lines, *a.start); np.savez(a.weights, w=w, wf=wf, wb=wb)
     elif a.cmd == 'decode':
-        W = np.load(a.weights); res = decode(np.load(a.lines), W['w'], W['wf'], W['wb'], *a.start)
+        W = np.load(a.weights); res = decode(lines, W['w'], W['wf'], W['wb'], *a.start)
         pickle.dump(res, open(a.out, 'wb')); print(len(res), 'packets')
     else:
         import os
