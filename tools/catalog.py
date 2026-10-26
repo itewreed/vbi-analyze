@@ -20,7 +20,11 @@ none, written by survey.py into <work>/<name>/ first. From it the tool reads
   * the programme schedule from the teletext pages: pages with at least three
     "hh.mm title" rows (ARD/ZDF: 160 ff, 170 ff, 180-185 in the early years, 300 ff
     later; other services wherever they are), majority-voted per segment;
-  * the VPS label (announced start time) of the programme on line 16.
+  * the VPS label (announced start time) of the programme on line 16;
+  * for Pro 7 recordings without teletext clock: the clock of the Channel VideoDat data
+    service, decoded with channel-videodat-decoder (found next to this repository, in
+    ~/git/repos_itewreed/ or via $VIDEODAT_DECODER): date and time packets every 5 s in the
+    1993 variant (sampled), the plain-text clock in the 1990 variant (whole capture).
 Every programme of the schedule that overlaps a segment is written as one CSV row. Where
 the teletext has no schedule (the third programmes often list only from 18:00), entries
 from --schedule files are used (default docs/schedules.csv; Sender;Datum;Uhrzeit;Sendung
@@ -106,6 +110,7 @@ FAMILIES = [
 ]
 FAMILY_RE = [(n, re.compile(r), c) for n, r, c in FAMILIES]
 FAMILY_CHANNEL = {n: c for n, r, c in FAMILIES}
+FAMILY_CHANNEL['VideoDat'] = 'Pro 7'                 # clock of the Pro 7 data service, see videodat_clock()
 # file name channel words
 FILE_CHANNEL = {
     'ard': 'ARD', 'zdf': 'ZDF', 'ndr': 'N3', 'n3': 'N3', 'br': 'Bayern 3', 'wdr': 'West 3', 'hr': 'Hessen 3',
@@ -317,6 +322,8 @@ def unwrap(off, ref):
 
 
 def segments(samples, nframes, tol=4.0, need=20):
+    if samples and all(pg == -2 for f, h, pg in samples):
+        tol, need = 15.0, 2                          # VideoDat: few samples, clock drifts against the frames
     """Split the capture where clock minus position jumps or the teletext service changes.
     A segment: dict(f0, f1, off, samples) with clock = off + frame / 25 (seconds, may pass 86400)."""
     timed = [(f, h) for f, h, pg in samples if h['sec'] is not None]
@@ -378,7 +385,7 @@ def segment_date(seg, samples, fn):
         k = 0
         if seg['off'] is not None and h['sec'] is not None:
             t = seg['off'] + f / FPS
-            if abs(unwrap(h['sec'] - f / FPS, seg['off']) - seg['off']) > 4:
+            if abs(unwrap(h['sec'] - f / FPS, seg['off']) - seg['off']) > (15 if pg == -2 else 4):
                 continue                         # header from another recording
             k = int(t // 86400)
         days[(h['day'], h['mon'], k)] += 1
@@ -712,6 +719,86 @@ def channel(seg, dl, ddr, fn, year):
 
 
 # ---------------------------------------------------------------- one capture
+# ---------------------------------------------------------------- Pro 7 VideoDat clock
+VIDEODAT = os.environ.get('VIDEODAT_DECODER') or next(
+    (p for p in (os.path.join(TOOLS, '..', '..', 'channel-videodat-decoder'),
+                 os.path.expanduser('~/git/repos_itewreed/channel-videodat-decoder'))
+     if os.path.exists(os.path.join(p, 'videodat_decoder.py'))), None)
+VD_WINDOW, VD_STEP = 15, 60                          # seconds decoded / distance of the samples
+
+
+def videodat_clock(capture, tmpdir):
+    """Clock samples from Pro 7 VideoDat (channel-videodat-decoder) for recordings without teletext:
+    1993 variant: clock packets (stream 01 type 06, date and time every 5 s); 1990 variant: the
+    plain-text clock between the packets (time only). A window of VD_WINDOW s is decoded every
+    VD_STEP s. Returns header-like samples [(frame, parsed, -2)]."""
+    if not VIDEODAT or os.path.isdir(capture):
+        return []
+    sys.path.insert(0, os.path.abspath(VIDEODAT))
+    import videodat_decoder as vd, videodat1990 as vd90
+    from vbisource import iter_frames
+    quiet = lambda *a, **k: None
+    out, variant = [], 'auto'
+    step = [VD_STEP]                                 # the 1990 variant sends its clock rarely: read all
+    raw = os.path.join(tmpdir, 'videodat_window_%d.vbi' % os.getpid())
+
+    def windows():
+        # one pass over the capture (a FLAC can only be read from the start)
+        buf, f0, pos = [], None, 0
+        for a in iter_frames(capture, 250):
+            for k in range(len(a)):
+                if step[0] == VD_WINDOW or (pos + k) % (step[0] * FPS) < VD_WINDOW * FPS:
+                    if f0 is None:
+                        f0 = pos + k
+                    buf.append(a[k])
+                elif buf:
+                    yield f0, buf
+                    buf, f0 = [], None
+            pos += len(a)
+        if buf:
+            yield f0, buf
+
+    for f0, buf in windows():
+        with open(raw, 'wb') as fh:
+            fh.write(np.ascontiguousarray(np.array(buf)).tobytes())
+        try:
+            cap = vd.read_vbi(raw, 2048, 32, None, quiet, VD_WINDOW, True, variant)
+        except SystemExit:
+            continue                                 # no data lines in this window
+        variant = cap.fmt.variant
+        if variant == '1990':
+            step[0] = VD_WINDOW
+        nb = cap.fmt.nbytes
+        if variant == '1993':
+            st = cap.stream()
+            items = cap.items
+            for x in vd.find_packets(st):
+                p = x.pay
+                if x.ok and p and x.A == 0x01 and p[0] == 0x06 and len(p) == 8:
+                    try:
+                        t = dt.datetime(1900 + p[1], p[2], p[3], p[4], p[5], p[6])
+                    except ValueError:
+                        continue
+                    f = f0 + items[min(x.pos // nb, len(items) - 1)][0]
+                    out.append((f, dict(sec=t.hour * 3600 + t.minute * 60 + t.second, day=t.day,
+                                        mon=t.month, yy=t.year % 100, wd=t.weekday(), fam='VideoDat'), -2))
+        else:
+            for label, st in vd90.split_channels(cap, quiet):
+                pk = vd90.find_packets(st)
+                for pos, txt in vd90.zwischentexte(st, pk):
+                    m = re.match(r'Uhrzeit (\d\d):(\d\d):(\d\d)$', txt)
+                    if m and int(m.group(1)) < 24:
+                        # position within the window from the share of bytes before it
+                        f = f0 + int(pos / max(len(st.data), 1) * len(buf))
+                        out.append((f, dict(sec=int(m.group(1)) * 3600 + int(m.group(2)) * 60 + int(m.group(3)),
+                                            day=None, mon=None, yy=None, wd=None, fam='VideoDat'), -2))
+    try:
+        os.remove(raw)
+    except OSError:
+        pass
+    return out
+
+
 def catalog_one(capture, survey):
     fn = from_filename(capture)
     S = json.load(open(os.path.join(survey, 'summary.json')))
@@ -720,8 +807,17 @@ def catalog_one(capture, survey):
     dl, labels = read_dataline(survey)
     ddr = read_ddr(survey)
     segs = segments(samples, nframes)
+    vdclock = False
+    if all(s['off'] is None for s in segs) and (fn['chan'] == 'pro7' or any(c == 0xD94 for *_, c in dl)):
+        # Pro 7 without teletext clock: clock of the VideoDat data service
+        vds = videodat_clock(capture, os.path.dirname(os.path.abspath(survey)))
+        if vds:
+            samples, vdclock = samples + vds, True
+            segs = segments(vds, nframes)
     for seg in segs:
         seg['date'], seg['dnote'] = segment_date(seg, samples, fn)
+        if vdclock:
+            seg['dnote'] = ('; '.join(x for x in (seg['dnote'], 'Uhrzeit aus VideoDat') if x))
         if seg['date'] is None and fn['date'] and 'x' not in ''.join(fn['date']):
             seg['date'], seg['dnote'] = dt.date(*map(int, fn['date'])), 'Datum aus Dateiname'
     for seg in segs:
