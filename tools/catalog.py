@@ -61,7 +61,7 @@ BAD = '~'                                                             # characte
 # VPS CNI (12 bit) of the German networks, from ETSI TR 101 231 (as in zvbi's network table),
 # with the names the channels had at the time of the tapes
 CNI = {
-    0xDC1: 'ARD', 0xDC2: 'ZDF', 0xDC3: 'ARD/ZDF Vormittagsprogramm', 0xDC4: 'ARD', 0xDC5: 'ARD',
+    0xDC1: 'ARD', 0xDC2: 'ZDF', 0xDC3: 'ARD/ZDF', 0xDC4: 'ARD', 0xDC5: 'ARD',
     0xDC7: '3sat', 0xDC8: 'Phoenix', 0xDC9: 'Kinderkanal', 0xDCA: 'ARD (BR regional)',
     0xDCB: 'Bayern 3', 0xDCC: 'Bayern 3', 0xDCD: 'Bayern 3', 0xDCE: 'ARD (HR regional)', 0xDCF: 'Hessen 3',
     0xDD0: 'ARD (NDR regional)', 0xDD1: 'ARD (NDR regional)', 0xDD2: 'ARD (NDR regional)',
@@ -97,7 +97,9 @@ FAMILIES = [
     ('SÜDWESTTEXT', r'S.DWEST.?TEXT|SWF.?TEXT|S3-TEXT', 'Südwest 3'),
     ('TSVT', r'TSVT', None),
     ('SAT.1-text', r'SAT.1.?[Tt]ext|SAT1TEXT|SAT.1', 'SAT.1'),
-    ('RTL-Text', r'RTL-?Text|RTL.?plus|RTLplus', 'RTL'),
+    ('RTL 2', r'RTL ?2|RTL ?II|RTL2', 'RTL 2'),
+    ('Super RTL', r'SUPER ?RTL|Super ?RTL', 'Super RTL'),
+    ('RTL-Text', r'RTL-?Text|RTL.?plus|RTLplus|RTL WORLD|RTL W.RLD', 'RTL'),
     ('PRO 7', r'PRO ?7|ProSieben', 'Pro 7'),
     ('TELE 5', r'TELE ?5', 'Tele 5'),
     ('PK Berlin', r'PK B.rl.n|P. Berlin', None),
@@ -105,8 +107,21 @@ FAMILIES = [
     ('SFB', r'SFB/ZENTRALE', 'SFB 3'),
     ('DFF', r'\bDFF\b', None),
     ('DDR-Test', r'TECHNISCHER VERSUCH', None),
+    ('ORB/MDR', r'ORB.MDR', None),                  # shared teletext of ORB and MDR in the mid-1990s
     ('MDR', r'\bMDR\b', 'MDR'),
+    ('ORB', r'\bORB\b', 'ORB'),
     ('3sat', r'3sat|3SAT', '3sat'),
+    ('Kabel 1', r'KABEL ?1|Kabel ?1', 'Kabel 1'),
+    ('INFOTEXT', r'INFOTEXT', None),                 # Telekom info service on Kabelkanal, no programme
+    ('VOX', r'\bVOX\b|\bvox\b', 'VOX'),
+    ('n-tv', r'\bn-tv\b|\bN-TV\b', 'n-tv'),
+    ('DSF', r'\bDSF\b', 'DSF'),
+    ('Eurosport', r'EUROSPORT|Eurosport', 'Eurosport'),
+    ('arte', r'\barte\b|\bARTE\b', 'arte'),
+    ('Phoenix', r'PHOENIX|phoenix', 'Phoenix'),
+    ('Kinderkanal', r'KI\.KA|KIKA|Kinderkanal', 'Kinderkanal'),
+    ('9Live', r'9 ?LIVE|9 ?Live|NEUN ?LIVE', '9Live'),
+    ('Premiere', r'PREMIERE|Premiere', 'Premiere'),
 ]
 FAMILY_RE = [(n, re.compile(r), c) for n, r, c in FAMILIES]
 FAMILY_CHANNEL = {n: c for n, r, c in FAMILIES}
@@ -118,7 +133,9 @@ FILE_CHANNEL = {
     'sat1': 'SAT.1', 'pro7': 'Pro 7', 'tele5': 'Tele 5', 'kabel1': 'Kabel 1', 'ddr1': 'DDR 1',
     'ddr2': 'DDR 2', 'dff': 'DFF', 'dff1': 'DFF 1', 'dff2': 'DFF 2', 'mdr': 'MDR', 'premiere': 'Premiere',
     'teleclub': 'Teleclub', '3sat': '3sat', 'vox': 'VOX', 'mkb': 'Kabel Berlin', 'pkberlin': 'Kabel Berlin',
-    'rias': 'RIAS-TV', 'tsvt': None, 'ardzdf': None,
+    'rias': 'RIAS-TV', 'tsvt': None, 'ardzdf': None, 'orb': 'ORB', 'orbmdr': None, 'kabelkanal': 'Kabel 1',
+    'rtl2': 'RTL 2', 'superrtl': 'Super RTL', 'ntv': 'n-tv', 'n-tv': 'n-tv', 'dsf': 'DSF', 'arte': 'arte',
+    'kika': 'Kinderkanal', 'phoenix': 'Phoenix', '9-live': '9Live', '9live': '9Live', 'eurosport': 'Eurosport',
 }
 DRITTE_OF_FILE = {'ndr': 'NDR', 'n3': 'NDR', 'br': 'BR', 'wdr': 'WDR', 'hr': 'HR', 'swf': 'SWF', 'sdr': 'SDR',
                   'sfb': 'SFB'}
@@ -167,9 +184,9 @@ def from_filename(path):
     if chan not in FILE_CHANNEL:
         known = [c for c in re.split(r'[-()]', chan) if c in FILE_CHANNEL and FILE_CHANNEL[c]]
         chan = known[0] if known else chan
-    m = re.search(r'(1[89]\d[\dx])-(\d\d|xx)-(\d\d|xx)', b)
+    m = re.search(r'((?:19|20)\d[\dx])-(\d\d|xx)-(\d\d|xx)', b)
     date = m.groups() if m else None
-    words = [t for t in tok[1:] if not re.match(r'^(1[89]\d[\dx](-.*)?|\d{4}\.|sp|lp|ep|fs\d+|hd\d+|hs\d+|take\d|vbi|nc|'
+    words = [t for t in tok[1:] if not re.match(r'^((19|20)\d[\dx](-.*)?|\d{4}\.|sp|lp|ep|fs\d+|hd\d+|hs\d+|take\d|vbi|nc|'
                                                r'hifi|a|chroma|sweep|tests?|montag|dienstag|mittwoch|donnerstag|'
                                                r'freitag|samstag|sonntag|xx.*|\d{4}-.*)$', t, re.I)]
     title = ' '.join(w.replace('-', ' ') for w in words if re.search('[a-z]', w, re.I))
@@ -214,6 +231,11 @@ def parse_header(s):
         if rx.search(s):
             r['fam'] = n
             break
+    else:
+        # unknown service: the name between page number and date, e.g. "KABEL 1"
+        m = re.match(r'^.{3,4}\s+([A-Za-zÄÖÜäöü][\w./ -]{1,14}?)\s{2,}', s)
+        if m and BAD not in m.group(1):
+            r['fam'] = m.group(1).strip().upper().replace(' ', '')
     return r
 
 
@@ -407,7 +429,7 @@ def segment_date(seg, samples, fn):
         if fy and 'x' not in fy:
             cands = [int(fy)]
         else:
-            lo, hi = (int(fy[:3]) * 10, int(fy[:3]) * 10 + 9) if fy else (1979, 1999)
+            lo, hi = (int(fy[:3]) * 10, int(fy[:3]) * 10 + 9) if fy else (1979, 2009)
             cands = list(range(lo, hi + 1))
     for y in cands:
         try:
@@ -456,12 +478,18 @@ def vote_rows(entries):
     return out
 
 
-TIME_ROW = re.compile(r'^ {0,4}([0-2Oo][0-9Oo])[.:,ß ]([0-5Oo][0-9Oo])\b(?: ?Uhr)?[!:]? +(?:[0-2]\d[0-5]\d +)?(\S.*)$')
+TIME_ROW = re.compile(r'^ {0,4}(?:[^\w\s] {0,2})?([0-2Oo][0-9Oo])[.:,ß ]([0-5Oo][0-9Oo])\b(?: ?Uhr)?[!:]? +(?:[0-2]\d[0-5]\d +)?(\S.*)$')
 CONT_ROW = re.compile(r'^ {6,}(\S.*)$')
-PAGE_DATE = re.compile(r'(\d{1,2})\. ?([A-Za-zÄäÖöÜü~]{3,10}|\d{1,2}\.)\s?(\d{4}|\d{2})?')
+PAGE_DATE = re.compile(r'(\d{1,2})\. ?([A-Za-zÄäÖöÜü~]{3,10}|\d{1,2}(?=[\s.]|$))\.?\s?(\d{4}|\d{2})?(?!\d)')
+CODE_DATE = re.compile(r'1D[0-9A-F]{3} +([0-3]\d)([01]\d)(\d\d)\b')
+DAY_WORDS = {'MONTAG': 0, 'DIENSTAG': 1, 'MITTWOCH': 2, 'DONNERSTAG': 3, 'FREITAG': 4, 'SAMSTAG': 5,
+             'SONNABEND': 5, 'SONNTAG': 6}
 MONTH_NAMES = ['januar', 'februar', 'märz', 'april', 'mai', 'juni', 'juli', 'august', 'september', 'oktober',
                'november', 'dezember']
-PAGE_CHANNEL = [(r'ZDF|ZWEITES', 'ZDF'), (r'ERSTES|ERSTEN|DEUTSCHESFERNSEHEN|ARD-PROGRAMM', 'ARD'),
+PAGE_CODE = {'101': 'ARD', '102': 'ZDF', '103': 'ARD+ZDF', '110': 'Bayern 3', '111': 'Bayern 3', '120': 'N3',
+             '202': 'ORB', '207': 'SAT.1', '217': 'SAT.1', '237': 'SAT.1', '256': 'SAT.1', '257': 'SAT.1',
+             '267': 'SAT.1', '220': 'Pro 7', '243': 'RTL'}
+PAGE_CHANNEL = [(r'ZDF|ZWEITES', 'ZDF'), (r'ERSTES|ERSTEN|(?<!WEST)DEUTSCHESFERNSEHEN|ARD-PROGRAMM', 'ARD'),
                 (r'EINSPLUS|EINS PLUS', 'Eins Plus'), (r'3SAT', '3sat'), (r'BAYER', 'Bayern 3'),
                 (r'HESSEN', 'Hessen 3'), (r'S.DWEST|SWF|SDR|SAAR', 'Südwest 3'), (r'WEST|WDR', 'West 3'),
                 (r'NORD|NDR|N3', 'N3'), (r'SFB', 'SFB 3')]
@@ -481,9 +509,9 @@ def clean_title(t):
 
 
 def month_of(w):
-    w = w.lower().replace('~', '')
-    if w.endswith('.') and w[:-1].isdigit():
-        return int(w[:-1])
+    w = w.lower().replace('~', '').rstrip('.')
+    if w.isdigit():
+        return int(w) if 1 <= int(w) <= 12 else None
     for i, n in enumerate(MONTH_NAMES):
         if len(w) >= 3 and (n.startswith(w[:3]) or sum(a == b for a, b in zip(w, n)) >= max(3, len(n) - 2)):
             return i + 1
@@ -508,8 +536,13 @@ def parse_schedule(rows, key, fam, seg_date):
             if re.match(r'^.{1,3} {2,}\S', title):     # damaged "Uhr" column of the 1980s pages
                 title = title[3:]
             title = clean_title(title)
-            if len(re.sub(r'[^A-Za-zÄÖÜäöüß]', '', title)) < 2:
+            if re.match(r'^(oo|\*)?\s*(=\s*stereo|bis\b|Ende\b|Sendeschlu)|^oo$', title, re.I):
+                entries.append([h * 60 + mi, '', 2])     # end of the last programme ("12.30 oo = stereo")
                 last = None
+                continue
+            if re.match(r'^-\s*\d', title) or len(re.sub(r'[^A-Za-zÄÖÜäöüß]', '', title)) < 2 or \
+                    (len(title) >= 12 and sum(c.isdigit() for c in title) > 0.25 * len(title)):
+                last = None                          # time range ("19.00 - 23.00 ...") or no title
                 continue
             entries.append([h * 60 + mi, title, 0])
             last = entries[-1]
@@ -535,7 +568,14 @@ def parse_schedule(rows, key, fam, seg_date):
         return None
     head = ' '.join(rows.get(n, '') for n in range(1, 7))
     date = None
-    for m in PAGE_DATE.finditer(head):
+    m = CODE_DATE.search(head)                       # "1D120 101088": programme code and date
+    if m:
+        try:
+            date = dt.date(1900 + int(m.group(3)) if int(m.group(3)) >= 50 else 2000 + int(m.group(3)),
+                           int(m.group(2)), int(m.group(1)))
+        except ValueError:
+            pass
+    for m in ([] if date else PAGE_DATE.finditer(head)):
         mo = month_of(m.group(2))
         d = int(m.group(1))
         if mo and 1 <= d <= 31:
@@ -548,27 +588,54 @@ def parse_schedule(rows, key, fam, seg_date):
                     pass
                 break
     flat = re.sub(r'[\s~]', '', head.upper())
+    if date is None and seg_date is not None:
+        # undated page: only for the day of the recording ("Heute") or a matching weekday
+        wd = [v for k, v in DAY_WORDS.items() if k in flat]
+        if (wd and seg_date.weekday() not in wd) or re.search(r'MORGEN|[ÜU]BERMORGEN', flat):
+            return None
     if re.search(r'H.RFUNK|RADIO', flat) or sum(bool(RADIO.match(t)) for _, t in out) * 2 >= len(out):
         return None                                  # radio programme
     letters = ''.join(re.sub(r'[^A-Za-zÄÖÜäöü]', '', t) for _, t in out)
     if letters and sum(c.isupper() for c in letters) > 0.7 * len(letters):
         return None                                  # radio pages and charts are in capitals
-    if sum(bool(re.search(r'\d+,\d+\s*$', t)) for _, t in out) * 3 >= len(out):
+    if sum(bool(re.search(r'\d+,\d+\s*%?\)?\s*$|\d+,\d+\s+\d+\s*$', t)) for _, t in out) * 3 >= len(out) or \
+            re.search(r'MARKTANTEIL|QUOTEN|ZUSCHAUER', flat):
         return None                                  # audience ratings (title, million, share)
-    if sum(bool(re.search(r'\b(Hbf|SBB|Bf)\b', t)) for _, t in out) * 3 >= len(out):
-        return None                                  # train departures (station, platform)
+    if sum(bool(re.search(r'\b(DM|ÜF|HP|AI|DZ|EZ|Abflug)\b|\bTuS\b|\bFC\b|\bSV\b|\d+:\d+\s*$', t))
+           for _, t in out) * 3 >= len(out):
+        return None                                  # travel offers, sports results
+    chans = set()
+    for _, t in out:
+        chans.update(re.findall(r'\b(ARD|ZDF|RTL|SAT\.?1|PRO ?7?|DSF|MTV|KABK?|VOX|3SAT|N3|B1|ORB|MDR|EURO|TELE ?5|'
+                                r'RTL ?2|n-tv|WDR|NDR|BR|HR|SWF)\s*\d*\s*$', t))
+    if len(chans) >= 3:
+        return None                                  # "now on TV" across several channels
+    trains = sum(bool(re.match(r'^ ?(IC|ICE|IR|RE|RB|EC|EN|D|E|SE|RE-BUS)\w* {1,4}\d{2,5}\b', rows.get(n, '')))
+                 for n in range(1, 24))
+    if re.search(r'DEUTSCHEBAHN|BAHNHOF|ABFAHRT|ANKUNFT|GLEIS|FLUGHAFEN|ABFLUG', flat) or trains >= 2 or \
+            sum(bool(re.search(r'\b(Hbf|SBB|Bf|Hauptbahnhof)\b|\d+ ?Min\b', t)) for _, t in out) * 3 >= len(out):
+        return None                                  # train and flight departures (station, platform)
     out = [e for e in out if not RADIO.match(e[1])]
     chan = None
-    code = re.search(r'1D10([123])', head)           # programme code on ARD/ZDF pages from about 1988
+    # programme code on the schedule pages from about 1988 ("1D101 240792"); the codes were
+    # matched to the channels by the VPS CNI of the recordings
+    code = re.search(r'1D([0-9A-F]{3})\b', head)
     if code:
-        chan = {'1': 'ARD', '2': 'ZDF', '3': 'ARD+ZDF'}[code.group(1)]
+        chan = PAGE_CODE.get(code.group(1))
+        if chan is None:
+            code = None
+    shared = fam in ('ARD/ZDF', 'ORB/MDR', 'TSVT', 'PK Berlin', None) or FAMILY_CHANNEL.get(fam) is None
     for rx, c in PAGE_CHANNEL:
-        if chan is None and re.search(rx, flat):
+        if chan is None and shared and re.search(rx, flat):
             chan = c
             break
+    if chan is None and fam == 'ORB/MDR':
+        o = sum(bool(re.search(r'Brandenburg|ORB', t)) for _, t in out)
+        d = sum(bool(re.search(r'MDR|Sachsen|Thüringen|Anhalt|Riverboat', t)) for _, t in out)
+        chan = 'ORB' if o > d else 'MDR' if d > o else None
     page = key[1]
     pnum = key[0] * 100 + (page >> 4) * 10 + (page & 15)
-    if fam == 'ARD/ZDF' or fam is None:
+    if fam == 'ARD/ZDF':
         # ARD/ZDF teletext: 120 ff ZDF today, 160 ff ARD, 170 ff ZDF, 180-189 third programmes in the
         # early years; later day pages 300 ff for both (with the programme code 1D101/1D102) and the third
         # programmes around 410 ff. Other pages are overviews, news or test pages; the radio pages
@@ -592,15 +659,20 @@ def parse_schedule(rows, key, fam, seg_date):
     return dict(entries=out, chan=chan, date=date, page=pnum)
 
 
-def schedules(pages, ranges, seg_date, fam):
-    """All schedule pages within the frame ranges: {channel: {start datetime: Counter(title)}}."""
+def schedules(pages, ranges, seg_date, fam, fam_chan=None):
+    """All schedule pages within the frame ranges: {channel: {start datetime: Counter(title)}}.
+    fam_chan: channel of each teletext service found in the capture, for services this tool
+    does not know by name."""
     sched = defaultdict(lambda: defaultdict(Counter))
     for key, ents in pages.items():
         e = [x for x in ents if any(f0 <= x[0] <= f1 for f0, f1 in ranges)]
         if len(e) < 3:
             continue
         rows = vote_rows(e)
-        sc = parse_schedule(rows, key, parse_header(rows.get(0, ''))['fam'] or fam, seg_date)
+        pfam = parse_header(rows.get(0, ''))['fam'] or fam
+        sc = parse_schedule(rows, key, pfam, seg_date)
+        if sc and not sc['chan'] and pfam not in FAMILY_CHANNEL and fam_chan:
+            sc['chan'] = fam_chan.get(pfam)
         if not sc or not sc['chan']:
             continue
         date = sc['date'] or seg_date
@@ -659,7 +731,7 @@ def programmes(entries, a, b):
         if (end - t).total_seconds() > 6 * 3600:
             end = t + dt.timedelta(hours=2)
         ov = (min(b, end) - max(a, t)).total_seconds()
-        if ov >= min(180, 0.5 * (b - a).total_seconds()) and ov > 0:
+        if title and ov >= min(180, 0.5 * (b - a).total_seconds()) and ov > 0:
             out.append((t, title, end))
     return out
 
@@ -829,13 +901,17 @@ def catalog_one(capture, survey):
     groups = defaultdict(list)
     for seg in segs:
         groups[seg['date']].append((seg['f0'], seg['f1']))
+    for seg in segs:
+        d = seg['date']
+        seg['chan'], seg['how'] = channel(seg, dl, ddr, fn, d.year if d else None)
+        if seg['chan'] == 'SFB 3' and d and d.year >= 1992:
+            seg['chan'] = 'B1'                       # SFB 3 became B1 in 1992
+    fam_chan = {s['fam']: s['chan'] for s in segs if s['fam'] and FAMILY_CHANNEL.get(s['fam']) is None and
+                s['fam'] not in ('ARD/ZDF', 'ORB/MDR', 'TSVT', 'PK Berlin', 'INFOTEXT')}
     cache = {}
     rows = []
     for seg in segs:
-        date, dnote = seg['date'], seg['dnote']
-        chan, how = channel(seg, dl, ddr, fn, date.year if date else None)
-        if chan == 'SFB 3' and date and date.year >= 1992:
-            chan = 'B1'                              # SFB 3 became B1 in 1992
+        date, dnote, chan, how = seg['date'], seg['dnote'], seg['chan'], seg['how']
         base = dict(coll=fn['coll'], tape=fn['tape'], chan=chan, file=os.path.basename(capture),
                     position='%s-%s' % (pos(seg['f0']), pos(seg['f1'])))
         if seg['off'] is not None and date is not None:
@@ -848,7 +924,7 @@ def catalog_one(capture, survey):
         if a is not None:
             g = date
             if g not in cache:
-                cache[g] = schedules(pages, groups[g], date, seg['fam'])
+                cache[g] = schedules(pages, groups[g], date, seg['fam'], fam_chan)
             sched = cache[g]
             if chan == 'ARD/ZDF':
                 # shared ARD/ZDF teletext and no data line: both programmes are candidates
@@ -894,8 +970,14 @@ def catalog_one(capture, survey):
     for r in rows:
         if 'Jahr unsicher' in r['how'] and r['date'] and fn['date']:
             r['date'] = r['date'][:6] + fn['date'][0]          # e.g. 30.11.198x
-        if r['chan'] == 'RTL' and r['date'] and int(r['date'][-4:]) < 1993:
+        try:
+            d = dt.datetime.strptime(r['date'], '%d.%m.%Y').date()
+        except ValueError:
+            d = None
+        if d and r['chan'] == 'RTL' and d.year < 1993:
             r['chan'] = 'RTL plus'                   # the name until 1992
+        if d and r['chan'] == 'Kabel 1' and d < dt.date(1995, 2, 28):
+            r['chan'] = 'Kabelkanal'                 # renamed Kabel 1 on 28 February 1995
     return merge_rows(rows)
 
 
