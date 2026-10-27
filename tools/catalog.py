@@ -33,13 +33,16 @@ from historical TV listings). Historical listings are not searchable online by d
 channel, so --gaps writes the recordings that are still unknown (channel, date, time,
 VPS label) as a list to look up.
 
-CSV (semicolon separated, UTF-8): Collection;Tape;Sendung;Sender;Datum;Uhrzeit
+CSV (semicolon separated, UTF-8):
+  Collection;Tape;Sendung;Sender;Datum;Uhrzeit;Aufnahme_von;Aufnahme_bis;Datei
   Collection  the number after "coll" in the file name, 0 if there is none
   Tape        the three-digit number after "tape" or "tape_"
   Uhrzeit     start of the programme as listed (hh:mm), or the start of the recording
               (hh:mm:ss) when the programme is unknown
---details adds Aufnahme_von;Aufnahme_bis (clock time of the recorded part), Position
-(h:mm:ss in the capture), Datei and Quelle (where the programme and channel came from).
+  Aufnahme_von, Aufnahme_bis  clock time of the recorded part of the programme
+  Datei       the capture file
+--details adds Position (h:mm:ss in the capture) and Quelle (where the programme and channel
+came from).
 """
 import argparse, csv, datetime as dt, glob, json, os, re, subprocess, sys
 from collections import Counter, defaultdict
@@ -1088,7 +1091,7 @@ def main():
     ap.add_argument('--schedule', action='append', default=[],
                     help='CSV with programme listings (Sender;Datum;Uhrzeit;Sendung), used where the '
                          'teletext has none')
-    ap.add_argument('--details', action='store_true', help='add recorded span, position, file and source')
+    ap.add_argument('--details', action='store_true', help='add position in the capture and source')
     ap.add_argument('--gaps', help='also write the recordings whose programme is unknown (channel, date and '
                                    'time to look up in historical listings) to this CSV')
     a = ap.parse_args()
@@ -1118,18 +1121,19 @@ def main():
             if err:
                 print('error in %s: %s' % (c, err), file=sys.stderr)
             results[c] = rows
-    head = ['Collection', 'Tape', 'Sendung', 'Sender', 'Datum', 'Uhrzeit']
+    head = ['Collection', 'Tape', 'Sendung', 'Sender', 'Datum', 'Uhrzeit', 'Aufnahme_von', 'Aufnahme_bis', 'Datei']
     if a.details:
-        head += ['Aufnahme_von', 'Aufnahme_bis', 'Position', 'Datei', 'Quelle']
+        head += ['Position', 'Quelle']
     n = 0
     with open(a.csvout, 'w', newline='', encoding='utf-8') as f:
         w = csv.writer(f, delimiter=';')
         w.writerow(head)
         for c in caps:
             for r in results.get(c, []):
-                row = [r['coll'], r['tape'], r['title'], r['chan'], r['date'], r['time']]
+                row = [r['coll'], r['tape'], r['title'], r['chan'], r['date'], r['time'], r['rec_a'], r['rec_b'],
+                       r['file']]
                 if a.details:
-                    row += [r['rec_a'], r['rec_b'], r['position'], r['file'], r['how']]
+                    row += [r['position'], r['how']]
                 w.writerow(row)
                 n += 1
     print('%s: %d rows from %d captures' % (a.csvout, n, len(results)), file=sys.stderr)
